@@ -12,9 +12,11 @@ Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — ga
 
 The refreshed download standardizes four name occurrences to θ and restores structured formatting across 52 source-reviewed reader passages: bullet and dashed lists, numbering, headings, tables, command blocks, and forum separators. The game patch corrects 35 affected structured passages; one four-item dialogue list uses a native continuation page. Hyperlink destinations and read-state IDs are preserved. The version remains 1.0.0; chapter titles, layout settings, movie-subtitle files, and saves are unchanged.
 
+The same-version English cleanup also updates eight non-explicit passages in the reader and game: the approved affectionate nickname Immy, conventional English sounds, and redundant transliteration. The forum handle Super Kunoichi and source-written brand/compound names are retained. Context-dependent explicit passages are not rewritten by this hotfix.
+
 If the earlier 1.0.0 patch is already installed, first restore it with `Restore.cmd` from the earlier package, then run `Install.cmd` from the refreshed download. Movie subtitles do not need to be reinstalled.
 
-Download SHA-256: `194a96dd63628e71e2baa854e4a94aa4b9f19131c7f00c9c970d9d766d641665`.
+Download SHA-256: `d704980a7d3b3d0ff0898697ee6f1bfac4624247fabcad097d7ae5bd9211a10d`.
 
 ## Website development
 
