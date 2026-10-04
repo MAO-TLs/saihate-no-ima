@@ -5,6 +5,7 @@ import type { ReactNode } from "react";
 import { createPortal } from "react-dom";
 import { previewPosition } from "./preview-position.mjs";
 import { passageHref } from "./location.mjs";
+import { scriptDataHref } from "./reader-data.mjs";
 import "./hyperlink-preview.css";
 
 type Language = "ja" | "en";
@@ -50,7 +51,7 @@ export function HyperlinkPreviewProvider({children}: {children: ReactNode}) {
     if (!requested || entries) return;
     const controller = new AbortController();
     setError("");
-    fetch("../script-data/hyperlink-entries.json", {signal: controller.signal})
+    fetch(scriptDataHref("hyperlink-entries.json"), {signal: controller.signal})
       .then(response => { if (!response.ok) throw new Error("Could not load hyperlink preview."); return response.json(); })
       .then(data => { if (data.schema !== "saihate-hyperlink-previews/1") throw new Error("Unsupported hyperlink preview data."); setEntries(data.entries); })
       .catch(reason => { if (!controller.signal.aborted) setError(reason.message); });

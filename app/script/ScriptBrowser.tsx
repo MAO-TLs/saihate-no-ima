@@ -1,6 +1,7 @@
 "use client";
 import { routeLabel } from "../route-label.mjs";
 import { readerCategories, readerCategoryId } from "../reader-categories.mjs";
+import { scriptDataHref } from "./reader-data.mjs";
 
 import {
   useDeferredValue,
@@ -530,7 +531,7 @@ function ScriptBrowserContent() {
   }, []);
 
   useEffect(() => {
-    fetch("../script-data/index.json")
+    fetch(scriptDataHref("index.json"))
       .then((response) => {
         if (!response.ok) throw new Error("Could not load the script index.");
         return response.json();
@@ -735,7 +736,7 @@ function ScriptBrowserContent() {
     if (!script) return;
 
     const controller = new AbortController();
-    fetch(`../script-data/${script.file}`, { signal: controller.signal })
+    fetch(scriptDataHref(script.file), { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error(`Could not load script ${scriptId}.`);
         return response.json();
@@ -916,7 +917,7 @@ function ScriptBrowserContent() {
 
     const controller = new AbortController();
     const filename = index.concordance?.file ?? "concordance.json";
-    fetch(`../script-data/${filename}`, { signal: controller.signal })
+    fetch(scriptDataHref(filename), { signal: controller.signal })
       .then((response) => {
         if (!response.ok) {
           throw new Error("Could not load the full-corpus concordance.");
