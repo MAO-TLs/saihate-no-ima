@@ -1,1 +1,66 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0100","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0100:000010","line":10,"sourceId":"0100:000010","speakerJa":"","speakerEn":"","japanese":"　クラスＣ＋の現象行使者。","english":"A Class C+ phenomenon operator.","hyperlinks":[{"start":11,"end":30,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}],"japaneseHyperlinks":[{"start":7,"end":12,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}]},{"ref":"saihate:hyperlinks:0100:000013","line":13,"sourceId":"0100:000013","speakerJa":"","speakerEn":"","japanese":"　\n　組織管理下にある現象行使者の中でも、特定方向の加減速処置を受けていない\n者、特異な個性を発揮していない者等を指す。\n　端的に言えば、平均的なＵＳＥＲを集めたクラスだ。","english":"Among phenomenon operators under organizational control, this class includes those who have undergone no targeted acceleration or deceleration, those who display no unusual individual traits, and so on. Put simply, this is the class for average USERs.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0100:000015","line":15,"sourceId":"0100:000015","speakerJa":"","speakerEn":"","japanese":"　当然ながらその数も最多であり、ＧＶＰの主要なユニットとして機能すること\nが期待されている。","english":"They are naturally the most numerous and are expected to serve as the GVP's primary units.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0100:000017","line":17,"sourceId":"0100:000017","speakerJa":"","speakerEn":"","japanese":"　\n　クラスＣ＋……コネクテッド・チルドレンとは、群として機能することが要求\nされる組織の中核となる能力者群である。","english":"Class C+—the Connected Children—are a core group of ability users within the organization, required to function as a group.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0100",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0100:000010",
+      "line": 10,
+      "sourceId": "0100:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＣ＋の現象行使者。",
+      "english": "A Class C+ phenomenon operator.",
+      "hyperlinks": [
+        {
+          "start": 11,
+          "end": 30,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 7,
+          "end": 12,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0100:000013",
+      "line": 13,
+      "sourceId": "0100:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　組織管理下にある現象行使者の中でも、特定方向の加減速処置を受けていない\n者、特異な個性を発揮していない者等を指す。\n　端的に言えば、平均的なＵＳＥＲを集めたクラスだ。",
+      "english": "Among phenomenon operators under organizational control, this class includes those who have undergone no targeted acceleration or deceleration, those who display no unusual individual traits, and so on. Put simply, this is the class for average USERs.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0100:000015",
+      "line": 15,
+      "sourceId": "0100:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　当然ながらその数も最多であり、ＧＶＰの主要なユニットとして機能すること\nが期待されている。",
+      "english": "They are naturally the most numerous and are expected to serve as the GVP's primary units.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0100:000017",
+      "line": 17,
+      "sourceId": "0100:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　クラスＣ＋……コネクテッド・チルドレンとは、群として機能することが要求\nされる組織の中核となる能力者群である。",
+      "english": "Class C+—the Connected Children—are a core group of ability users within the organization, required to function as a group.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

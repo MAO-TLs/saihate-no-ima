@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0152","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0152:000009","line":9,"sourceId":"0152:000009","speakerJa":"","speakerEn":"","japanese":"　World Health Organization","english":"World Health Organization","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0152:000012","line":12,"sourceId":"0152:000012","speakerJa":"","speakerEn":"","japanese":"　\n　世界保健機関。国際連合の専門機関。ＷＨＯは略称。\n　全人類に最高水準の健康ならびに衛生を与えることをその目的としていたが、\nこの戦争の後には存在しなくなる。","english":"World Health Organization. A specialized agency of the United Nations. WHO for short. Its objective was to provide all humanity with the highest possible standard of health and hygiene. After this war, however, it will cease to exist.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0152",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0152:000009",
+      "line": 9,
+      "sourceId": "0152:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　World Health Organization",
+      "english": "World Health Organization",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0152:000012",
+      "line": 12,
+      "sourceId": "0152:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　世界保健機関。国際連合の専門機関。ＷＨＯは略称。\n　全人類に最高水準の健康ならびに衛生を与えることをその目的としていたが、\nこの戦争の後には存在しなくなる。",
+      "english": "World Health Organization. A specialized agency of the United Nations. WHO for short. Its objective was to provide all humanity with the highest possible standard of health and hygiene. After this war, however, it will cease to exist.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

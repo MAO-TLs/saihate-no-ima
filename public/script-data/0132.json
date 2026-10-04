@@ -1,1 +1,407 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0132","lineCount":35,"lines":[{"ref":"saihate:hyperlinks:0132:000011","line":11,"sourceId":"0132:000011","speakerJa":"","speakerEn":"","japanese":"　……。","english":"…","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000012","line":12,"sourceId":"0132:000012","speakerJa":"","speakerEn":"","japanese":"　…………。","english":"……","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000013","line":13,"sourceId":"0132:000013","speakerJa":"","speakerEn":"","japanese":"　……………………。","english":"…………","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000014","line":14,"sourceId":"0132:000014","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（…………なんだ、ここは？）","english":"(……What is this place?)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000015","line":15,"sourceId":"0132:000015","speakerJa":"","speakerEn":"","japanese":"　周囲を知覚して、忍は戸惑う。","english":"Shinobu takes in his surroundings, bewildered.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000016","line":16,"sourceId":"0132:000016","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（何もない）","english":"(There's nothing here.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000017","line":17,"sourceId":"0132:000017","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（何一つない）","english":"(Not a single thing.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000018","line":18,"sourceId":"0132:000018","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（この領域は……なんなんだ？）","english":"(What… is this domain?)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000019","line":19,"sourceId":"0132:000019","speakerJa":"","speakerEn":"","japanese":"　そこにあったのは無だった。\n　何もない。\n　無情報だった。","english":"What lay there was nothingness. Nothing at all. An absence of information.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000020","line":20,"sourceId":"0132:000020","speakerJa":"","speakerEn":"","japanese":"　だが、厳密な無とは異なる。\n　心海の無とは、違う無だった。","english":"Yet it was not nothingness in the strict sense. It was a different void from that of the sea of the mind.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000022","line":22,"sourceId":"0132:000022","speakerJa":"","speakerEn":"","japanese":"　情報取得の不可能性に定義される未知なる領域（\nブラック・ドメイン）と、情報自体が存在していな\nい初期化前領域（ホワイト・ドメイン）では、受容","english":"An unknown domain defined by the impossibility of obtaining information (a Black Domain), and a pre-initialization domain in which information itself does not exist (a White Domain),","hyperlinks":[{"start":81,"end":87,"targetRef":"saihate:hyperlinks:0119:000009","preview":"The word “domain,” as used here, originally denotes a region or territory."}],"japaneseHyperlinks":[{"start":29,"end":33,"targetRef":"saihate:hyperlinks:0119:000009","preview":"The word “domain,” as used here, originally denotes a region or territory."}]},{"ref":"saihate:hyperlinks:0132:000023","line":23,"sourceId":"0132:000023","speakerJa":"","speakerEn":"","japanese":"感覚に差異がある。","english":"are perceived differently.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000024","line":24,"sourceId":"0132:000024","speakerJa":"","speakerEn":"","japanese":"　端的には、黒と白。","english":"In the simplest terms: black and white.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000025","line":25,"sourceId":"0132:000025","speakerJa":"","speakerEn":"","japanese":"　鋭敏な感性を持った人物であれば、あるいは異な\nった受け方もあるだろう。","english":"A person of unusually acute sensibility might perhaps perceive them differently.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000026","line":26,"sourceId":"0132:000026","speakerJa":"","speakerEn":"","japanese":"　そう、ここには何もない。","english":"Yes. There is nothing here.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000027","line":27,"sourceId":"0132:000027","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（……思考が、重い気がする）","english":"(…My thoughts feel sluggish.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000028","line":28,"sourceId":"0132:000028","speakerJa":"","speakerEn":"","japanese":"　意識を走らせるのに最適化されていないためだろう。","english":"Perhaps this place is not optimized for consciousness to move through it.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000029","line":29,"sourceId":"0132:000029","speakerJa":"","speakerEn":"","japanese":"　だが、なぜそんな場所にリンクがあったのか。\n　誰が張ったのか？","english":"But why was there a link to such a place? Who put it there?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000030","line":30,"sourceId":"0132:000030","speakerJa":"","speakerEn":"","japanese":"　少なくとも、誰かが一度ここに来たことは間違い\nない。","english":"At least one thing is certain: someone has visited this place before.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000031","line":31,"sourceId":"0132:000031","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（ビット腐敗は起こらない……ようだけど）","english":"(It doesn't seem… as though bit rot occurs here.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000032","line":32,"sourceId":"0132:000032","speakerJa":"","speakerEn":"","japanese":"　おそらくパーティションが切られているのだろう。","english":"The domain has likely been partitioned.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000033","line":33,"sourceId":"0132:000033","speakerJa":"","speakerEn":"","japanese":"　外方向に向いて解放された領域であったなら、情\n報の拡散と劣化は防げないためだ。","english":"If it were a domain left open to the outside, the diffusion and degradation of information would be unavoidable.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000034","line":34,"sourceId":"0132:000034","speakerJa":"","speakerEn":"","japanese":"　ふと足下を意識すると……テープで線が引かれて\nいた。体育館みたいに。","english":"When he turns his attention to his feet… he finds a line marked out with tape, like the markings on a gymnasium floor.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000035","line":35,"sourceId":"0132:000035","speakerJa":"忍","speakerEn":"Shinobu","japanese":"「？」","english":"“?”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000036","line":36,"sourceId":"0132:000036","speakerJa":"","speakerEn":"","japanese":"　見渡すと、ラインはずっと果てまで続いている。","english":"Looking around, he finds the line stretching far into the distance.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000037","line":37,"sourceId":"0132:000037","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（ああ、パーティション概念か……）","english":"(Ah. A conceptual partition…)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000038","line":38,"sourceId":"0132:000038","speakerJa":"","speakerEn":"","japanese":"　思い至ると忍は、ラインの内側に身を押し戻した。\n　線の外は、未開発地域だ。","english":"Realizing what it is, Shinobu draws himself back inside the line. Beyond it lies undeveloped territory.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000039","line":39,"sourceId":"0132:000039","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（広い）","english":"(It's vast.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000040","line":40,"sourceId":"0132:000040","speakerJa":"","speakerEn":"","japanese":"　圧倒的な、無の領域。\n　絶対的な、白。","english":"An overwhelming domain of nothingness. Absolute white.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000041","line":41,"sourceId":"0132:000041","speakerJa":"","speakerEn":"","japanese":"　忍は無に面する意識に、身を晒した。","english":"Shinobu leaves his consciousness exposed before the void.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000042","line":42,"sourceId":"0132:000042","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（誰かが確保した領域なんだろうな）","english":"(Someone must have reserved this space.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000043","line":43,"sourceId":"0132:000043","speakerJa":"","speakerEn":"","japanese":"　いつか、何かをするための建設予定地。\n　示唆していた。","english":"A future construction site, set aside for some purpose someday. It pointed toward—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000044","line":44,"sourceId":"0132:000044","speakerJa":"","speakerEn":"","japanese":"　未来を―――","english":"The future—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000045","line":45,"sourceId":"0132:000045","speakerJa":"","speakerEn":"","japanese":"　忍は顔を覆う。","english":"Shinobu covers his face.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0132:000046","line":46,"sourceId":"0132:000046","speakerJa":"","speakerEn":"","japanese":"　そしてゆっくりと、意識を引き戻したのであった。","english":"Then, slowly, he withdraws his consciousness.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0132",
+  "lineCount": 35,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0132:000011",
+      "line": 11,
+      "sourceId": "0132:000011",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　……。",
+      "english": "......",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000012",
+      "line": 12,
+      "sourceId": "0132:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　…………。",
+      "english": "............",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000013",
+      "line": 13,
+      "sourceId": "0132:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　……………………。",
+      "english": "........................",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000014",
+      "line": 14,
+      "sourceId": "0132:000014",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（…………なんだ、ここは？）",
+      "english": "(……What is this place?)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000015",
+      "line": 15,
+      "sourceId": "0132:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　周囲を知覚して、忍は戸惑う。",
+      "english": "Shinobu takes in his surroundings, bewildered.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000016",
+      "line": 16,
+      "sourceId": "0132:000016",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（何もない）",
+      "english": "(There's nothing here.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000017",
+      "line": 17,
+      "sourceId": "0132:000017",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（何一つない）",
+      "english": "(Not a single thing.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000018",
+      "line": 18,
+      "sourceId": "0132:000018",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（この領域は……なんなんだ？）",
+      "english": "(What… is this domain?)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000019",
+      "line": 19,
+      "sourceId": "0132:000019",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そこにあったのは無だった。\n　何もない。\n　無情報だった。",
+      "english": "What lay there was nothingness. Nothing at all. An absence of information.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000020",
+      "line": 20,
+      "sourceId": "0132:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　だが、厳密な無とは異なる。\n　心海の無とは、違う無だった。",
+      "english": "Yet it was not nothingness in the strict sense. It was a different void from that of the sea of the mind.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000022",
+      "line": 22,
+      "sourceId": "0132:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　情報取得の不可能性に定義される未知なる領域（\nブラック・ドメイン）と、情報自体が存在していな\nい初期化前領域（ホワイト・ドメイン）では、受容",
+      "english": "An unknown domain defined by the impossibility of obtaining information (a Black Domain), and a pre-initialization domain in which information itself does not exist (a White Domain),",
+      "hyperlinks": [
+        {
+          "start": 81,
+          "end": 87,
+          "targetRef": "saihate:hyperlinks:0119:000009",
+          "preview": "The word “domain,” as used here, originally denotes a region or territory."
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 29,
+          "end": 33,
+          "targetRef": "saihate:hyperlinks:0119:000009",
+          "preview": "The word “domain,” as used here, originally denotes a region or territory."
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000023",
+      "line": 23,
+      "sourceId": "0132:000023",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "感覚に差異がある。",
+      "english": "are perceived differently.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000024",
+      "line": 24,
+      "sourceId": "0132:000024",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　端的には、黒と白。",
+      "english": "In the simplest terms: black and white.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000025",
+      "line": 25,
+      "sourceId": "0132:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　鋭敏な感性を持った人物であれば、あるいは異な\nった受け方もあるだろう。",
+      "english": "A person of unusually acute sensibility might perhaps perceive them differently.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000026",
+      "line": 26,
+      "sourceId": "0132:000026",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そう、ここには何もない。",
+      "english": "Yes. There is nothing here.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000027",
+      "line": 27,
+      "sourceId": "0132:000027",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（……思考が、重い気がする）",
+      "english": "(…My thoughts feel sluggish.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000028",
+      "line": 28,
+      "sourceId": "0132:000028",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　意識を走らせるのに最適化されていないためだろう。",
+      "english": "Perhaps this place is not optimized for consciousness to move through it.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000029",
+      "line": 29,
+      "sourceId": "0132:000029",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　だが、なぜそんな場所にリンクがあったのか。\n　誰が張ったのか？",
+      "english": "But why was there a link to such a place? Who put it there?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000030",
+      "line": 30,
+      "sourceId": "0132:000030",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　少なくとも、誰かが一度ここに来たことは間違い\nない。",
+      "english": "At least one thing is certain: someone has visited this place before.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000031",
+      "line": 31,
+      "sourceId": "0132:000031",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（ビット腐敗は起こらない……ようだけど）",
+      "english": "(It doesn't seem… as though bit rot occurs here.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000032",
+      "line": 32,
+      "sourceId": "0132:000032",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　おそらくパーティションが切られているのだろう。",
+      "english": "The domain has likely been partitioned.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000033",
+      "line": 33,
+      "sourceId": "0132:000033",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　外方向に向いて解放された領域であったなら、情\n報の拡散と劣化は防げないためだ。",
+      "english": "If it were a domain left open to the outside, the diffusion and degradation of information would be unavoidable.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000034",
+      "line": 34,
+      "sourceId": "0132:000034",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ふと足下を意識すると……テープで線が引かれて\nいた。体育館みたいに。",
+      "english": "When he turns his attention to his feet… he finds a line marked out with tape, like the markings on a gymnasium floor.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000035",
+      "line": 35,
+      "sourceId": "0132:000035",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "「？」",
+      "english": "“?”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000036",
+      "line": 36,
+      "sourceId": "0132:000036",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　見渡すと、ラインはずっと果てまで続いている。",
+      "english": "Looking around, he finds the line stretching far into the distance.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000037",
+      "line": 37,
+      "sourceId": "0132:000037",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（ああ、パーティション概念か……）",
+      "english": "(Ah. A conceptual partition…)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000038",
+      "line": 38,
+      "sourceId": "0132:000038",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　思い至ると忍は、ラインの内側に身を押し戻した。\n　線の外は、未開発地域だ。",
+      "english": "Realizing what it is, Shinobu draws himself back inside the line. Beyond it lies undeveloped territory.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000039",
+      "line": 39,
+      "sourceId": "0132:000039",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（広い）",
+      "english": "(It's vast.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000040",
+      "line": 40,
+      "sourceId": "0132:000040",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　圧倒的な、無の領域。\n　絶対的な、白。",
+      "english": "An overwhelming domain of nothingness. Absolute white.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000041",
+      "line": 41,
+      "sourceId": "0132:000041",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　忍は無に面する意識に、身を晒した。",
+      "english": "Shinobu leaves his consciousness exposed before the void.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000042",
+      "line": 42,
+      "sourceId": "0132:000042",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（誰かが確保した領域なんだろうな）",
+      "english": "(Someone must have reserved this space.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000043",
+      "line": 43,
+      "sourceId": "0132:000043",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　いつか、何かをするための建設予定地。\n　示唆していた。",
+      "english": "A future construction site, set aside for some purpose someday. It pointed toward—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000044",
+      "line": 44,
+      "sourceId": "0132:000044",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　未来を―――",
+      "english": "The future—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000045",
+      "line": 45,
+      "sourceId": "0132:000045",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　忍は顔を覆う。",
+      "english": "Shinobu covers his face.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0132:000046",
+      "line": 46,
+      "sourceId": "0132:000046",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そしてゆっくりと、意識を引き戻したのであった。",
+      "english": "Then, slowly, he withdraws his consciousness.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

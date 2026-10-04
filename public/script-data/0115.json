@@ -1,1 +1,113 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0115","lineCount":7,"lines":[{"ref":"saihate:hyperlinks:0115:000009","line":9,"sourceId":"0115:000009","speakerJa":"","speakerEn":"","japanese":"　Imaginary Protocol Address","english":"Imaginary Protocol Address","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0115:000013","line":13,"sourceId":"0115:000013","speakerJa":"","speakerEn":"","japanese":"　\n　ＩＰによって各端末に振り分けられた、識別概念。\n　ＩＰパターンとも。\n　慣習上アドレスとも呼ばれている。","english":"An identifying concept assigned to each terminal by IP. Also known as an IP pattern. Conventionally called an address as well.","hyperlinks":[{"start":52,"end":54,"targetRef":"saihate:hyperlinks:0114:000009","preview":"Imaginary Protocol"}],"japaneseHyperlinks":[{"start":3,"end":5,"targetRef":"saihate:hyperlinks:0114:000009","preview":"Imaginary Protocol"}]},{"ref":"saihate:hyperlinks:0115:000015","line":15,"sourceId":"0115:000015","speakerJa":"","speakerEn":"","japanese":"　意識パターンと照応した、個別の識別符であり、一つの端末には一つの\nアドレスが振り分けられる。","english":"An individual identifier corresponding to a consciousness pattern. Each terminal is assigned a single address.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0115:000018","line":18,"sourceId":"0115:000018","speakerJa":"","speakerEn":"","japanese":"　\n　イマジナリー・ネットは軍用概念であり、匿名性は重視されない。","english":"The Imaginary Network is a military construct, and anonymity is not a priority.","hyperlinks":[{"start":4,"end":21,"targetRef":"saihate:hyperlinks:0116:000009","preview":"Also known as the Chemical Network (CN) or the Imaginary Network (IN)."}],"japaneseHyperlinks":[{"start":3,"end":13,"targetRef":"saihate:hyperlinks:0116:000009","preview":"Also known as the Chemical Network (CN) or the Imaginary Network (IN)."}]},{"ref":"saihate:hyperlinks:0115:000020","line":20,"sourceId":"0115:000020","speakerJa":"","speakerEn":"","japanese":"　ただし管理者側からの視点であり、端末同士の送受信においてはこの限りで\nはない。","english":"That is the view from the administrator's side; it does not necessarily apply to transmissions between terminals.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0115:000022","line":22,"sourceId":"0115:000022","speakerJa":"","speakerEn":"","japanese":"　\n　ＩＰパターンが特定されることは、個人への直接アクセスが可能になること\nを意味している。\n　生体ハッキングは容易なことではないが、少なくともターゲッティングされ\nれば危険性が増すことは確かである。","english":"Once an IP pattern has been identified, the individual can be accessed directly. Biological hacking is no simple matter, but there is no question that being targeted at least increases the risk.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0115:000024","line":24,"sourceId":"0115:000024","speakerJa":"","speakerEn":"","japanese":"　そのため、ＩＰパターンは一般ＵＳＥＲからは閲覧できないようにロックさ\nれている。","english":"IP patterns are therefore locked so that ordinary USERs cannot view them.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0115",
+  "lineCount": 7,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0115:000009",
+      "line": 9,
+      "sourceId": "0115:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　Imaginary Protocol Address",
+      "english": "Imaginary Protocol Address",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000013",
+      "line": 13,
+      "sourceId": "0115:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　ＩＰによって各端末に振り分けられた、識別概念。\n　ＩＰパターンとも。\n　慣習上アドレスとも呼ばれている。",
+      "english": "An identifying concept assigned to each terminal by IP. Also known as an IP pattern. Conventionally called an address as well.",
+      "hyperlinks": [
+        {
+          "start": 52,
+          "end": 54,
+          "targetRef": "saihate:hyperlinks:0114:000009",
+          "preview": "Imaginary Protocol"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 3,
+          "end": 5,
+          "targetRef": "saihate:hyperlinks:0114:000009",
+          "preview": "Imaginary Protocol"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000015",
+      "line": 15,
+      "sourceId": "0115:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　意識パターンと照応した、個別の識別符であり、一つの端末には一つの\nアドレスが振り分けられる。",
+      "english": "An individual identifier corresponding to a consciousness pattern. Each terminal is assigned a single address.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000018",
+      "line": 18,
+      "sourceId": "0115:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　イマジナリー・ネットは軍用概念であり、匿名性は重視されない。",
+      "english": "The Imaginary Network is a military construct, and anonymity is not a priority.",
+      "hyperlinks": [
+        {
+          "start": 4,
+          "end": 21,
+          "targetRef": "saihate:hyperlinks:0116:000009",
+          "preview": "Also known as the Chemical Network (CN) or the Imaginary Network (IN)."
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 3,
+          "end": 13,
+          "targetRef": "saihate:hyperlinks:0116:000009",
+          "preview": "Also known as the Chemical Network (CN) or the Imaginary Network (IN)."
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000020",
+      "line": 20,
+      "sourceId": "0115:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ただし管理者側からの視点であり、端末同士の送受信においてはこの限りで\nはない。",
+      "english": "That is the view from the administrator's side; it does not necessarily apply to transmissions between terminals.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000022",
+      "line": 22,
+      "sourceId": "0115:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　ＩＰパターンが特定されることは、個人への直接アクセスが可能になること\nを意味している。\n　生体ハッキングは容易なことではないが、少なくともターゲッティングされ\nれば危険性が増すことは確かである。",
+      "english": "Once an IP pattern has been identified, the individual can be accessed directly. Biological hacking is no simple matter, but there is no question that being targeted at least increases the risk.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0115:000024",
+      "line": 24,
+      "sourceId": "0115:000024",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そのため、ＩＰパターンは一般ＵＳＥＲからは閲覧できないようにロックさ\nれている。",
+      "english": "IP patterns are therefore locked so that ordinary USERs cannot view them.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

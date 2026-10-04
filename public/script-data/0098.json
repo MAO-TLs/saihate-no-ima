@@ -1,1 +1,198 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0098","lineCount":16,"lines":[{"ref":"saihate:hyperlinks:0098:000010","line":10,"sourceId":"0098:000010","speakerJa":"","speakerEn":"","japanese":"　クラスＢの現象行使者。","english":"A Class B phenomenon operator.","hyperlinks":[{"start":10,"end":29,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}],"japaneseHyperlinks":[{"start":6,"end":11,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}]},{"ref":"saihate:hyperlinks:0098:000013","line":13,"sourceId":"0098:000013","speakerJa":"","speakerEn":"","japanese":"　\n　現象行使者の力は、脳内活動によって発現されるものである。\n　外界に備わった既存の力に干渉することで熱力を生むものも多いが、いずれに\nしてもそれを起動するためのイグニッションキーはユーザー側にある。","english":"A phenomenon operator's power manifests through activity within the brain. Many generate thermal power by interfering with forces already present in the outside world, but in every case, the ignition key lies with the user.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000015","line":15,"sourceId":"0098:000015","speakerJa":"","speakerEn":"","japanese":"　\n　それは神経細胞（ニューロン）である。","english":"That key is the nerve cell—the neuron.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000017","line":17,"sourceId":"0098:000017","speakerJa":"","speakerEn":"","japanese":"　情報処理のために分化したこの細胞は、球形の本体と長い突起（神経軸索）か\nら構成されている。\n　各種イオンチャンネル（神経伝達物質の遊離機構）を有し、電気的パルスを送\n信する機能、他の神経細胞からのパルスを受信する受容体を持つ。","english":"This cell, specialized for processing information, consists of a spherical body and a long projection known as an axon. It has various ion channels—the mechanisms that release neurotransmitters—and can transmit electrical impulses; it also has receptors that receive impulses from other nerve cells.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000019","line":19,"sourceId":"0098:000019","speakerJa":"","speakerEn":"","japanese":"　ニューロンは細胞外液との間に、膜電位と呼ばれる電位差を持つ。","english":"A voltage difference known as the membrane potential exists between a neuron and the extracellular fluid.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000021","line":21,"sourceId":"0098:000021","speakerJa":"","speakerEn":"","japanese":"　膜電位は通常－７０ｍＶ前後だが、他の細胞からの入力などによって電位を上\n昇させていく。\n　刺激が少なければ再び－７０ｍＶに減少していくが、複数の受信が起こること\nで細胞が活性化し、送信を行う。\n　この状態をニューロンの発火と呼ぶ。","english":"The membrane potential ordinarily sits at around −70 mV, but rises in response to input from other cells and similar stimuli. If stimulation is weak, it falls back toward −70 mV. When multiple inputs arrive, however, the cell activates and begins transmitting. This state is known as neuronal firing.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000023","line":23,"sourceId":"0098:000023","speakerJa":"","speakerEn":"","japanese":"　送信情報は、軸索を通って末端に向かう。\n　隣のニューロンとの間には、わずかの距離があり、これを越境するため神経伝\n達物質を用いることは有名である。\n　こちらの速度に干渉することは難しい。\n　しかし軸索を伝わる速度を調整することはそう複雑ではない。","english":"The information being transmitted travels down the axon toward its terminal. A minute gap separates that terminal from the neighboring neuron; as is well known, neurotransmitters bridge that gap. The speed of this process is difficult to alter. The speed at which a signal travels along the axon, however, is not so difficult to adjust.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000025","line":25,"sourceId":"0098:000025","speakerJa":"","speakerEn":"","japanese":"　神経細胞の軸索は、シュワン細胞（オリゴデンドログリア細胞）によって被覆\nされ、絶縁されている。\n　これをミエリン鞘と呼び、被覆された神経を有髄線維と称する。\n　鞘は完全に軸索を取り巻いているわけではなく、一定間隔でわずかな隙間を空\nけている。\n　このランビエ絞輪と呼ばれる隙間を利用して、跳躍伝導が行われる。","english":"The axon of a nerve cell is covered and insulated by Schwann cells—or oligodendroglia. This covering is called the myelin sheath, and nerves so covered are known as myelinated fibers. The sheath does not surround the axon without interruption, but leaves small gaps at regular intervals. These gaps, known as nodes of Ranvier, enable saltatory conduction.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000027","line":27,"sourceId":"0098:000027","speakerJa":"","speakerEn":"","japanese":"　\n　絶縁されていない場合、近隣の神経繊維との電気的干渉によって混信が\n起こる。\n　たとえば無髄神経しか持たない単純な構造の生物には、この不効率を補うため\n神経そのものを太くして伝導速度を稼いでいるものもいる。","english":"Without insulation, electrical interference from nearby nerve fibers produces crosstalk. Some simple organisms possessing only unmyelinated nerves compensate for this inefficiency by making the nerves themselves thicker to increase conduction speed.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000029","line":29,"sourceId":"0098:000029","speakerJa":"","speakerEn":"","japanese":"　\n　電線は被覆されることで、導電性を高め漏電を抑制する。\n　しかし人体は体液で満たされており、非常に漏電が発生しやすい環境である。\n　特に軸索内部の伝導は、元来極めて効率が悪いのだ。\n　そこで減衰を抑えるため、ランビエ絞輪を利用する。","english":"Covering an electrical wire improves its conductivity and suppresses current leakage. The human body, however, is filled with fluid and provides an environment highly conducive to such leakage. Conduction within the axon is inherently and exceptionally inefficient. The nodes of Ranvier are therefore used to limit attenuation.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000031","line":31,"sourceId":"0098:000031","speakerJa":"","speakerEn":"","japanese":"　パルスが絞輪間を通過する際、絶縁されているとはいえ隙間がある以上、減衰\nは避けられない。\n　そこで絞輪ごとに新たな活動電位を発生させ、減衰を抑える。","english":"As an impulse passes between nodes, some attenuation is unavoidable despite the insulation because gaps remain. A new action potential is therefore generated at each node, limiting that attenuation.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000033","line":33,"sourceId":"0098:000033","speakerJa":"","speakerEn":"","japanese":"　また無髄神経ではパルスが順次伝導していくのに対し、有髄神経では剥き出し\nのランビエ絞輪にのみ伝達される。\n　途中が省略されるため、伝達速度は格段に跳ね上がる。\n　これが跳躍伝導である。","english":"In unmyelinated nerves, an impulse is conducted sequentially. In myelinated nerves, by contrast, transmission occurs only at the exposed nodes of Ranvier. Skipping the intervening sections increases the speed of transmission dramatically. This is saltatory conduction.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000035","line":35,"sourceId":"0098:000035","speakerJa":"","speakerEn":"","japanese":"　\n　人の神経伝達速度は最大秒速１２０メートルほどである。\n　人体のサイズに対しては充分な速度ではあるし、先に説明した無髄神経では秒\n速１メートル前後にまで下がることを考えれば、望みうる最善の構造であると言\nえる。\n　が、実戦ではそれでも不足することがある。","english":"Human nerve conduction reaches a maximum speed of approximately 120 meters per second. That is fast enough for a body of human dimensions, and considering that the unmyelinated nerves described above fall to approximately one meter per second, it is arguably the best structure one could hope for. Even so, it sometimes proves insufficient in actual combat.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000037","line":37,"sourceId":"0098:000037","speakerJa":"","speakerEn":"","japanese":"　そこでランビエ絞輪間の距離を調整し、各種ＡＴＰ等機能面全体に干渉する、\n高度な伝達速度加速技術が存在する。\n　クラスＡでも用いられている加速技術である。","english":"An advanced technology therefore exists that accelerates transmission by adjusting the intervals between nodes of Ranvier and manipulating the entire functional system, including its various ATP processes. This acceleration technology is also used in Class A.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000039","line":39,"sourceId":"0098:000039","speakerJa":"","speakerEn":"","japanese":"　同クラスではさらに化学物質生産速度自体にも調整が加えられているが、クラ\nスＢ＋では情報処速度の向上に主眼が置かれている。\n　スペックは固定され、クラスＡに求められる状況ごとの対応能力はオミットさ\nれている。","english":"In that class, the rate of chemical production itself is also adjusted. Class B+, however, emphasizes improvement of information-processing speed. Its capabilities are fixed; the capacity to adapt to different situations, required of Class A, has been omitted.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0098:000041","line":41,"sourceId":"0098:000041","speakerJa":"","speakerEn":"","japanese":"　\n　クラスＢ……ベルテッド・チルドレンとは、生化学的アプローチによってミエ\nリン・ベルトを調整された能力者たちである。","english":"Class B—the Belted Children—are ability users whose myelin belts have been adjusted through a biochemical approach.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0098",
+  "lineCount": 16,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0098:000010",
+      "line": 10,
+      "sourceId": "0098:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＢの現象行使者。",
+      "english": "A Class B phenomenon operator.",
+      "hyperlinks": [
+        {
+          "start": 10,
+          "end": 29,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 6,
+          "end": 11,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000013",
+      "line": 13,
+      "sourceId": "0098:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　現象行使者の力は、脳内活動によって発現されるものである。\n　外界に備わった既存の力に干渉することで熱力を生むものも多いが、いずれに\nしてもそれを起動するためのイグニッションキーはユーザー側にある。",
+      "english": "A phenomenon operator's power manifests through activity within the brain. Many generate thermal power by interfering with forces already present in the outside world, but in every case, the ignition key lies with the user.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000015",
+      "line": 15,
+      "sourceId": "0098:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　それは神経細胞（ニューロン）である。",
+      "english": "That key is the nerve cell—the neuron.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000017",
+      "line": 17,
+      "sourceId": "0098:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　情報処理のために分化したこの細胞は、球形の本体と長い突起（神経軸索）か\nら構成されている。\n　各種イオンチャンネル（神経伝達物質の遊離機構）を有し、電気的パルスを送\n信する機能、他の神経細胞からのパルスを受信する受容体を持つ。",
+      "english": "This cell, specialized for processing information, consists of a spherical body and a long projection known as an axon. It has various ion channels—the mechanisms that release neurotransmitters—and can transmit electrical impulses; it also has receptors that receive impulses from other nerve cells.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000019",
+      "line": 19,
+      "sourceId": "0098:000019",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ニューロンは細胞外液との間に、膜電位と呼ばれる電位差を持つ。",
+      "english": "A voltage difference known as the membrane potential exists between a neuron and the extracellular fluid.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000021",
+      "line": 21,
+      "sourceId": "0098:000021",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　膜電位は通常－７０ｍＶ前後だが、他の細胞からの入力などによって電位を上\n昇させていく。\n　刺激が少なければ再び－７０ｍＶに減少していくが、複数の受信が起こること\nで細胞が活性化し、送信を行う。\n　この状態をニューロンの発火と呼ぶ。",
+      "english": "The membrane potential ordinarily sits at around −70 mV, but rises in response to input from other cells and similar stimuli. If stimulation is weak, it falls back toward −70 mV. When multiple inputs arrive, however, the cell activates and begins transmitting. This state is known as neuronal firing.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000023",
+      "line": 23,
+      "sourceId": "0098:000023",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　送信情報は、軸索を通って末端に向かう。\n　隣のニューロンとの間には、わずかの距離があり、これを越境するため神経伝\n達物質を用いることは有名である。\n　こちらの速度に干渉することは難しい。\n　しかし軸索を伝わる速度を調整することはそう複雑ではない。",
+      "english": "The information being transmitted travels down the axon toward its terminal. A minute gap separates that terminal from the neighboring neuron; as is well known, neurotransmitters bridge that gap. The speed of this process is difficult to alter. The speed at which a signal travels along the axon, however, is not so difficult to adjust.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000025",
+      "line": 25,
+      "sourceId": "0098:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　神経細胞の軸索は、シュワン細胞（オリゴデンドログリア細胞）によって被覆\nされ、絶縁されている。\n　これをミエリン鞘と呼び、被覆された神経を有髄線維と称する。\n　鞘は完全に軸索を取り巻いているわけではなく、一定間隔でわずかな隙間を空\nけている。\n　このランビエ絞輪と呼ばれる隙間を利用して、跳躍伝導が行われる。",
+      "english": "The axon of a nerve cell is covered and insulated by Schwann cells—or oligodendroglia. This covering is called the myelin sheath, and nerves so covered are known as myelinated fibers. The sheath does not surround the axon without interruption, but leaves small gaps at regular intervals. These gaps, known as nodes of Ranvier, enable saltatory conduction.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000027",
+      "line": 27,
+      "sourceId": "0098:000027",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　絶縁されていない場合、近隣の神経繊維との電気的干渉によって混信が\n起こる。\n　たとえば無髄神経しか持たない単純な構造の生物には、この不効率を補うため\n神経そのものを太くして伝導速度を稼いでいるものもいる。",
+      "english": "Without insulation, electrical interference from nearby nerve fibers produces crosstalk. Some simple organisms possessing only unmyelinated nerves compensate for this inefficiency by making the nerves themselves thicker to increase conduction speed.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000029",
+      "line": 29,
+      "sourceId": "0098:000029",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　電線は被覆されることで、導電性を高め漏電を抑制する。\n　しかし人体は体液で満たされており、非常に漏電が発生しやすい環境である。\n　特に軸索内部の伝導は、元来極めて効率が悪いのだ。\n　そこで減衰を抑えるため、ランビエ絞輪を利用する。",
+      "english": "Covering an electrical wire improves its conductivity and suppresses current leakage. The human body, however, is filled with fluid and provides an environment highly conducive to such leakage. Conduction within the axon is inherently and exceptionally inefficient. The nodes of Ranvier are therefore used to limit attenuation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000031",
+      "line": 31,
+      "sourceId": "0098:000031",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　パルスが絞輪間を通過する際、絶縁されているとはいえ隙間がある以上、減衰\nは避けられない。\n　そこで絞輪ごとに新たな活動電位を発生させ、減衰を抑える。",
+      "english": "As an impulse passes between nodes, some attenuation is unavoidable despite the insulation because gaps remain. A new action potential is therefore generated at each node, limiting that attenuation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000033",
+      "line": 33,
+      "sourceId": "0098:000033",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　また無髄神経ではパルスが順次伝導していくのに対し、有髄神経では剥き出し\nのランビエ絞輪にのみ伝達される。\n　途中が省略されるため、伝達速度は格段に跳ね上がる。\n　これが跳躍伝導である。",
+      "english": "In unmyelinated nerves, an impulse is conducted sequentially. In myelinated nerves, by contrast, transmission occurs only at the exposed nodes of Ranvier. Skipping the intervening sections increases the speed of transmission dramatically. This is saltatory conduction.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000035",
+      "line": 35,
+      "sourceId": "0098:000035",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　人の神経伝達速度は最大秒速１２０メートルほどである。\n　人体のサイズに対しては充分な速度ではあるし、先に説明した無髄神経では秒\n速１メートル前後にまで下がることを考えれば、望みうる最善の構造であると言\nえる。\n　が、実戦ではそれでも不足することがある。",
+      "english": "Human nerve conduction reaches a maximum speed of approximately 120 meters per second. That is fast enough for a body of human dimensions, and considering that the unmyelinated nerves described above fall to approximately one meter per second, it is arguably the best structure one could hope for. Even so, it sometimes proves insufficient in actual combat.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000037",
+      "line": 37,
+      "sourceId": "0098:000037",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そこでランビエ絞輪間の距離を調整し、各種ＡＴＰ等機能面全体に干渉する、\n高度な伝達速度加速技術が存在する。\n　クラスＡでも用いられている加速技術である。",
+      "english": "An advanced technology therefore exists that accelerates transmission by adjusting the intervals between nodes of Ranvier and manipulating the entire functional system, including its various ATP processes. This acceleration technology is also used in Class A.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000039",
+      "line": 39,
+      "sourceId": "0098:000039",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　同クラスではさらに化学物質生産速度自体にも調整が加えられているが、クラ\nスＢ＋では情報処速度の向上に主眼が置かれている。\n　スペックは固定され、クラスＡに求められる状況ごとの対応能力はオミットさ\nれている。",
+      "english": "In that class, the rate of chemical production itself is also adjusted. Class B+, however, emphasizes improvement of information-processing speed. Its capabilities are fixed; the capacity to adapt to different situations, required of Class A, has been omitted.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0098:000041",
+      "line": 41,
+      "sourceId": "0098:000041",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　クラスＢ……ベルテッド・チルドレンとは、生化学的アプローチによってミエ\nリン・ベルトを調整された能力者たちである。",
+      "english": "Class B—the Belted Children—are ability users whose myelin belts have been adjusted through a biochemical approach.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

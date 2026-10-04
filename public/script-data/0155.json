@@ -1,1 +1,575 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0155","lineCount":49,"lines":[{"ref":"saihate:hyperlinks:0155:000011","line":11,"sourceId":"0155:000011","speakerJa":"","speakerEn":"","japanese":"　貴宮忍とシャーリー・磯下は、いつものように草\n原で昼寝をしている。","english":"Shinobu Atemiya and Shirley Isoshita are napping in the meadow as usual.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000012","line":12,"sourceId":"0155:000012","speakerJa":"","speakerEn":"","japanese":"　とは名ばかりで、実は公務である。\n　公務は姿勢を問わない。","english":"Or so they call it. In truth, they are on official duty. Official duty makes no demands on one's posture.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000013","line":13,"sourceId":"0155:000013","speakerJa":"","speakerEn":"","japanese":"　忍は脳内および脳外にてやりとりされる、送受信\n行為を手段としているからだ。","english":"Shinobu's work consists of transmitting and receiving information both inside and outside his brain.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000014","line":14,"sourceId":"0155:000014","speakerJa":"","speakerEn":"","japanese":"　休眠状態におけるネットは無法の場だった。\n　予想されていたほど、違法性の高い使用は数える\nほどしかなかった。","english":"While he lay dormant, the network had been a lawless place. Even so, truly criminal uses had been few and far between—far fewer than anticipated.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000015","line":15,"sourceId":"0155:000015","speakerJa":"","speakerEn":"","japanese":"　自治の概念が働き、モラルが形成されていたのだ。\n　モラルとは、他者との間に共有する約数のような\nものだ。","english":"It had developed its own system of self-rule, and with it, a morality. Morality is something like a common factor shared with other people.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000016","line":16,"sourceId":"0155:000016","speakerJa":"","speakerEn":"","japanese":"　この程度なら理解しても良いという、妥協ライン\nとも似ている。","english":"Or perhaps a line of compromise: this much, at least, I can understand.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000017","line":17,"sourceId":"0155:000017","speakerJa":"","speakerEn":"","japanese":"　考えてみれば、モラルは制定されるものではなく、\n発生するものである。","english":"Come to think of it, morality is not something imposed from above. It arises on its own.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000018","line":18,"sourceId":"0155:000018","speakerJa":"","speakerEn":"","japanese":"　なぜ無法だけが優勢にならないのか。\n　なせ規範が発生するのか―――","english":"Why does lawlessness not simply prevail? Why do norms arise—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000023","line":23,"sourceId":"0155:000023","speakerJa":"忍","speakerEn":"Shinobu","japanese":"「…………」","english":"“…………”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000024","line":24,"sourceId":"0155:000024","speakerJa":"","speakerEn":"","japanese":"　考えるのをやめた。\n　道徳哲学の問題になりそうだった。","english":"He stops there. This is threatening to turn into a question of moral philosophy.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000025","line":25,"sourceId":"0155:000025","speakerJa":"","speakerEn":"","japanese":"　何はともあれ、ネットは忍不在の間も維持されて\nきた。","english":"In any event, the network had been maintained throughout Shinobu's absence.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000027","line":27,"sourceId":"0155:000027","speakerJa":"","speakerEn":"","japanese":"　こと領域についてであれば、\nイマジナリー・ネットの保有するスペースは無限に\n近い。","english":"When it comes to territory, the Imaginary Net has nearly infinite space at its disposal.","hyperlinks":[{"start":32,"end":45,"targetRef":"saihate:hyperlinks:0116:000009","preview":"Also known as the Chemical Network (CN) or the Imaginary Network (IN)."}],"japaneseHyperlinks":[{"start":15,"end":25,"targetRef":"saihate:hyperlinks:0116:000009","preview":"Also known as the Chemical Network (CN) or the Imaginary Network (IN)."}]},{"ref":"saihate:hyperlinks:0155:000028","line":28,"sourceId":"0155:000028","speakerJa":"","speakerEn":"","japanese":"　物理ネットに比較し圧倒的少数の利用者しかいな\nいＩＮでは、問題にする時期ではないだろう。","english":"The IN has incomparably fewer users than the physical network, so this is hardly the time to worry about that problem.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000029","line":29,"sourceId":"0155:000029","speakerJa":"","speakerEn":"","japanese":"　戦争後も歴史が続き、メディアとしての発展が必\n要になった時……いわゆる空きスペースの活用には\nルールが設けられるだろう。","english":"If history continues after the war and the network must develop as a medium… rules will presumably be established for the use of what might be called vacant space.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000030","line":30,"sourceId":"0155:000030","speakerJa":"","speakerEn":"","japanese":"　つまり、今は考える必要のない問題である。","english":"In other words, it is not a problem he needs to think about now.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000031","line":31,"sourceId":"0155:000031","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（あとは……なんだろうな。\n　優先順位をあげないといけない問題……）","english":"(What else…? What still needs to be moved up the priority list…?)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000032","line":32,"sourceId":"0155:000032","speakerJa":"","speakerEn":"","japanese":"　穏やかな日差しと草の香りに身を委ねつつ、のん\nびりと思考にふける。","english":"He gives himself over to the gentle sunlight and the scent of grass, letting his thoughts drift lazily.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000033","line":33,"sourceId":"0155:000033","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（うん……だいたい、終わったかな……）","english":"(Mm… I think that's about everything…)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000034","line":34,"sourceId":"0155:000034","speakerJa":"","speakerEn":"","japanese":"　有力ノードの登録と配置も終わっている。\n　中継システムの機能は、現状ほぼ分散されている。\n　ルーティングに大きな問題は発生していない。","english":"The major nodes have all been registered and placed. Relay-system functions are now almost entirely distributed. No significant routing problems have arisen.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000035","line":35,"sourceId":"0155:000035","speakerJa":"","speakerEn":"","japanese":"　大気中の模倣子分布状況はグリーン（安全）で、\n物理層における警告はここ数年一度たりとも発せら\nれていない。","english":"The atmospheric distribution of mimetic units is green (safe), and not a single warning has been issued in the physical layer for several years.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000036","line":36,"sourceId":"0155:000036","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（……万全だ）","english":"(…We're fully prepared.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000037","line":37,"sourceId":"0155:000037","speakerJa":"","speakerEn":"","japanese":"　管理権限を開いてからこっち、保留されていた\n１１年分の各種システムからの要請処理にてんてこ\nまいだったが、ようやく落ち着いたらしい。","english":"Since activating his administrative authority, Shinobu has been run ragged processing eleven years' worth of backlogged requests from every system, but at last things appear to have settled down.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000038","line":38,"sourceId":"0155:000038","speakerJa":"","speakerEn":"","japanese":"　有志の研究家たちによる、システム・モジュール\n開発も負荷軽減に大きく貢献している。","english":"System modules developed by volunteer researchers have also contributed greatly to easing the burden.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000039","line":39,"sourceId":"0155:000039","speakerJa":"","speakerEn":"","japanese":"　彼らチームのいくつかは、すでに群像委員会直轄\nの開発機関として認定された。","english":"Some of those teams have already been accredited as development bodies under the direct authority of the Ensemble Committee.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000040","line":40,"sourceId":"0155:000040","speakerJa":"","speakerEn":"","japanese":"　忍の指示だ。\n　中には、公認を辞退しフリーの立場で開発を続け\nているところもあるようだが……。","english":"At Shinobu's direction. Some, however, seem to have declined accreditation and continued their work as independent developers…","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000041","line":41,"sourceId":"0155:000041","speakerJa":"","speakerEn":"","japanese":"　いずれにしても、彼らＵＳＥＲの本業は今やノー\nドとしてそこに在り続けることのみだ。","english":"In any event, these USERs' sole occupation now is to go on existing there as nodes.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000042","line":42,"sourceId":"0155:000042","speakerJa":"","speakerEn":"","japanese":"　基本的に余暇の利用は、個々人の裁量に任せられ\nるべきだろう。","english":"As a rule, how they spend their leisure should be left to each individual's discretion.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000043","line":43,"sourceId":"0155:000043","speakerJa":"","speakerEn":"","japanese":"　接続者数も増えた。\n　忍直属であるアンダーグラウンドの面々により、\n下位ノードの負担が軽減されたためだ。","english":"The connected population has increased as well. Members of the Underground under Shinobu's direct command have reduced the burden on lower-tier nodes.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000044","line":44,"sourceId":"0155:000044","speakerJa":"","speakerEn":"","japanese":"　これにより、読解能力不足から従来はネットワー\nクの閲覧ができなかったＵＳＥＲたちも、参加する\nことができるようになった。","english":"As a result, USERs whose limited interpretive abilities once kept them from viewing the network can now participate.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000045","line":45,"sourceId":"0155:000045","speakerJa":"","speakerEn":"","japanese":"　接続者が増えれば、ネットワークは向上する。\n　全体の強度は、無管理時に比べ２５６倍程度にま\nで上昇していた。","english":"The more people connect, the stronger the network becomes. Its overall strength has risen to approximately 256 times its unmanaged level.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000046","line":46,"sourceId":"0155:000046","speakerJa":"","speakerEn":"","japanese":"　なおかつ、ＩＮのポテンシャルは、まだ予想され\nた仕様の１％も発揮されていない。","english":"Even so, the IN has yet to display even 1% of its projected potential.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000047","line":47,"sourceId":"0155:000047","speakerJa":"","speakerEn":"","japanese":"　対群体の渦中に、どれだけの限界性能を発揮する\nことができるか。","english":"How much of its ultimate performance can it bring to bear in the struggle against the collective?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000048","line":48,"sourceId":"0155:000048","speakerJa":"","speakerEn":"","japanese":"　今回の戦争の、大きな焦点であった。","english":"That is one of the central questions of this war.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000049","line":49,"sourceId":"0155:000049","speakerJa":"","speakerEn":"","japanese":"　協定世界時情報に基づく、正確無比な午後三時。\n　忍の内部にある棚から、一つのメモ書きが自身に\n送信された。","english":"At three in the afternoon, timed to absolute precision using Coordinated Universal Time data, a memo from the shelves inside Shinobu transmits itself to him.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000050","line":50,"sourceId":"0155:000050","speakerJa":"","speakerEn":"","japanese":"　目覚まし時計みたいなものである。\n　記憶という行為が記録にとってかわってしまった\n忍である。","english":"It is much like an alarm clock. For Shinobu, the act of remembering has given way entirely to recording.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000051","line":51,"sourceId":"0155:000051","speakerJa":"","speakerEn":"","japanese":"　閲覧して、遅まきに思い出すことになる。","english":"He consults the record and remembers belatedly.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000052","line":52,"sourceId":"0155:000052","speakerJa":"忍","speakerEn":"Shinobu","japanese":"（ああ……そうか。これは僕のサインを入れて\n　出すつもりだったんだ）","english":"(Oh… right. I meant to sign this and send it out.)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000053","line":53,"sourceId":"0155:000053","speakerJa":"","speakerEn":"","japanese":"　実行した。","english":"He does so.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000068","line":68,"sourceId":"0155:000068","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「おわ、なんか来ました……」","english":"“Whoa, something just came in…”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000069","line":69,"sourceId":"0155:000069","speakerJa":"","speakerEn":"","japanese":"　隣でうたた寝をしていたシャーリーが、起きた。\n　忍はくすくすと笑う。","english":"Shirley, who has been dozing beside him, wakes. Shinobu chuckles.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000071","line":71,"sourceId":"0155:000071","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「あ、これがメールですか？　あ、あ、なんか強制\n　的に受け取らされた……あら、隊長から？」","english":"“Oh, is this email? Ah—something just made me accept it whether I wanted to or not… Huh? From you, Captain?”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000073","line":73,"sourceId":"0155:000073","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「隣にいるんだから、口で言えばいいんじゃないで\n　すか？」","english":"“You're sitting right beside me. Couldn't you just say it out loud?”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000074","line":74,"sourceId":"0155:000074","speakerJa":"忍","speakerEn":"Shinobu","japanese":"「全員に出してあるんだよ。戦時の政府公報と同じ\n　レベルの閲覧義務があるから、ちゃんと目を通し\n　ておくように」","english":"“I sent it to everyone. Reading it is every bit as mandatory as reading a wartime government bulletin, so make sure you look it over.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000076","line":76,"sourceId":"0155:000076","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「ああ、なるほど……\n　でもコレ、なんか難しくて……脳がかゆい……」","english":"“Oh, I see… But this is so complicated… My brain itches…”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000078","line":78,"sourceId":"0155:000078","speakerJa":"忍","speakerEn":"Shinobu","japanese":"「じゃ、小さい子向け」","english":"“Then try the little-kid version.”","hyperlinks":[{"start":14,"end":32,"targetRef":"saihate:hyperlinks:0141:000009","preview":"The government has a very important announcement for all you USERs. Please read this email carefully"}],"japaneseHyperlinks":[{"start":4,"end":10,"targetRef":"saihate:hyperlinks:0141:000009","preview":"The government has a very important announcement for all you USERs. Please read this email carefully"}]},{"ref":"saihate:hyperlinks:0155:000094","line":94,"sourceId":"0155:000094","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「うわぁ、小官はこんな知能低くないですー！」","english":"“Hey! This officer isn't that stupid!”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000095","line":95,"sourceId":"0155:000095","speakerJa":"忍","speakerEn":"Shinobu","japanese":"「あはは」","english":"“Ahaha.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000097","line":97,"sourceId":"0155:000097","speakerJa":"シャーリー","speakerEn":"Shirley","japanese":"「なんでこんなことには手間暇かけますかー！」","english":"“Why would you spend this much time and effort on something like this?!”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0155:000098","line":98,"sourceId":"0155:000098","speakerJa":"","speakerEn":"","japanese":"　隊長と部下の、のどかな午後であった。","english":"A peaceful afternoon for captain and subordinate.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0155",
+  "lineCount": 49,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0155:000011",
+      "line": 11,
+      "sourceId": "0155:000011",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　貴宮忍とシャーリー・磯下は、いつものように草\n原で昼寝をしている。",
+      "english": "Shinobu Atemiya and Shirley Isoshita are napping in the meadow as usual.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000012",
+      "line": 12,
+      "sourceId": "0155:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　とは名ばかりで、実は公務である。\n　公務は姿勢を問わない。",
+      "english": "Or so they call it. In truth, they are on official duty. Official duty makes no demands on one's posture.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000013",
+      "line": 13,
+      "sourceId": "0155:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　忍は脳内および脳外にてやりとりされる、送受信\n行為を手段としているからだ。",
+      "english": "Shinobu's work consists of transmitting and receiving information both inside and outside his brain.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000014",
+      "line": 14,
+      "sourceId": "0155:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　休眠状態におけるネットは無法の場だった。\n　予想されていたほど、違法性の高い使用は数える\nほどしかなかった。",
+      "english": "While he lay dormant, the network had been a lawless place. Even so, truly criminal uses had been few and far between—far fewer than anticipated.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000015",
+      "line": 15,
+      "sourceId": "0155:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　自治の概念が働き、モラルが形成されていたのだ。\n　モラルとは、他者との間に共有する約数のような\nものだ。",
+      "english": "It had developed its own system of self-rule, and with it, a morality. Morality is something like a common factor shared with other people.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000016",
+      "line": 16,
+      "sourceId": "0155:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　この程度なら理解しても良いという、妥協ライン\nとも似ている。",
+      "english": "Or perhaps a line of compromise: this much, at least, I can understand.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000017",
+      "line": 17,
+      "sourceId": "0155:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　考えてみれば、モラルは制定されるものではなく、\n発生するものである。",
+      "english": "Come to think of it, morality is not something imposed from above. It arises on its own.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000018",
+      "line": 18,
+      "sourceId": "0155:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　なぜ無法だけが優勢にならないのか。\n　なせ規範が発生するのか―――",
+      "english": "Why does lawlessness not simply prevail? Why do norms arise—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000023",
+      "line": 23,
+      "sourceId": "0155:000023",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "「…………」",
+      "english": "“…………”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000024",
+      "line": 24,
+      "sourceId": "0155:000024",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　考えるのをやめた。\n　道徳哲学の問題になりそうだった。",
+      "english": "He stops there. This is threatening to turn into a question of moral philosophy.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000025",
+      "line": 25,
+      "sourceId": "0155:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　何はともあれ、ネットは忍不在の間も維持されて\nきた。",
+      "english": "In any event, the network had been maintained throughout Shinobu's absence.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000027",
+      "line": 27,
+      "sourceId": "0155:000027",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　こと領域についてであれば、\nイマジナリー・ネットの保有するスペースは無限に\n近い。",
+      "english": "When it comes to territory, the Imaginary Net has nearly infinite space at its disposal.",
+      "hyperlinks": [
+        {
+          "start": 32,
+          "end": 45,
+          "targetRef": "saihate:hyperlinks:0116:000009",
+          "preview": "Also known as the Chemical Network (CN) or the Imaginary Network (IN)."
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 15,
+          "end": 25,
+          "targetRef": "saihate:hyperlinks:0116:000009",
+          "preview": "Also known as the Chemical Network (CN) or the Imaginary Network (IN)."
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000028",
+      "line": 28,
+      "sourceId": "0155:000028",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　物理ネットに比較し圧倒的少数の利用者しかいな\nいＩＮでは、問題にする時期ではないだろう。",
+      "english": "The IN has incomparably fewer users than the physical network, so this is hardly the time to worry about that problem.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000029",
+      "line": 29,
+      "sourceId": "0155:000029",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　戦争後も歴史が続き、メディアとしての発展が必\n要になった時……いわゆる空きスペースの活用には\nルールが設けられるだろう。",
+      "english": "If history continues after the war and the network must develop as a medium… rules will presumably be established for the use of what might be called vacant space.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000030",
+      "line": 30,
+      "sourceId": "0155:000030",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　つまり、今は考える必要のない問題である。",
+      "english": "In other words, it is not a problem he needs to think about now.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000031",
+      "line": 31,
+      "sourceId": "0155:000031",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（あとは……なんだろうな。\n　優先順位をあげないといけない問題……）",
+      "english": "(What else…? What still needs to be moved up the priority list…?)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000032",
+      "line": 32,
+      "sourceId": "0155:000032",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　穏やかな日差しと草の香りに身を委ねつつ、のん\nびりと思考にふける。",
+      "english": "He gives himself over to the gentle sunlight and the scent of grass, letting his thoughts drift lazily.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000033",
+      "line": 33,
+      "sourceId": "0155:000033",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（うん……だいたい、終わったかな……）",
+      "english": "(Mm… I think that's about everything…)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000034",
+      "line": 34,
+      "sourceId": "0155:000034",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　有力ノードの登録と配置も終わっている。\n　中継システムの機能は、現状ほぼ分散されている。\n　ルーティングに大きな問題は発生していない。",
+      "english": "The major nodes have all been registered and placed. Relay-system functions are now almost entirely distributed. No significant routing problems have arisen.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000035",
+      "line": 35,
+      "sourceId": "0155:000035",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　大気中の模倣子分布状況はグリーン（安全）で、\n物理層における警告はここ数年一度たりとも発せら\nれていない。",
+      "english": "The atmospheric distribution of mimetic units is green (safe), and not a single warning has been issued in the physical layer for several years.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000036",
+      "line": 36,
+      "sourceId": "0155:000036",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（……万全だ）",
+      "english": "(…We're fully prepared.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000037",
+      "line": 37,
+      "sourceId": "0155:000037",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　管理権限を開いてからこっち、保留されていた\n１１年分の各種システムからの要請処理にてんてこ\nまいだったが、ようやく落ち着いたらしい。",
+      "english": "Since activating his administrative authority, Shinobu has been run ragged processing eleven years' worth of backlogged requests from every system, but at last things appear to have settled down.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000038",
+      "line": 38,
+      "sourceId": "0155:000038",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　有志の研究家たちによる、システム・モジュール\n開発も負荷軽減に大きく貢献している。",
+      "english": "System modules developed by volunteer researchers have also contributed greatly to easing the burden.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000039",
+      "line": 39,
+      "sourceId": "0155:000039",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　彼らチームのいくつかは、すでに群像委員会直轄\nの開発機関として認定された。",
+      "english": "Some of those teams have already been accredited as development bodies under the direct authority of the Ensemble Committee.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000040",
+      "line": 40,
+      "sourceId": "0155:000040",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　忍の指示だ。\n　中には、公認を辞退しフリーの立場で開発を続け\nているところもあるようだが……。",
+      "english": "At Shinobu's direction. Some, however, seem to have declined accreditation and continued their work as independent developers…",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000041",
+      "line": 41,
+      "sourceId": "0155:000041",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　いずれにしても、彼らＵＳＥＲの本業は今やノー\nドとしてそこに在り続けることのみだ。",
+      "english": "In any event, these USERs' sole occupation now is to go on existing there as nodes.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000042",
+      "line": 42,
+      "sourceId": "0155:000042",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　基本的に余暇の利用は、個々人の裁量に任せられ\nるべきだろう。",
+      "english": "As a rule, how they spend their leisure should be left to each individual's discretion.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000043",
+      "line": 43,
+      "sourceId": "0155:000043",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　接続者数も増えた。\n　忍直属であるアンダーグラウンドの面々により、\n下位ノードの負担が軽減されたためだ。",
+      "english": "The connected population has increased as well. Members of the Underground under Shinobu's direct command have reduced the burden on lower-tier nodes.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000044",
+      "line": 44,
+      "sourceId": "0155:000044",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　これにより、読解能力不足から従来はネットワー\nクの閲覧ができなかったＵＳＥＲたちも、参加する\nことができるようになった。",
+      "english": "As a result, USERs whose limited interpretive abilities once kept them from viewing the network can now participate.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000045",
+      "line": 45,
+      "sourceId": "0155:000045",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　接続者が増えれば、ネットワークは向上する。\n　全体の強度は、無管理時に比べ２５６倍程度にま\nで上昇していた。",
+      "english": "The more people connect, the stronger the network becomes. Its overall strength has risen to approximately 256 times its unmanaged level.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000046",
+      "line": 46,
+      "sourceId": "0155:000046",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　なおかつ、ＩＮのポテンシャルは、まだ予想され\nた仕様の１％も発揮されていない。",
+      "english": "Even so, the IN has yet to display even 1% of its projected potential.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000047",
+      "line": 47,
+      "sourceId": "0155:000047",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　対群体の渦中に、どれだけの限界性能を発揮する\nことができるか。",
+      "english": "How much of its ultimate performance can it bring to bear in the struggle against the collective?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000048",
+      "line": 48,
+      "sourceId": "0155:000048",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　今回の戦争の、大きな焦点であった。",
+      "english": "That is one of the central questions of this war.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000049",
+      "line": 49,
+      "sourceId": "0155:000049",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　協定世界時情報に基づく、正確無比な午後三時。\n　忍の内部にある棚から、一つのメモ書きが自身に\n送信された。",
+      "english": "At three in the afternoon, timed to absolute precision using Coordinated Universal Time data, a memo from the shelves inside Shinobu transmits itself to him.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000050",
+      "line": 50,
+      "sourceId": "0155:000050",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　目覚まし時計みたいなものである。\n　記憶という行為が記録にとってかわってしまった\n忍である。",
+      "english": "It is much like an alarm clock. For Shinobu, the act of remembering has given way entirely to recording.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000051",
+      "line": 51,
+      "sourceId": "0155:000051",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　閲覧して、遅まきに思い出すことになる。",
+      "english": "He consults the record and remembers belatedly.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000052",
+      "line": 52,
+      "sourceId": "0155:000052",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "（ああ……そうか。これは僕のサインを入れて\n　出すつもりだったんだ）",
+      "english": "(Oh… right. I meant to sign this and send it out.)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000053",
+      "line": 53,
+      "sourceId": "0155:000053",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　実行した。",
+      "english": "He does so.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000068",
+      "line": 68,
+      "sourceId": "0155:000068",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「おわ、なんか来ました……」",
+      "english": "“Whoa, something just came in…”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000069",
+      "line": 69,
+      "sourceId": "0155:000069",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　隣でうたた寝をしていたシャーリーが、起きた。\n　忍はくすくすと笑う。",
+      "english": "Shirley, who has been dozing beside him, wakes. Shinobu chuckles.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000071",
+      "line": 71,
+      "sourceId": "0155:000071",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「あ、これがメールですか？　あ、あ、なんか強制\n　的に受け取らされた……あら、隊長から？」",
+      "english": "“Oh, is this email? Ah—something just made me accept it whether I wanted to or not… Huh? From you, Captain?”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000073",
+      "line": 73,
+      "sourceId": "0155:000073",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「隣にいるんだから、口で言えばいいんじゃないで\n　すか？」",
+      "english": "“You're sitting right beside me. Couldn't you just say it out loud?”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000074",
+      "line": 74,
+      "sourceId": "0155:000074",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "「全員に出してあるんだよ。戦時の政府公報と同じ\n　レベルの閲覧義務があるから、ちゃんと目を通し\n　ておくように」",
+      "english": "“I sent it to everyone. Reading it is every bit as mandatory as reading a wartime government bulletin, so make sure you look it over.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000076",
+      "line": 76,
+      "sourceId": "0155:000076",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「ああ、なるほど……\n　でもコレ、なんか難しくて……脳がかゆい……」",
+      "english": "“Oh, I see… But this is so complicated… My brain itches…”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000078",
+      "line": 78,
+      "sourceId": "0155:000078",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "「じゃ、小さい子向け」",
+      "english": "“Then try the little-kid version.”",
+      "hyperlinks": [
+        {
+          "start": 14,
+          "end": 32,
+          "targetRef": "saihate:hyperlinks:0141:000009",
+          "preview": "The government has a very important announcement for all you USERs. Please read this email carefully"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 4,
+          "end": 10,
+          "targetRef": "saihate:hyperlinks:0141:000009",
+          "preview": "The government has a very important announcement for all you USERs. Please read this email carefully"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000094",
+      "line": 94,
+      "sourceId": "0155:000094",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「うわぁ、小官はこんな知能低くないですー！」",
+      "english": "“Hey! This officer isn't that stupid!”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000095",
+      "line": 95,
+      "sourceId": "0155:000095",
+      "speakerJa": "忍",
+      "speakerEn": "Shinobu",
+      "japanese": "「あはは」",
+      "english": "“Ahaha.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000097",
+      "line": 97,
+      "sourceId": "0155:000097",
+      "speakerJa": "シャーリー",
+      "speakerEn": "Shirley",
+      "japanese": "「なんでこんなことには手間暇かけますかー！」",
+      "english": "“Why would you spend this much time and effort on something like this?!”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0155:000098",
+      "line": 98,
+      "sourceId": "0155:000098",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　隊長と部下の、のどかな午後であった。",
+      "english": "A peaceful afternoon for captain and subordinate.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

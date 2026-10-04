@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0104","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0104:000009","line":9,"sourceId":"0104:000009","speakerJa":"","speakerEn":"","japanese":"『Imaginarynet Realtime Channel』言語だけを転送する負荷軽減チャット\nシステム","english":"‘Imaginarynet Realtime Channel’: a low-overhead chat system that transmits language alone.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0104",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0104:000009",
+      "line": 9,
+      "sourceId": "0104:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "『Imaginarynet Realtime Channel』言語だけを転送する負荷軽減チャット\nシステム",
+      "english": "‘Imaginarynet Realtime Channel’: a low-overhead chat system that transmits language alone.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

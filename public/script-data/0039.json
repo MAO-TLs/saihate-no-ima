@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0039","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0039:000009","line":9,"sourceId":"0039:000009","speakerJa":"","speakerEn":"","japanese":"　お茶の一種……ではなく、地元のこと。\n　地元民のことを指す場合もある。","english":"Not a kind of tea… It means the local area. It can also refer to the locals.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0039",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0039:000009",
+      "line": 9,
+      "sourceId": "0039:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　お茶の一種……ではなく、地元のこと。\n　地元民のことを指す場合もある。",
+      "english": "Not a kind of tea… It means the local area. It can also refer to the locals.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

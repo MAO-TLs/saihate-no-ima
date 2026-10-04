@@ -1,1 +1,63 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0112","lineCount":5,"lines":[{"ref":"saihate:hyperlinks:0112:000016","line":16,"sourceId":"0112:000016","speakerJa":"","speakerEn":"","japanese":"　CODE-Tragedy―――\n　悲劇的結末への符号。","english":"CODE-Tragedy— A code pointing to a tragic ending.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0112:000018","line":18,"sourceId":"0112:000018","speakerJa":"","speakerEn":"","japanese":"　\n　失うだけと知りながら、なおも編まれた。\n　成し遂げたという感触だけがそこにある。","english":"Woven in the knowledge that it would bring nothing but loss. There is only the feeling of having seen it through.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0112:000020","line":20,"sourceId":"0112:000020","speakerJa":"","speakerEn":"","japanese":"　実行されなければどうなるのか。","english":"What happens if it is not executed?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0112:000022","line":22,"sourceId":"0112:000022","speakerJa":"","speakerEn":"","japanese":"　異なった結末に辿り着けるのか。","english":"Could it reach a different ending?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0112:000024","line":24,"sourceId":"0112:000024","speakerJa":"","speakerEn":"","japanese":"　そういった疑問ももはや、０と１からなる対岸の向こうに消えた。\n　貴宮忍の存在意義が問われる。","english":"Even those questions have now vanished beyond the far shore of zero and one. The reason for Shinobu Atemiya's existence is called into question.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0112",
+  "lineCount": 5,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0112:000016",
+      "line": 16,
+      "sourceId": "0112:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　CODE-Tragedy―――\n　悲劇的結末への符号。",
+      "english": "CODE-Tragedy—A code pointing to a tragic ending.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0112:000018",
+      "line": 18,
+      "sourceId": "0112:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　失うだけと知りながら、なおも編まれた。\n　成し遂げたという感触だけがそこにある。",
+      "english": "Woven in the knowledge that it would bring nothing but loss. There is only the feeling of having seen it through.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0112:000020",
+      "line": 20,
+      "sourceId": "0112:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　実行されなければどうなるのか。",
+      "english": "What happens if it is not executed?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0112:000022",
+      "line": 22,
+      "sourceId": "0112:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　異なった結末に辿り着けるのか。",
+      "english": "Could it reach a different ending?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0112:000024",
+      "line": 24,
+      "sourceId": "0112:000024",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　そういった疑問ももはや、０と１からなる対岸の向こうに消えた。\n　貴宮忍の存在意義が問われる。",
+      "english": "Even those questions have now vanished beyond the far shore of zero and one. The reason for Shinobu Atemiya's existence is called into question.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

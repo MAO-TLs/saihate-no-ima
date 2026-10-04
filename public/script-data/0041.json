@@ -1,1 +1,52 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0041","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0041:000009","line":9,"sourceId":"0041:000009","speakerJa":"","speakerEn":"","japanese":"　樋口章二の所有物。","english":"Property of Shouji Higuchi.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0041:000012","line":12,"sourceId":"0041:000012","speakerJa":"","speakerEn":"","japanese":"　\n　ヒョウ柄が眩しいほどにテクニカルな、竜巻マート（ブランド）のベロアトレ\nンチコート。","english":"A dazzlingly technical leopard-print velour trench coat from Twister Mart.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0041:000014","line":14,"sourceId":"0041:000014","speakerJa":"","speakerEn":"","japanese":"　このパンサーコートをはじめ、樋口章二の所持する物品は下着から文具に至る\nまで、凶悪な感性によって選出されており、仲間受けは悪い。\n　幼少時から思春期にかけて感性の爆発があり、その傾向は年々酷くなって\nいる。\n　他人に合わせるということをしない性格が災いし、半年ほど前にもう引き返せ\nない領域に到達。","english":"From this panther coat to his underwear and stationery, everything Shouji Higuchi owns has been chosen with a vicious aesthetic sense that does not go over well with his friends. His sense of style exploded sometime between childhood and adolescence, and has grown more appalling by the year. His refusal to conform to anyone else's tastes finally carried him past the point of no return some six months ago.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0041:000016","line":16,"sourceId":"0041:000016","speakerJa":"","speakerEn":"","japanese":"　街ではワルモノカジュアルと称され、ごくごく一部に流行の兆し？","english":"Around town, the style is known as Villain Casual. Signs it may catch on among a very, very select few?","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0041",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0041:000009",
+      "line": 9,
+      "sourceId": "0041:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　樋口章二の所有物。",
+      "english": "Property of Shouji Higuchi.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0041:000012",
+      "line": 12,
+      "sourceId": "0041:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　ヒョウ柄が眩しいほどにテクニカルな、竜巻マート（ブランド）のベロアトレ\nンチコート。",
+      "english": "A dazzlingly technical leopard-print velour trench coat from Twister Mart.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0041:000014",
+      "line": 14,
+      "sourceId": "0041:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　このパンサーコートをはじめ、樋口章二の所持する物品は下着から文具に至る\nまで、凶悪な感性によって選出されており、仲間受けは悪い。\n　幼少時から思春期にかけて感性の爆発があり、その傾向は年々酷くなって\nいる。\n　他人に合わせるということをしない性格が災いし、半年ほど前にもう引き返せ\nない領域に到達。",
+      "english": "From this panther coat to his underwear and stationery, everything Shouji Higuchi owns has been chosen with a vicious aesthetic sense that does not go over well with his friends. His sense of style exploded sometime between childhood and adolescence, and has grown more appalling by the year. His refusal to conform to anyone else's tastes finally carried him past the point of no return some six months ago.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0041:000016",
+      "line": 16,
+      "sourceId": "0041:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　街ではワルモノカジュアルと称され、ごくごく一部に流行の兆し？",
+      "english": "Around town, the style is known as Villain Casual. Signs it may catch on among a very, very select few?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

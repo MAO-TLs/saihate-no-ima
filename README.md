@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.0.0. Translation patch and full Japanese/English script reader.
+Version 1.1.0. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.0.0/saihate-no-ima-v1.0.0.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.0/saihate-no-ima-v1.1.0.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.0 — October 5, 2026
+
+Targeted source-bound corrections to character voice, forms of address, references, wordplay, and recurring wording are applied to both the game patch and bilingual reader. Standalone pause timing and dash spacing are now consistent with the source. This update contains 245 editorial corrections and 1,172 mechanical pause/spacing corrections; it is not a new full-script reread. Earlier interface, structured formatting, hyperlink, and movie-subtitle fixes remain included.
+
+If v1.0.0 is installed, close the game and restore it with **Restore.cmd from the v1.0.0 package** before verifying and installing v1.1.0. Keep the packages and their backups. Saves are not patch targets. Optional movie-subtitle files and tools are unchanged and do not need to be reinstalled.
+
+The packaged installer was verified on disposable copies, including restoration, upgrading, and interruption recovery. The matching reader passed its structural tests and production export checks. There was no new in-game or native Windows playtest, and no full-game playthrough.
+
+v1.1.0 download SHA-256: `cb2c553e191c1600a3a2d4d400e0d304eaf0fe1be1df4324790f347fb1536d1e`.
 
 ## Version 1.0.0 hotfix — October 4, 2026
 

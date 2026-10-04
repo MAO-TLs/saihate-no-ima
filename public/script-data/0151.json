@@ -1,1 +1,66 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0151","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0151:000009","line":9,"sourceId":"0151:000009","speakerJa":"","speakerEn":"","japanese":"　World Health Organization","english":"World Health Organization","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0151:000012","line":12,"sourceId":"0151:000012","speakerJa":"","speakerEn":"","japanese":"　\n　世界保健機関。国際連合の専門機関。\n　全人類に最高水準の健康ならびに衛生を与えることをその目的としていた。","english":"A specialized agency of the United Nations. Its objective was to provide all humanity with the highest possible standard of health and hygiene.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0151:000014","line":14,"sourceId":"0151:000014","speakerJa":"","speakerEn":"","japanese":"　\n　現在同組織は、世界保健機構ならびに環太平洋保健機関へと分離してしまって\nいる。\n　どちらも「人びとが最高の健康水準に到達すること」を目的としているが、後\n者については国連を脱退した日米他数カ国により立ち上げられたもので、世界保\n健機関憲章の承認を受けてはいない。","english":"The organization has since split into the World Health Organization and the Pacific Rim Health Organization. Both seek “the attainment by all peoples of the highest possible level of health,” but the latter was established by Japan, the United States, and several other countries after they withdrew from the United Nations, and is not recognized under the Constitution of the World Health Organization.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0151:000017","line":17,"sourceId":"0151:000017","speakerJa":"","speakerEn":"","japanese":"　\n　分離のきっかけとなったのは、日米主導で進められた統合防疫プログラム\n『エディット』の強硬可決騒動であり、結果同政策は環太平洋保健機関加盟各国\nでのみ適用されるのみである。","english":"The split followed the uproar over the forced passage of “Edit,” an integrated epidemic-prevention program led by Japan and the United States. As a result, the policy is now in force only in member states of the Pacific Rim Health Organization.","hyperlinks":[{"start":58,"end":62,"targetRef":"saihate:hyperlinks:0154:000009","preview":"ALVAX∞—"}],"japaneseHyperlinks":[{"start":38,"end":43,"targetRef":"saihate:hyperlinks:0154:000009","preview":"ALVAX∞—"}]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0151",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0151:000009",
+      "line": 9,
+      "sourceId": "0151:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　World Health Organization",
+      "english": "World Health Organization",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0151:000012",
+      "line": 12,
+      "sourceId": "0151:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　世界保健機関。国際連合の専門機関。\n　全人類に最高水準の健康ならびに衛生を与えることをその目的としていた。",
+      "english": "A specialized agency of the United Nations. Its objective was to provide all humanity with the highest possible standard of health and hygiene.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0151:000014",
+      "line": 14,
+      "sourceId": "0151:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　現在同組織は、世界保健機構ならびに環太平洋保健機関へと分離してしまって\nいる。\n　どちらも「人びとが最高の健康水準に到達すること」を目的としているが、後\n者については国連を脱退した日米他数カ国により立ち上げられたもので、世界保\n健機関憲章の承認を受けてはいない。",
+      "english": "The organization has since split into the World Health Organization and the Pacific Rim Health Organization. Both seek “the attainment by all peoples of the highest possible level of health,” but the latter was established by Japan, the United States, and several other countries after they withdrew from the United Nations, and is not recognized under the Constitution of the World Health Organization.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0151:000017",
+      "line": 17,
+      "sourceId": "0151:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　分離のきっかけとなったのは、日米主導で進められた統合防疫プログラム\n『エディット』の強硬可決騒動であり、結果同政策は環太平洋保健機関加盟各国\nでのみ適用されるのみである。",
+      "english": "The split followed the uproar over the forced passage of “Edit,” an integrated epidemic-prevention program led by Japan and the United States. As a result, the policy is now in force only in member states of the Pacific Rim Health Organization.",
+      "hyperlinks": [
+        {
+          "start": 58,
+          "end": 62,
+          "targetRef": "saihate:hyperlinks:0154:000009",
+          "preview": "ALVAX∞—"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 38,
+          "end": 43,
+          "targetRef": "saihate:hyperlinks:0154:000009",
+          "preview": "ALVAX∞—"
+        }
+      ]
+    }
+  ]
+}

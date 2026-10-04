@@ -1,1 +1,35 @@
-{"route":"entries","routeLabel":"Non-text game entries (visual parity pending)","scriptId":"0117","lineCount":1,"lines":[{"ref":"saihate:entries:0117:entry-000153","line":153,"speakerJa":"","speakerEn":"Visual game entry","japanese":"","english":"Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.","hyperlinks":[],"entryKind":"nontext","images":[{"src":"/script-data/assets/0346-05fue_1100.png","graphicId":346,"instruction":156,"archive":"bg0005.004","archiveSha256":"63fad5e70d7bc850cec132fb5178a16ceda2a3a850bfcbd6eb7037a644a4073c","memberIndex":26,"memberName":"05fue_1100.p","sourceSha256":"cce279b7ffb29c5bd665791b8bab077dc580ce9d9e0dbc71b3ca921aa6303ca0","pngSha256":"18cc695194992afaf3a34657174a14e335484d67084f9906154a59741cc14ad2","embeddedJapaneseText":false}],"sourceScript":"0117","sourceFunction":2,"entryInstruction":153}]}
+{
+  "route": "entries",
+  "routeLabel": "Non-text game entries (visual parity pending)",
+  "scriptId": "0117",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:entries:0117:entry-000153",
+      "line": 153,
+      "speakerJa": "",
+      "speakerEn": "Visual game entry",
+      "japanese": "",
+      "english": "Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.",
+      "hyperlinks": [],
+      "entryKind": "nontext",
+      "images": [
+        {
+          "src": "/script-data/assets/0346-05fue_1100.png",
+          "graphicId": 346,
+          "instruction": 156,
+          "archive": "bg0005.004",
+          "archiveSha256": "63fad5e70d7bc850cec132fb5178a16ceda2a3a850bfcbd6eb7037a644a4073c",
+          "memberIndex": 26,
+          "memberName": "05fue_1100.p",
+          "sourceSha256": "cce279b7ffb29c5bd665791b8bab077dc580ce9d9e0dbc71b3ca921aa6303ca0",
+          "pngSha256": "18cc695194992afaf3a34657174a14e335484d67084f9906154a59741cc14ad2",
+          "embeddedJapaneseText": false
+        }
+      ],
+      "sourceScript": "0117",
+      "sourceFunction": 2,
+      "entryInstruction": 153
+    }
+  ]
+}

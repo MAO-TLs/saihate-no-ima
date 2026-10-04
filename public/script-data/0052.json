@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0052","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0052:000009","line":9,"sourceId":"0052:000009","speakerJa":"","speakerEn":"","japanese":"　不特定多数の男性に共通する理想像を想定し、それを目指すことがいかなる事\nよりも大切であると錯覚する状態。","english":"A condition in which one imagines an ideal shared by some unspecified collection of men, then mistakes pursuing that ideal for the most important thing in the world.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0052:000012","line":12,"sourceId":"0052:000012","speakerJa":"","speakerEn":"","japanese":"　\n　もちろん病気である。\n　なめんなよ。","english":"It is, of course, a disease. Don't mess with me.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0052",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0052:000009",
+      "line": 9,
+      "sourceId": "0052:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　不特定多数の男性に共通する理想像を想定し、それを目指すことがいかなる事\nよりも大切であると錯覚する状態。",
+      "english": "A condition in which one imagines an ideal shared by some unspecified collection of men, then mistakes pursuing that ideal for the most important thing in the world.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0052:000012",
+      "line": 12,
+      "sourceId": "0052:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　もちろん病気である。\n　なめんなよ。",
+      "english": "It is, of course, a disease. Don't mess with me.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

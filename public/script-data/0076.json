@@ -1,1 +1,297 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0076","lineCount":25,"lines":[{"ref":"saihate:hyperlinks:0076:000009","line":9,"sourceId":"0076:000009","speakerJa":"","speakerEn":"","japanese":"○○新聞○月○日夕刊より抜粋／地方紙\n　○○日午前５時ごろ、○○市の小学校教諭から「児童が首を切られて死んでい\nる」と１１９番があった。","english":"Excerpt from the **/** evening edition of the ** Shimbun / Local paper\nAt approximately 5:00 a.m. on the **th, an elementary-school teacher in ** City called emergency services to report that a child had been found dead with their throat cut.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000012","line":12,"sourceId":"0076:000012","speakerJa":"","speakerEn":"","japanese":"　救急隊員が駆け付けたがすでに死亡していた。\n　殺されたのは小学５年生の○○○○ちゃん（１１）で、当日は花壇の当番のた\nめ早く登校していた。\n　\n　（略）\n　\n　市は事態を極めて重大なものとみて、臨時に児童の集団下校を義務づけること\nを決定した。","english":"Paramedics rushed to the scene, but the victim was already dead. The victim was ****, 11, a fifth-grade student who had arrived early that day for their turn tending the flower beds.  [Omitted]  City officials, treating the situation with the utmost gravity, have temporarily ordered all elementary-school students to walk home in groups.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000014","line":14,"sourceId":"0076:000014","speakerJa":"","speakerEn":"","japanese":"　\n○○新聞○月○日夕刊より抜粋／地方紙\n　―――○○市の小学校で私立○小５年の○○○○ちゃんが殺害された事件で、\n捜査本部は○○日、同市に住む無職の男性○○○容疑者（３０）を殺人容疑で\n逮捕したと発表した。○容疑者は「かわいくてやった」と容疑を認めている。","english":"Excerpt from the **/** evening edition of the ** Shimbun / Local paper —In connection with the murder of ****, a fifth-grade student at the private * Elementary School in ** City, the investigative task force announced on the **th that it had arrested unemployed city resident ***, 30, on suspicion of murder. The suspect has admitted the charge, saying, “I did it because the child was cute.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000016","line":16,"sourceId":"0076:000016","speakerJa":"","speakerEn":"","japanese":"○○新聞○月○日朝刊より抜粋／地方紙\n　―――○○日に殺人容疑で逮捕された無職の男性の証言が、偽証であることが\nわかった。男性は日頃から重度の虚言癖があり、カウンセリングも受けていた。\n事件当時、男性は現場から２００キロ離れた治療施設に滞在していた。事件との\n関連性はまったくないものとし、捜査本部は犯人の特定を急いでいる。","english":"Excerpt from the **/** morning edition of the ** Shimbun / Local paper —A statement made by the unemployed man arrested on suspicion of murder on the **th has proved false. The man had a long history of compulsive lying and had received counseling. At the time of the murder he was staying at a treatment facility 200 km from the scene. The task force has ruled out any connection to the crime and is urgently working to identify the perpetrator.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000018","line":18,"sourceId":"0076:000018","speakerJa":"","speakerEn":"","japanese":"　\n○○新聞○月○日朝刊より抜粋\n　―――○○市の路上でまた、首を切られて死んでいる遺体が発見された。詳し\nいことはまだわかっていないが、これで同種の事件による被害者は４人目となっ\nた。捜査本部は―――","english":"Excerpt from the **/** morning edition of the ** Shimbun —Another decapitated body has been discovered on a street in ** City. Details remain unclear, but this is now the fourth victim of an incident of this kind. The investigative task force—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000020","line":20,"sourceId":"0076:000020","speakerJa":"","speakerEn":"","japanese":"　\n全国ネットのニュース番組での報道\n　―――○○市の連続殺人事件の犠牲者が６人を越えたことについて、特別捜査\n本部捜査一課長は公開捜査に踏み切ることを―――","english":"Report from a nationally broadcast news program —With the number of victims in the ** City serial-murder case now exceeding six, the chief of the First Criminal Investigation Division has announced that the special task force will seek the public's assistance—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000022","line":22,"sourceId":"0076:000022","speakerJa":"","speakerEn":"","japanese":"週刊誌『文鳥』より抜粋","english":"Excerpt from the weekly magazine Bunchou","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000025","line":25,"sourceId":"0076:000025","speakerJa":"","speakerEn":"","japanese":"　―――の○○市ではじまり、今も続いている連続斬首事件。\n　被害者は全員、首を切断されて死亡していた。","english":"—The string of beheadings that began in ** City continues. Every victim died by decapitation.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000026","line":26,"sourceId":"0076:000026","speakerJa":"","speakerEn":"","japanese":"　警察の捜査も虚しく、すでに６人の犠牲者が出てしまった。\n　最初の事件発生からすでに４日が経過。近隣住民の不安は頂点に達している。\n　近年社会現象にもなり世界中で猛威をふるった同期性自我拡大症候群との関係\nも噂されるが、果たして真相やいかに？","english":"Police efforts have come to nothing, and six people are already dead. Four days have passed since the first murder. Fear among local residents has reached fever pitch. Rumors link the killings to Synchronous Ego Expansion Syndrome, which swept the world and became a social phenomenon in recent years—but where does the truth lie?","hyperlinks":[{"start":196,"end":230,"targetRef":"saihate:hyperlinks:0073:000009","preview":"Among the expressions that came into vogue at the end of the twentieth century were “psychopath” and"}],"japaneseHyperlinks":[{"start":88,"end":98,"targetRef":"saihate:hyperlinks:0073:000009","preview":"Among the expressions that came into vogue at the end of the twentieth century were “psychopath” and"}]},{"ref":"saihate:hyperlinks:0076:000028","line":28,"sourceId":"0076:000028","speakerJa":"","speakerEn":"","japanese":"　遺体を直接目にした捜査関係者はこう語る。\n「……切断面がすごくキレイでしたね。ナイフやカッターで切ったようなものじ\nゃない。スッパリと、まるで肉切り包丁をスッパリ落としたような。あれは精神\nの危うい人間の仕業じゃないと思います。ちゃんとした技術を持った人の犯行だ\nと」","english":"An investigator who saw the bodies firsthand told us: “The cuts were incredibly clean. Nothing like what you'd get from a knife or a box cutter. One clean chop—like a butcher's cleaver dropping straight through. I don't think this was the work of some lunatic. Whoever did it knew exactly what they were doing.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000030","line":30,"sourceId":"0076:000030","speakerJa":"","speakerEn":"","japanese":"　人の首を落とす技術とはなんだろうか？","english":"What kind of skill does it take to sever a human head?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000032","line":32,"sourceId":"0076:000032","speakerJa":"","speakerEn":"","japanese":"　最初は児童殺害ではじまったこの事件も、振り返れば老若男女を問わず、それ\nぞれの被害者同士の関係もまったくといっていいほど存在しない。","english":"Though the first victim was a child, subsequent victims have included people of every age and sex, with virtually no connection among them.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000034","line":34,"sourceId":"0076:000034","speakerJa":"","speakerEn":"","japanese":"　強いて言えば同じ市内に在住というところだが、これは犯人が同市で犯行を重\nねているためだろう。\n　愉快犯、無差別、猟奇殺人……そんな印象もある。\n　地元に密着して犯行を重ねているとすれば稚拙の一言だが、手口は巧妙かつ大\n胆である。","english":"The only link is that they all lived in the same city—but that is presumably because the killer continues to operate there. Thrill killing, indiscriminate killing, macabre murder… all spring to mind. Repeatedly striking within the same community might seem the height of stupidity, yet the methods employed are both cunning and audacious.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000036","line":36,"sourceId":"0076:000036","speakerJa":"","speakerEn":"","japanese":"　ここで被害者の遺体の状態について考えてみよう。","english":"Let us now consider the condition in which the victims' bodies were found.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000038","line":38,"sourceId":"0076:000038","speakerJa":"","speakerEn":"","japanese":"　警察発表にはない部分だが、全ての遺体は、膝の上に自らの首を抱きかかえる\nようにして死んでいたのである！！","english":"This detail was omitted from the police statement, but every body was found cradling its own head in its lap!!","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000040","line":40,"sourceId":"0076:000040","speakerJa":"","speakerEn":"","japanese":"　どんな殺害方法によって、このような状態になるのだろうか。","english":"What method of killing could leave a body in such a state?","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000042","line":42,"sourceId":"0076:000042","speakerJa":"","speakerEn":"","japanese":"「首の皮一枚、というのは、いわゆる武家社会における介錯の極意です。介錯人\nというのは切腹をした時に、横に立っているあれです」","english":"“Leaving the head attached by a single strip of skin was considered the consummate art of kaishaku in samurai society. The kaishakunin is the attendant who stands beside someone committing seppuku.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000044","line":44,"sourceId":"0076:000044","speakerJa":"","speakerEn":"","japanese":"「切腹というのは死刑ではなく自決であり、当人の名誉は守られるという建前に\nなっている。で、完全に首を落としてしまうのは打ち首であり、こちらは歴とし\nた死刑」","english":"“The convention was that seppuku was an act of suicide rather than an execution, and therefore preserved the person's honor. Removing the head entirely, by contrast, constituted beheading— an execution in the fullest sense.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000046","line":46,"sourceId":"0076:000046","speakerJa":"","speakerEn":"","japanese":"「で、落ちた頭が本人の膝の上にストンと落ちるのが良い案配であるわけです」","english":"“The ideal result was for the severed head to drop neatly into the person's lap.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000048","line":48,"sourceId":"0076:000048","speakerJa":"","speakerEn":"","japanese":"「介錯……つまり首切りというのは、外国などでは死刑執行人が処刑に失敗して\n、死にきれなかった罪人の首に何度も斧を叩きつけた……という逸話もあるくら\nいで、非常に難しい」","english":"“Kaishaku—in other words, beheading—is exceptionally difficult. There are stories from foreign countries of executioners botching the job and bringing the ax down again and again upon the neck of a prisoner who would not die.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000050","line":50,"sourceId":"0076:000050","speakerJa":"","speakerEn":"","japanese":"「高い技術を持っていなければ、とてもつとまるものではなかったのです」","english":"“It was simply not a duty that anyone without considerable skill could perform.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000052","line":52,"sourceId":"0076:000052","speakerJa":"","speakerEn":"","japanese":"「今回の事件には、まさにこの介錯の精神性があらわれているといっても良いで\nしょう」","english":"“These murders, I would say, express the very spirit of kaishaku.”","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000054","line":54,"sourceId":"0076:000054","speakerJa":"","speakerEn":"","japanese":"「サムライ的な認識に染まってしまった人間の犯行じゃないかと思いますね」\n（とある居合道有段者の証言）","english":"“I suspect the killer is someone steeped in a samurai way of thinking.” (Testimony from a ranked iaido practitioner)","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000056","line":56,"sourceId":"0076:000056","speakerJa":"","speakerEn":"","japanese":"　正確には、二人目と四人目の犠牲者については、横倒しになったためか、首が\n完全に切れていたものもあったようだ。\n　しかし他の被害者、ならびに上記の二人についても、殺害時の形としては“介\n錯”であった。\n　彼らは全員、地面に膝をつき、首を落とされ、それを自ら抱きかかえるような\n形で殺された。","english":"Strictly speaking, the heads of the second and fourth victims seem to have come completely free, perhaps because their bodies fell sideways. Yet for those two victims, as for all the others, the form at the moment of death was that of kaishaku. Each knelt, was beheaded, and died in a position that left them cradling the head in their own arms.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0076:000058","line":58,"sourceId":"0076:000058","speakerJa":"","speakerEn":"","japanese":"　果たして人の技でそのようなことが可能なのだろうか？\n　続く捜査が待たれる。","english":"Could any human skill truly accomplish such a thing? We await the next development in the investigation.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0076",
+  "lineCount": 25,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0076:000009",
+      "line": 9,
+      "sourceId": "0076:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "○○新聞○月○日夕刊より抜粋／地方紙\n　○○日午前５時ごろ、○○市の小学校教諭から「児童が首を切られて死んでい\nる」と１１９番があった。",
+      "english": "Excerpt from the **/** evening edition of the ** Shimbun / Local paper\nAt approximately 5:00 a.m. on the **th, an elementary-school teacher in ** City called emergency services to report that a child had been found dead with their throat cut.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000012",
+      "line": 12,
+      "sourceId": "0076:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　救急隊員が駆け付けたがすでに死亡していた。\n　殺されたのは小学５年生の○○○○ちゃん（１１）で、当日は花壇の当番のた\nめ早く登校していた。\n　\n　（略）\n　\n　市は事態を極めて重大なものとみて、臨時に児童の集団下校を義務づけること\nを決定した。",
+      "english": "Paramedics rushed to the scene, but the victim was already dead. The victim was ****, 11, a fifth-grade student who had arrived early that day for their turn tending the flower beds.  [Omitted]  City officials, treating the situation with the utmost gravity, have temporarily ordered all elementary-school students to walk home in groups.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000014",
+      "line": 14,
+      "sourceId": "0076:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n○○新聞○月○日夕刊より抜粋／地方紙\n　―――○○市の小学校で私立○小５年の○○○○ちゃんが殺害された事件で、\n捜査本部は○○日、同市に住む無職の男性○○○容疑者（３０）を殺人容疑で\n逮捕したと発表した。○容疑者は「かわいくてやった」と容疑を認めている。",
+      "english": "Excerpt from the **/** evening edition of the ** Shimbun / Local paper —In connection with the murder of ****, a fifth-grade student at the private * Elementary School in ** City, the investigative task force announced on the **th that it had arrested unemployed city resident ***, 30, on suspicion of murder. The suspect has admitted the charge, saying, “I did it because the child was cute.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000016",
+      "line": 16,
+      "sourceId": "0076:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "○○新聞○月○日朝刊より抜粋／地方紙\n　―――○○日に殺人容疑で逮捕された無職の男性の証言が、偽証であることが\nわかった。男性は日頃から重度の虚言癖があり、カウンセリングも受けていた。\n事件当時、男性は現場から２００キロ離れた治療施設に滞在していた。事件との\n関連性はまったくないものとし、捜査本部は犯人の特定を急いでいる。",
+      "english": "Excerpt from the **/** morning edition of the ** Shimbun / Local paper —A statement made by the unemployed man arrested on suspicion of murder on the **th has proved false. The man had a long history of compulsive lying and had received counseling. At the time of the murder he was staying at a treatment facility 200 km from the scene. The task force has ruled out any connection to the crime and is urgently working to identify the perpetrator.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000018",
+      "line": 18,
+      "sourceId": "0076:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n○○新聞○月○日朝刊より抜粋\n　―――○○市の路上でまた、首を切られて死んでいる遺体が発見された。詳し\nいことはまだわかっていないが、これで同種の事件による被害者は４人目となっ\nた。捜査本部は―――",
+      "english": "Excerpt from the **/** morning edition of the ** Shimbun —Another decapitated body has been discovered on a street in ** City. Details remain unclear, but this is now the fourth victim of an incident of this kind. The investigative task force—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000020",
+      "line": 20,
+      "sourceId": "0076:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n全国ネットのニュース番組での報道\n　―――○○市の連続殺人事件の犠牲者が６人を越えたことについて、特別捜査\n本部捜査一課長は公開捜査に踏み切ることを―――",
+      "english": "Report from a nationally broadcast news program —With the number of victims in the ** City serial-murder case now exceeding six, the chief of the First Criminal Investigation Division has announced that the special task force will seek the public's assistance—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000022",
+      "line": 22,
+      "sourceId": "0076:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "週刊誌『文鳥』より抜粋",
+      "english": "Excerpt from the weekly magazine Bunchou",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000025",
+      "line": 25,
+      "sourceId": "0076:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　―――の○○市ではじまり、今も続いている連続斬首事件。\n　被害者は全員、首を切断されて死亡していた。",
+      "english": "—The string of beheadings that began in ** City continues. Every victim died by decapitation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000026",
+      "line": 26,
+      "sourceId": "0076:000026",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　警察の捜査も虚しく、すでに６人の犠牲者が出てしまった。\n　最初の事件発生からすでに４日が経過。近隣住民の不安は頂点に達している。\n　近年社会現象にもなり世界中で猛威をふるった同期性自我拡大症候群との関係\nも噂されるが、果たして真相やいかに？",
+      "english": "Police efforts have come to nothing, and six people are already dead. Four days have passed since the first murder. Fear among local residents has reached fever pitch. Rumors link the killings to Synchronous Ego Expansion Syndrome, which swept the world and became a social phenomenon in recent years—but where does the truth lie?",
+      "hyperlinks": [
+        {
+          "start": 196,
+          "end": 230,
+          "targetRef": "saihate:hyperlinks:0073:000009",
+          "preview": "Among the expressions that came into vogue at the end of the twentieth century were “psychopath” and “macabre murder.” They generally referred either to people whose mental state differed from the norm or to crimes committed by such people—cases whose motives, methods, or sheer scale seemed largely inexplicable. Such murders were understood as isolated cases, and it was precisely their singularity that attracted so much attention."
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 88,
+          "end": 98,
+          "targetRef": "saihate:hyperlinks:0073:000009",
+          "preview": "Among the expressions that came into vogue at the end of the twentieth century were “psychopath” and"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000028",
+      "line": 28,
+      "sourceId": "0076:000028",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　遺体を直接目にした捜査関係者はこう語る。\n「……切断面がすごくキレイでしたね。ナイフやカッターで切ったようなものじ\nゃない。スッパリと、まるで肉切り包丁をスッパリ落としたような。あれは精神\nの危うい人間の仕業じゃないと思います。ちゃんとした技術を持った人の犯行だ\nと」",
+      "english": "An investigator who saw the bodies firsthand told us: “The cuts were incredibly clean. Nothing like what you'd get from a knife or a box cutter. One clean chop—like a butcher's cleaver dropping straight through. I don't think this was the work of some lunatic. Whoever did it knew exactly what they were doing.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000030",
+      "line": 30,
+      "sourceId": "0076:000030",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　人の首を落とす技術とはなんだろうか？",
+      "english": "What kind of skill does it take to sever a human head?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000032",
+      "line": 32,
+      "sourceId": "0076:000032",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　最初は児童殺害ではじまったこの事件も、振り返れば老若男女を問わず、それ\nぞれの被害者同士の関係もまったくといっていいほど存在しない。",
+      "english": "Though the first victim was a child, subsequent victims have included people of every age and sex, with virtually no connection among them.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000034",
+      "line": 34,
+      "sourceId": "0076:000034",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　強いて言えば同じ市内に在住というところだが、これは犯人が同市で犯行を重\nねているためだろう。\n　愉快犯、無差別、猟奇殺人……そんな印象もある。\n　地元に密着して犯行を重ねているとすれば稚拙の一言だが、手口は巧妙かつ大\n胆である。",
+      "english": "The only link is that they all lived in the same city—but that is presumably because the killer continues to operate there. Thrill killing, indiscriminate killing, macabre murder… all spring to mind. Repeatedly striking within the same community might seem the height of stupidity, yet the methods employed are both cunning and audacious.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000036",
+      "line": 36,
+      "sourceId": "0076:000036",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ここで被害者の遺体の状態について考えてみよう。",
+      "english": "Let us now consider the condition in which the victims' bodies were found.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000038",
+      "line": 38,
+      "sourceId": "0076:000038",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　警察発表にはない部分だが、全ての遺体は、膝の上に自らの首を抱きかかえる\nようにして死んでいたのである！！",
+      "english": "This detail was omitted from the police statement, but every body was found cradling its own head in its lap!!",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000040",
+      "line": 40,
+      "sourceId": "0076:000040",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　どんな殺害方法によって、このような状態になるのだろうか。",
+      "english": "What method of killing could leave a body in such a state?",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000042",
+      "line": 42,
+      "sourceId": "0076:000042",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「首の皮一枚、というのは、いわゆる武家社会における介錯の極意です。介錯人\nというのは切腹をした時に、横に立っているあれです」",
+      "english": "“Leaving the head attached by a single strip of skin was considered the consummate art of the coup de grâce in samurai society. The second is the attendant who stands beside someone committing seppuku, or ritual suicide.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000044",
+      "line": 44,
+      "sourceId": "0076:000044",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「切腹というのは死刑ではなく自決であり、当人の名誉は守られるという建前に\nなっている。で、完全に首を落としてしまうのは打ち首であり、こちらは歴とし\nた死刑」",
+      "english": "“The convention was that seppuku was an act of suicide rather than an execution, and therefore preserved the person's honor. Removing the head entirely, by contrast, constituted beheading—an execution in the fullest sense.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000046",
+      "line": 46,
+      "sourceId": "0076:000046",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「で、落ちた頭が本人の膝の上にストンと落ちるのが良い案配であるわけです」",
+      "english": "“The ideal result was for the severed head to drop neatly into the person's lap.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000048",
+      "line": 48,
+      "sourceId": "0076:000048",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「介錯……つまり首切りというのは、外国などでは死刑執行人が処刑に失敗して\n、死にきれなかった罪人の首に何度も斧を叩きつけた……という逸話もあるくら\nいで、非常に難しい」",
+      "english": "“The coup de grâce—in other words, beheading—is exceptionally difficult. There are stories from foreign countries of executioners botching the job and bringing the ax down again and again upon the neck of a prisoner who would not die.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000050",
+      "line": 50,
+      "sourceId": "0076:000050",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「高い技術を持っていなければ、とてもつとまるものではなかったのです」",
+      "english": "“It was simply not a duty that anyone without considerable skill could perform.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000052",
+      "line": 52,
+      "sourceId": "0076:000052",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「今回の事件には、まさにこの介錯の精神性があらわれているといっても良いで\nしょう」",
+      "english": "“These murders, I would say, express the very spirit of the coup de grâce.”",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000054",
+      "line": 54,
+      "sourceId": "0076:000054",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "「サムライ的な認識に染まってしまった人間の犯行じゃないかと思いますね」\n（とある居合道有段者の証言）",
+      "english": "“I suspect the killer is someone steeped in a samurai way of thinking.” (Testimony from a ranked iaido practitioner)",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000056",
+      "line": 56,
+      "sourceId": "0076:000056",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　正確には、二人目と四人目の犠牲者については、横倒しになったためか、首が\n完全に切れていたものもあったようだ。\n　しかし他の被害者、ならびに上記の二人についても、殺害時の形としては“介\n錯”であった。\n　彼らは全員、地面に膝をつき、首を落とされ、それを自ら抱きかかえるような\n形で殺された。",
+      "english": "Strictly speaking, the heads of the second and fourth victims seem to have come completely free, perhaps because their bodies fell sideways. Yet for those two victims, as for all the others, the form at the moment of death was that of a coup de grâce. Each knelt, was beheaded, and died in a position that left them cradling the head in their own arms.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0076:000058",
+      "line": 58,
+      "sourceId": "0076:000058",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　果たして人の技でそのようなことが可能なのだろうか？\n　続く捜査が待たれる。",
+      "english": "Could any human skill truly accomplish such a thing? We await the next development in the investigation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

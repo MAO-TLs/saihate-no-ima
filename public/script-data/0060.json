@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0060","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0060:000009","line":9,"sourceId":"0060:000009","speakerJa":"","speakerEn":"","japanese":"　皇族ならびにその墓に対して、名誉を毀損する行為を処罰する罪。\n　１８８０年に公布された旧刑法に記され、１９４７年に廃止された。\n　その適用は言論はおろか、思想や学問などにも広く及んだ。","english":"The offense of defaming a member of the Imperial Family or an imperial tomb. Codified in the old Penal Code promulgated in 1880, it was abolished in 1947. Its scope extended not only to speech, but broadly to thought and scholarship as well.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0060",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0060:000009",
+      "line": 9,
+      "sourceId": "0060:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　皇族ならびにその墓に対して、名誉を毀損する行為を処罰する罪。\n　１８８０年に公布された旧刑法に記され、１９４７年に廃止された。\n　その適用は言論はおろか、思想や学問などにも広く及んだ。",
+      "english": "The offense of defaming a member of the Imperial Family or an imperial tomb. Codified in the old Penal Code promulgated in 1880, it was abolished in 1947. Its scope extended not only to speech, but broadly to thought and scholarship as well.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

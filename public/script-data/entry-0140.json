@@ -1,1 +1,35 @@
-{"route":"entries","routeLabel":"Non-text game entries (visual parity pending)","scriptId":"0140","lineCount":1,"lines":[{"ref":"saihate:entries:0140:entry-000001","line":1,"speakerJa":"","speakerEn":"Visual game entry","japanese":"","english":"Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.","hyperlinks":[],"entryKind":"nontext","images":[{"src":"/script-data/assets/0239-02azu_1000.png","graphicId":239,"instruction":6,"archive":"bg0003.004","archiveSha256":"9228dd48b8b0408cb70681db06c8fb222950c898a0df57828806d3f4879d850e","memberIndex":47,"memberName":"02azu_1000.p","sourceSha256":"1f9f36539a3b2ac4b66b95a686917e9f93f6d8a749805b12e1da46484befaf6f","pngSha256":"df361044242e4ed02bb8c7324c26254a285c983feb3078cea93e495381fdb1fb","embeddedJapaneseText":false}],"sourceScript":"0140","sourceFunction":1,"entryInstruction":1}]}
+{
+  "route": "entries",
+  "routeLabel": "Non-text game entries (visual parity pending)",
+  "scriptId": "0140",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:entries:0140:entry-000001",
+      "line": 1,
+      "speakerJa": "",
+      "speakerEn": "Visual game entry",
+      "japanese": "",
+      "english": "Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.",
+      "hyperlinks": [],
+      "entryKind": "nontext",
+      "images": [
+        {
+          "src": "/script-data/assets/0239-02azu_1000.png",
+          "graphicId": 239,
+          "instruction": 6,
+          "archive": "bg0003.004",
+          "archiveSha256": "9228dd48b8b0408cb70681db06c8fb222950c898a0df57828806d3f4879d850e",
+          "memberIndex": 47,
+          "memberName": "02azu_1000.p",
+          "sourceSha256": "1f9f36539a3b2ac4b66b95a686917e9f93f6d8a749805b12e1da46484befaf6f",
+          "pngSha256": "df361044242e4ed02bb8c7324c26254a285c983feb3078cea93e495381fdb1fb",
+          "embeddedJapaneseText": false
+        }
+      ],
+      "sourceScript": "0140",
+      "sourceFunction": 1,
+      "entryInstruction": 1
+    }
+  ]
+}

@@ -1,1 +1,44 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0082","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0082:000009","line":9,"sourceId":"0082:000009","speakerJa":"","speakerEn":"","japanese":"　携行の傾向。","english":"Carrying patterns.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0082:000013","line":13,"sourceId":"0082:000013","speakerJa":"","speakerEn":"","japanese":"　\n　沙也加……常時。\n　あずさ……不携帯。最近、実装。\n　笛子……常時。\n　葉子……該当期間のみ。","english":"Sayaka… always. Azusa… does not carry one. Recently implemented. Fueko… always. Youko… only during the period in question.","hyperlinks":[{"start":23,"end":41,"targetRef":"saihate:hyperlinks:0094:000010","preview":"It was a sunny afternoon—"}],"japaneseHyperlinks":[{"start":18,"end":21,"targetRef":"saihate:hyperlinks:0094:000010","preview":"It was a sunny afternoon—"}]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0082",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0082:000009",
+      "line": 9,
+      "sourceId": "0082:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　携行の傾向。",
+      "english": "Carrying patterns.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0082:000013",
+      "line": 13,
+      "sourceId": "0082:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　沙也加……常時。\n　あずさ……不携帯。最近、実装。\n　笛子……常時。\n　葉子……該当期間のみ。",
+      "english": "Sayaka… always. Azusa… does not carry one. Recently implemented. Fueko… always. Youko… only during the period in question.",
+      "hyperlinks": [
+        {
+          "start": 23,
+          "end": 41,
+          "targetRef": "saihate:hyperlinks:0094:000010",
+          "preview": "It was a sunny afternoon—"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 18,
+          "end": 21,
+          "targetRef": "saihate:hyperlinks:0094:000010",
+          "preview": "It was a sunny afternoon—"
+        }
+      ]
+    }
+  ]
+}

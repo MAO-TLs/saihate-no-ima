@@ -1,1 +1,77 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0130","lineCount":5,"lines":[{"ref":"saihate:hyperlinks:0130:000017","line":17,"sourceId":"0130:000017","speakerJa":"","speakerEn":"","japanese":"　灰野耕一郎。\n　４２歳。\n　日本国籍。\n　\n　旧環境組織化委員会に所属していた選任被験者。","english":"Kouichirou Haino. Age forty-two. Japanese citizen.  A designated test subject formerly attached to the Environmental Organization Committee.","hyperlinks":[{"start":103,"end":139,"targetRef":"saihate:hyperlinks:0133:000009","preview":"The former Environmental Organization Research Committee."}],"japaneseHyperlinks":[{"start":24,"end":33,"targetRef":"saihate:hyperlinks:0133:000009","preview":"The former Environmental Organization Research Committee."}]},{"ref":"saihate:hyperlinks:0130:000019","line":19,"sourceId":"0130:000019","speakerJa":"","speakerEn":"","japanese":"　\n　最初期のＵＳＥＲの一人で、ユーラシア大陸の某発\n展途上国にて実施された都市実験に関係。\n　世論により国内研究が縮小されると同時に、委員会\nからの要請を受け渡米。\n　米国の提携研究機関に移籍する。","english":"One of the earliest USERs, he was involved in an urban experiment conducted in an unnamed developing country on the Eurasian continent. When public opinion led to a reduction in research at home, he moved to the United States at the committee's request and transferred to an American partner institution.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0130:000021","line":21,"sourceId":"0130:000021","speakerJa":"","speakerEn":"","japanese":"　自らが重要被験者でありながら、派生現象学の発展\nに寄与。\n　群像委員会の立ち上げに関与。","english":"Though an important test subject himself, he contributed to the development of derivative phenomenology and participated in founding the Ensemble Committee.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0130:000023","line":23,"sourceId":"0130:000023","speakerJa":"","speakerEn":"","japanese":"　\n　現在は防衛施設庁第二施設部に所属。\n　ＧＶＰの実現のため、群像委員会と歩調を取る。","english":"He currently serves in the Second Facilities Department of the Defense Facilities Administration Agency and coordinates with the Ensemble Committee to bring the GVP to fruition.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0130:000025","line":25,"sourceId":"0130:000025","speakerJa":"","speakerEn":"","japanese":"　\n　また現象行使者としての能力も優秀であり、米国\nでは要人警護経験を持つ。","english":"He is also an accomplished phenomenon operator, with experience protecting dignitaries in the United States.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0130",
+  "lineCount": 5,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0130:000017",
+      "line": 17,
+      "sourceId": "0130:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　灰野耕一郎。\n　４２歳。\n　日本国籍。\n　\n　旧環境組織化委員会に所属していた選任被験者。",
+      "english": "Kouichirou Haino. Age forty-two. Japanese citizen.  A designated test subject formerly attached to the Environmental Organization Committee.",
+      "hyperlinks": [
+        {
+          "start": 103,
+          "end": 139,
+          "targetRef": "saihate:hyperlinks:0133:000009",
+          "preview": "The former Environmental Organization Research Committee."
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 24,
+          "end": 33,
+          "targetRef": "saihate:hyperlinks:0133:000009",
+          "preview": "The former Environmental Organization Research Committee."
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0130:000019",
+      "line": 19,
+      "sourceId": "0130:000019",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　最初期のＵＳＥＲの一人で、ユーラシア大陸の某発\n展途上国にて実施された都市実験に関係。\n　世論により国内研究が縮小されると同時に、委員会\nからの要請を受け渡米。\n　米国の提携研究機関に移籍する。",
+      "english": "One of the earliest USERs, he was involved in an urban experiment conducted in an unnamed developing country on the Eurasian continent. When public opinion led to a reduction in research at home, he moved to the United States at the committee's request and transferred to an American partner institution.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0130:000021",
+      "line": 21,
+      "sourceId": "0130:000021",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　自らが重要被験者でありながら、派生現象学の発展\nに寄与。\n　群像委員会の立ち上げに関与。",
+      "english": "Though an important test subject himself, he contributed to the development of derivative phenomenology and participated in founding the Ensemble Committee.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0130:000023",
+      "line": 23,
+      "sourceId": "0130:000023",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　現在は防衛施設庁第二施設部に所属。\n　ＧＶＰの実現のため、群像委員会と歩調を取る。",
+      "english": "He currently serves in the Second Facilities Department of the Defense Facilities Administration Agency and coordinates with the Ensemble Committee to bring the GVP to fruition.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0130:000025",
+      "line": 25,
+      "sourceId": "0130:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　また現象行使者としての能力も優秀であり、米国\nでは要人警護経験を持つ。",
+      "english": "He is also an accomplished phenomenon operator, with experience protecting dignitaries in the United States.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"route":"entries","routeLabel":"Non-text game entries (visual parity pending)","scriptId":"0144","lineCount":1,"lines":[{"ref":"saihate:entries:0144:entry-000001","line":1,"speakerJa":"","speakerEn":"Visual game entry","japanese":"","english":"Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.","hyperlinks":[],"entryKind":"nontext","images":[{"src":"/script-data/assets/0148-img_0003.png","graphicId":148,"instruction":6,"archive":"bg0002.004","archiveSha256":"6cabd65bc10242c13248df06b41ac9574b1bc9af6211022b7b43a9ca6613e6c8","memberIndex":20,"memberName":"img_0003.p","sourceSha256":"43976f621d64c2957cdc9025540cb348e4dd9c372f7562106cea3417d0473ae0","pngSha256":"0571204ad0c9c51971274b7c7121e781b0ac8dbf8ede81714ba2acad602be923","embeddedJapaneseText":false}],"sourceScript":"0144","sourceFunction":1,"entryInstruction":1}]}
+{
+  "route": "entries",
+  "routeLabel": "Non-text game entries (visual parity pending)",
+  "scriptId": "0144",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:entries:0144:entry-000001",
+      "line": 1,
+      "speakerJa": "",
+      "speakerEn": "Visual game entry",
+      "japanese": "",
+      "english": "Exact source image below. Native transitions, overlays, effects and game-state behavior are not emulated.",
+      "hyperlinks": [],
+      "entryKind": "nontext",
+      "images": [
+        {
+          "src": "/script-data/assets/0148-img_0003.png",
+          "graphicId": 148,
+          "instruction": 6,
+          "archive": "bg0002.004",
+          "archiveSha256": "6cabd65bc10242c13248df06b41ac9574b1bc9af6211022b7b43a9ca6613e6c8",
+          "memberIndex": 20,
+          "memberName": "img_0003.p",
+          "sourceSha256": "43976f621d64c2957cdc9025540cb348e4dd9c372f7562106cea3417d0473ae0",
+          "pngSha256": "0571204ad0c9c51971274b7c7121e781b0ac8dbf8ede81714ba2acad602be923",
+          "embeddedJapaneseText": false
+        }
+      ],
+      "sourceScript": "0144",
+      "sourceFunction": 1,
+      "entryInstruction": 1
+    }
+  ]
+}

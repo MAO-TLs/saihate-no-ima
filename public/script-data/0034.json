@@ -1,1 +1,52 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0034","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0034:000009","line":9,"sourceId":"0034:000009","speakerJa":"","speakerEn":"","japanese":"　リアルストラテジーゲームのあずさ的略称。\n　言葉の意味は理解していないため、小児的な記憶法となっている。","english":"Azusa's own shorthand for “real strategy game.” She does not understand what the words mean; it is merely a child's memory aid.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0034:000012","line":12,"sourceId":"0034:000012","speakerJa":"","speakerEn":"","japanese":"　\n　この手のゲームでは、時に反射神経がものをいう。\n　とある特定タイトルでのあずさの腕前（ネット対戦）は、全国レベルに達して\nいる。","english":"Games like these sometimes come down to reflexes. In online play of one particular title, Azusa can compete at the national level.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0034:000014","line":14,"sourceId":"0034:000014","speakerJa":"","speakerEn":"","japanese":"　\n　その力は勉学には活かされない。\n　忍はあずさに合わせ、同じ言い回しを用いている。","english":"None of that talent carries over into her schoolwork. Shinobu adopts the same turn of phrase for Azusa's benefit.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0034:000016","line":16,"sourceId":"0034:000016","speakerJa":"","speakerEn":"","japanese":"　\n　甘やかしすぎである。","english":"He spoils her far too much.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0034",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0034:000009",
+      "line": 9,
+      "sourceId": "0034:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　リアルストラテジーゲームのあずさ的略称。\n　言葉の意味は理解していないため、小児的な記憶法となっている。",
+      "english": "Azusa's own shorthand for “real strategy game.” She does not understand what the words mean; it is merely a child's memory aid.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0034:000012",
+      "line": 12,
+      "sourceId": "0034:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　この手のゲームでは、時に反射神経がものをいう。\n　とある特定タイトルでのあずさの腕前（ネット対戦）は、全国レベルに達して\nいる。",
+      "english": "Games like these sometimes come down to reflexes. In online play of one particular title, Azusa can compete at the national level.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0034:000014",
+      "line": 14,
+      "sourceId": "0034:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　その力は勉学には活かされない。\n　忍はあずさに合わせ、同じ言い回しを用いている。",
+      "english": "None of that talent carries over into her schoolwork. Shinobu adopts the same turn of phrase for Azusa's benefit.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0034:000016",
+      "line": 16,
+      "sourceId": "0034:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　甘やかしすぎである。",
+      "english": "He spoils her far too much.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

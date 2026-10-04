@@ -13,10 +13,10 @@ test('all eight source bullet lists retain separate English items',()=>{
   assert.equal(row.japanese.split('\n').filter(line=>/^\s*・/.test(line)).length,(row.english.match(/•/g)??[]).length,row.ref);
  }
 });
-test('hotfix JSON URLs bypass the earlier same-version browser cache',()=>{
+test('v1.1.0 JSON URLs bypass the earlier release browser cache',()=>{
  for(const file of ['index.json','0008.json','0092.json','concordance.json','hyperlink-entries.json']) {
   const url=new URL(scriptDataHref(file),'https://mao-tls.github.io/saihate-no-ima/script/');
   assert.equal(url.pathname,`/saihate-no-ima/script-data/${file}`);
-  assert.equal(url.searchParams.get('rev'),'20261004-recurrence-carryovers');
+  assert.equal(url.searchParams.get('rev'),'v1.1.0-20261005-b30809ca09f4');
  }
 });

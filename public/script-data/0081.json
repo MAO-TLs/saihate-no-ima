@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0081","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0081:000009","line":9,"sourceId":"0081:000009","speakerJa":"","speakerEn":"","japanese":"　Mobile Massively Multiplayer Online Role Playing Game","english":"Mobile Massively Multiplayer Online Role Playing Game","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0081:000012","line":12,"sourceId":"0081:000012","speakerJa":"","speakerEn":"","japanese":"　\n　大規模ネットワークアールピージーの携帯コンテンツ版のこと。\n　依然として強い人気を誇る、大規模ネットゲームだが、近年では携帯版も勢い\nが強い。","english":"A mobile version of a massively multiplayer online RPG. Massively multiplayer online games remain enormously popular, and in recent years their mobile versions have been gaining ground as well.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0081",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0081:000009",
+      "line": 9,
+      "sourceId": "0081:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　Mobile Massively Multiplayer Online Role Playing Game",
+      "english": "Mobile Massively Multiplayer Online Role Playing Game",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0081:000012",
+      "line": 12,
+      "sourceId": "0081:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　大規模ネットワークアールピージーの携帯コンテンツ版のこと。\n　依然として強い人気を誇る、大規模ネットゲームだが、近年では携帯版も勢い\nが強い。",
+      "english": "A mobile version of a massively multiplayer online RPG. Massively multiplayer online games remain enormously popular, and in recent years their mobile versions have been gaining ground as well.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0038","lineCount":6,"lines":[{"ref":"saihate:hyperlinks:0038:000009","line":9,"sourceId":"0038:000009","speakerJa":"","speakerEn":"","japanese":"　忍は夕食兼翌朝食用に、シチューを作ろうとしている。\n　ちょうど鶏ガラスープがいい感じに仕上がったところである。\n　別の鍋を用意して、ホワイトソースを作り始めた。\n　そろそろ賞味期限に近づいた牛乳をすべて使い切る。","english":"Shinobu is making stew for dinner and breakfast the next morning. His chicken stock has just turned out nicely. He sets another pot on the stove and starts on the white sauce. That uses up all the milk nearing its best-by date.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0038:000012","line":12,"sourceId":"0038:000012","speakerJa":"","speakerEn":"","japanese":"　ついでに言えば鶏肉もそうだった。\n　いつも千鳥は食べたいものの材料らしきものをメチャクチャ買い込んでくる。\n　その反面、希望を口にはしないから、忍は千鳥が\n何を求めているのか推理しなくてはならない。\n　アンバランスな材料の数々を、苦心して消費する。\n　どう頑張っても、いくつかの材料は食べきれずに残る。\n　今日は、鶏肉と牛乳が余ったのだった。","english":"The same goes for the chicken. Chidori always brings home a haphazard haul of ingredients for whatever she seems to want to eat. Yet she never says what she wants, so Shinobu has to deduce it for himself. He struggles to use up her lopsided assortment of ingredients. No matter how hard he tries, some of them always remain uneaten. Today, the leftovers are chicken and milk.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0038:000014","line":14,"sourceId":"0038:000014","speakerJa":"","speakerEn":"","japanese":"　シチューは男の料理だと思う忍だ。\n　鍋にいろいろぶちこむところが良い。\n　白ワイン。塩。コショウ。\n　ホワイトソースができた。","english":"Stew is a man’s dish, as far as Shinobu is concerned. The appeal lies in throwing everything into one pot. White wine. Salt. Pepper. The white sauce is ready.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0038:000016","line":16,"sourceId":"0038:000016","speakerJa":"","speakerEn":"","japanese":"　\n　新たな鍋を用意する。\n　具はすでに用意してある。\n　どれもダイナミックに切り刻んだ。形はどうでも良い。\n　千鳥はタマネギが嫌いなので、それだけはみじん切りにしてある。\n　肉はもう駄目だ。限界だ。はやく煮たい。煮てしまいたい。\n　本能のままにぶちまける。\n　鍋底の具にほどよく焼き色がついたあたりで、鶏ガラスープを注ぐ。\n　じっくりと煮こんだ後、最後にホワイトソースを加えた。","english":"He sets out another pot. The ingredients are already prepared. He has hacked them all up with gusto. Shape does not matter. Chidori hates onions, so those alone have been finely minced. The meat cannot wait any longer. It is at the limit. He wants to simmer it soon. Wants to simmer it now. He dumps everything in on instinct. Once the ingredients on the bottom are nicely browned, he pours in the chicken stock. After a long, slow simmer, he adds the white sauce at the very end.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0038:000018","line":18,"sourceId":"0038:000018","speakerJa":"","speakerEn":"","japanese":"　\n　シチュー、完成―――","english":"Stew complete—","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0038:000020","line":20,"sourceId":"0038:000020","speakerJa":"","speakerEn":"","japanese":"　大量のシチューは、二人だけでは消費しきれず、翌朝、紅緒宅にもわけられる\nこととなった。","english":"There was far too much stew for two people to finish, so the next morning some was sent over to the Benio household.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0038",
+  "lineCount": 6,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0038:000009",
+      "line": 9,
+      "sourceId": "0038:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　忍は夕食兼翌朝食用に、シチューを作ろうとしている。\n　ちょうど鶏ガラスープがいい感じに仕上がったところである。\n　別の鍋を用意して、ホワイトソースを作り始めた。\n　そろそろ賞味期限に近づいた牛乳をすべて使い切る。",
+      "english": "Shinobu is making stew for dinner and breakfast the next morning. His chicken stock has just turned out nicely. He sets another pot on the stove and starts on the white sauce. That uses up all the milk nearing its best-by date.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0038:000012",
+      "line": 12,
+      "sourceId": "0038:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ついでに言えば鶏肉もそうだった。\n　いつも千鳥は食べたいものの材料らしきものをメチャクチャ買い込んでくる。\n　その反面、希望を口にはしないから、忍は千鳥が\n何を求めているのか推理しなくてはならない。\n　アンバランスな材料の数々を、苦心して消費する。\n　どう頑張っても、いくつかの材料は食べきれずに残る。\n　今日は、鶏肉と牛乳が余ったのだった。",
+      "english": "The same goes for the chicken. Chidori always brings home a haphazard haul of ingredients for whatever she seems to want to eat. Yet she never says what she wants, so Shinobu has to deduce it for himself. He struggles to use up her lopsided assortment of ingredients. No matter how hard he tries, some of them always remain uneaten. Today, the leftovers are chicken and milk.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0038:000014",
+      "line": 14,
+      "sourceId": "0038:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　シチューは男の料理だと思う忍だ。\n　鍋にいろいろぶちこむところが良い。\n　白ワイン。塩。コショウ。\n　ホワイトソースができた。",
+      "english": "Stew is a man’s dish, as far as Shinobu is concerned. The appeal lies in throwing everything into one pot. White wine. Salt. Pepper. The white sauce is ready.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0038:000016",
+      "line": 16,
+      "sourceId": "0038:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　新たな鍋を用意する。\n　具はすでに用意してある。\n　どれもダイナミックに切り刻んだ。形はどうでも良い。\n　千鳥はタマネギが嫌いなので、それだけはみじん切りにしてある。\n　肉はもう駄目だ。限界だ。はやく煮たい。煮てしまいたい。\n　本能のままにぶちまける。\n　鍋底の具にほどよく焼き色がついたあたりで、鶏ガラスープを注ぐ。\n　じっくりと煮こんだ後、最後にホワイトソースを加えた。",
+      "english": "He sets out another pot. The ingredients are already prepared. He has hacked them all up with gusto. Shape does not matter. Chidori hates onions, so those alone have been finely minced. The meat cannot wait any longer. It is at the limit. He wants to simmer it soon. Wants to simmer it now. He dumps everything in on instinct. Once the ingredients on the bottom are nicely browned, he pours in the chicken stock. After a long, slow simmer, he adds the white sauce at the very end.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0038:000018",
+      "line": 18,
+      "sourceId": "0038:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　シチュー、完成―――",
+      "english": "Stew complete—",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0038:000020",
+      "line": 20,
+      "sourceId": "0038:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　大量のシチューは、二人だけでは消費しきれず、翌朝、紅緒宅にもわけられる\nこととなった。",
+      "english": "There was far too much stew for two people to finish, so the next morning some was sent over to the Benio household.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0071","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0071:000017","line":17,"sourceId":"0071:000017","speakerJa":"","speakerEn":"","japanese":"　光あるいは音などが、物質を経由し他の物質面に達すること。\n　影などを投げかけること。","english":"The passage of light, sound, or the like through matter to the surface of another substance. The casting of a shadow, for example.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0071",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0071:000017",
+      "line": 17,
+      "sourceId": "0071:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　光あるいは音などが、物質を経由し他の物質面に達すること。\n　影などを投げかけること。",
+      "english": "The passage of light, sound, or the like through matter to the surface of another substance. The casting of a shadow, for example.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

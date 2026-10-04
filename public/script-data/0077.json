@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0077","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0077:000009","line":9,"sourceId":"0077:000009","speakerJa":"","speakerEn":"","japanese":"　テーザー銃のこと。","english":"A TASER.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0077",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0077:000009",
+      "line": 9,
+      "sourceId": "0077:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　テーザー銃のこと。",
+      "english": "A TASER.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

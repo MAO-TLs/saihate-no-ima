@@ -1,1 +1,41 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0136","lineCount":3,"lines":[{"ref":"saihate:hyperlinks:0136:000009","line":9,"sourceId":"0136:000009","speakerJa":"","speakerEn":"","japanese":"　一般には、フッサールによって採りあげられた哲学の分野。","english":"In common usage, a field of philosophy brought to prominence by Husserl.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0136:000012","line":12,"sourceId":"0136:000012","speakerJa":"","speakerEn":"","japanese":"　\n　が、本来は物理学の言葉である。\n　人間の外感に現れる領域での物質運動を扱う部門を意味している。","english":"Originally, however, the term belonged to physics. It denoted the study of matter in motion within the realm accessible to the human external senses.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0136:000014","line":14,"sourceId":"0136:000014","speakerJa":"","speakerEn":"","japanese":"　\n　現在は、日米を中心に新たな分野である（物理としての）現象学が構築されて\nいる。\n　周辺への物理現象に対する干渉を実現する分野と言われ、環境汚染や保健上の\n様々な分野に恩恵をもたらすとされる。\n　生化学、物理、分子生物学等、様々な基礎知識が必要とされるため、その実態\nは総合的な学術分野となっている。","english":"A new field of phenomenology—in the physical sense—is now taking shape, chiefly in Japan and the United States. Said to enable intervention in physical phenomena in the surrounding environment, it is expected to benefit fields ranging from environmental pollution to public health. Because it requires a grounding in biochemistry, physics, molecular biology, and numerous other subjects, it is in practice a comprehensive academic discipline.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0136",
+  "lineCount": 3,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0136:000009",
+      "line": 9,
+      "sourceId": "0136:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　一般には、フッサールによって採りあげられた哲学の分野。",
+      "english": "In common usage, a field of philosophy brought to prominence by Husserl.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0136:000012",
+      "line": 12,
+      "sourceId": "0136:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　が、本来は物理学の言葉である。\n　人間の外感に現れる領域での物質運動を扱う部門を意味している。",
+      "english": "Originally, however, the term belonged to physics. It denoted the study of matter in motion within the realm accessible to the human external senses.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0136:000014",
+      "line": 14,
+      "sourceId": "0136:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　現在は、日米を中心に新たな分野である（物理としての）現象学が構築されて\nいる。\n　周辺への物理現象に対する干渉を実現する分野と言われ、環境汚染や保健上の\n様々な分野に恩恵をもたらすとされる。\n　生化学、物理、分子生物学等、様々な基礎知識が必要とされるため、その実態\nは総合的な学術分野となっている。",
+      "english": "A new field of phenomenology—in the physical sense—is now taking shape, chiefly in Japan and the United States. Said to enable intervention in physical phenomena in the surrounding environment, it is expected to benefit fields ranging from environmental pollution to public health. Because it requires a grounding in biochemistry, physics, molecular biology, and numerous other subjects, it is in practice a comprehensive academic discipline.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

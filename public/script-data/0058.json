@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0058","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0058:000009","line":9,"sourceId":"0058:000009","speakerJa":"","speakerEn":"","japanese":"　悲しみや心配事に沈んだ気分を緩和する……薬ではなく、あずさの認識上の\n誤字。\n　幼いあずさは、まだ世の中に多くの未知領域を残す。\n　とはいえ、この誤認にはある種の沈痛な気持ちを抱かざるを得ないのが本当の\nところであろう。","english":"A medicine that eases a heart sunk in sorrow or worry… or rather, not a medicine at all, but a typo that exists only in Azusa's mind. There is still so much of the world young Azusa has yet to discover. Still, this particular mistake cannot help leaving one with a certain pain-sunk feeling.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0058:000012","line":12,"sourceId":"0058:000012","speakerJa":"","speakerEn":"","japanese":"　\n　おあとがよろしいようで。","english":"And on that note, thank you and good night.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0058",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0058:000009",
+      "line": 9,
+      "sourceId": "0058:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　悲しみや心配事に沈んだ気分を緩和する……薬ではなく、あずさの認識上の\n誤字。\n　幼いあずさは、まだ世の中に多くの未知領域を残す。\n　とはいえ、この誤認にはある種の沈痛な気持ちを抱かざるを得ないのが本当の\nところであろう。",
+      "english": "A medicine that eases a heart sunk in sorrow or worry… or rather, not a medicine at all, but a typo that exists only in Azusa's mind. There is still so much of the world young Azusa has yet to discover. Still, this particular mistake cannot help leaving one with a certain pain-sunk feeling.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0058:000012",
+      "line": 12,
+      "sourceId": "0058:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　おあとがよろしいようで。",
+      "english": "And on that note, thank you and good night.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0044","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0044:000009","line":9,"sourceId":"0044:000009","speakerJa":"","speakerEn":"","japanese":"　戦争終結後、社会の混乱と空洞化によって、新規の娯楽放送はほとんど放映さ\nれていない。\n　特にテレビ放送局は絶命状態である。\n　ラジオなども再放送を延々と流す他、目新しいものは収録されてはいない。","english":"Since the war ended, the upheaval and hollowing-out of society have all but driven new entertainment from the airwaves. Television stations in particular are effectively dead. Radio fares little better: aside from endless reruns, nothing new is being recorded.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0044:000012","line":12,"sourceId":"0044:000012","speakerJa":"","speakerEn":"","japanese":"　\n　しかし政府広報などはラジオなどを通じて行われている。\n　また一部の有志によって、イマジナリー・ネットなどを用いた自主的な情報伝\n達経路が確立されつつある。","english":"Government bulletins, however, are still broadcast over the radio and similar channels. Meanwhile, volunteers are beginning to establish independent channels of communication through the Imaginary Net and similar systems.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0044",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0044:000009",
+      "line": 9,
+      "sourceId": "0044:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　戦争終結後、社会の混乱と空洞化によって、新規の娯楽放送はほとんど放映さ\nれていない。\n　特にテレビ放送局は絶命状態である。\n　ラジオなども再放送を延々と流す他、目新しいものは収録されてはいない。",
+      "english": "Since the war ended, the upheaval and hollowing-out of society have all but driven new entertainment from the airwaves. Television stations in particular are effectively dead. Radio fares little better: aside from endless reruns, nothing new is being recorded.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0044:000012",
+      "line": 12,
+      "sourceId": "0044:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　しかし政府広報などはラジオなどを通じて行われている。\n　また一部の有志によって、イマジナリー・ネットなどを用いた自主的な情報伝\n達経路が確立されつつある。",
+      "english": "Government bulletins, however, are still broadcast over the radio and similar channels. Meanwhile, volunteers are beginning to establish independent channels of communication through the Imaginary Net and similar systems.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

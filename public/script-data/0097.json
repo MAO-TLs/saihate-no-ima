@@ -1,1 +1,77 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0097","lineCount":5,"lines":[{"ref":"saihate:hyperlinks:0097:000010","line":10,"sourceId":"0097:000010","speakerJa":"","speakerEn":"","japanese":"　クラスＡ＋の現象行使者。","english":"A Class A+ phenomenon operator.","hyperlinks":[{"start":11,"end":30,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}],"japaneseHyperlinks":[{"start":7,"end":12,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}]},{"ref":"saihate:hyperlinks:0097:000013","line":13,"sourceId":"0097:000013","speakerJa":"","speakerEn":"","japanese":"　\n　ほぼ全ての現象行使者は、脳内物質を必要に応じてサンプリングする能力を備\nえる。","english":"Nearly all phenomenon operators can sample the chemicals in their brains as needed.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0097:000015","line":15,"sourceId":"0097:000015","speakerJa":"","speakerEn":"","japanese":"　特に優秀な者には、酵素を操り、蛋白・核酸・ビタミン・ホルモン等を抽出な\nらびに生産し、代謝に干渉する、ある種の生体ラボラトリーが実装される。\n　莫大な化学物質によって脳機能を増強することで、現象力は成立する。","english":"The most exceptional individuals have a kind of biological laboratory installed in them—one capable of manipulating enzymes and extracting or producing proteins, nucleic acids, vitamins, hormones, and other substances, thereby interfering with metabolism. Phenomenal power is realized by using vast quantities of chemicals to enhance brain function.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0097:000017","line":17,"sourceId":"0097:000017","speakerJa":"","speakerEn":"","japanese":"　クラスＡ＋……アクセラレイテッド・チルドレンとは、このラボ能力とニュー\nロン間の神経伝達速度を加速することで、人為的にスペックを引き上げられた最\n上級能力者たちである。","english":"Class A+—the Accelerated Children—are top-tier ability users whose capabilities have been artificially enhanced through this laboratory function and the acceleration of neural transmission between neurons.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0097:000019","line":19,"sourceId":"0097:000019","speakerJa":"","speakerEn":"","japanese":"　全ての能力が底上げされた、単体の人類としての到達点……岬に立つ者と言え\nる。","english":"With every ability enhanced, they represent the furthest point an individual human can reach— those who stand on the cape.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0097",
+  "lineCount": 5,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0097:000010",
+      "line": 10,
+      "sourceId": "0097:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＡ＋の現象行使者。",
+      "english": "A Class A+ phenomenon operator.",
+      "hyperlinks": [
+        {
+          "start": 11,
+          "end": 30,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 7,
+          "end": 12,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0097:000013",
+      "line": 13,
+      "sourceId": "0097:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　ほぼ全ての現象行使者は、脳内物質を必要に応じてサンプリングする能力を備\nえる。",
+      "english": "Nearly all phenomenon operators can sample the chemicals in their brains as needed.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0097:000015",
+      "line": 15,
+      "sourceId": "0097:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　特に優秀な者には、酵素を操り、蛋白・核酸・ビタミン・ホルモン等を抽出な\nらびに生産し、代謝に干渉する、ある種の生体ラボラトリーが実装される。\n　莫大な化学物質によって脳機能を増強することで、現象力は成立する。",
+      "english": "The most exceptional individuals have a kind of biological laboratory installed in them—one capable of manipulating enzymes and extracting or producing proteins, nucleic acids, vitamins, hormones, and other substances, thereby interfering with metabolism. Phenomenal power is realized by using vast quantities of chemicals to enhance brain function.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0097:000017",
+      "line": 17,
+      "sourceId": "0097:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＡ＋……アクセラレイテッド・チルドレンとは、このラボ能力とニュー\nロン間の神経伝達速度を加速することで、人為的にスペックを引き上げられた最\n上級能力者たちである。",
+      "english": "Class A+—the Accelerated Children—are top-tier ability users whose capabilities have been artificially enhanced through this laboratory function and the acceleration of neural transmission between neurons.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0097:000019",
+      "line": 19,
+      "sourceId": "0097:000019",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　全ての能力が底上げされた、単体の人類としての到達点……岬に立つ者と言え\nる。",
+      "english": "With every ability enhanced, they represent the furthest point an individual human can reach—those who stand on the cape.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

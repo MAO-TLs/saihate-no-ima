@@ -1,1 +1,30 @@
-{"route":"system","routeLabel":"System text","scriptId":"0000","lineCount":2,"lines":[{"ref":"saihate:system:0000:000002","line":2,"sourceId":"0000:000002","speakerJa":"","speakerEn":"","japanese":"debug entry","english":"Debug entry","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:system:0000:000006","line":6,"sourceId":"0000:000006","speakerJa":"","speakerEn":"","japanese":"release entry","english":"Release entry","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "system",
+  "routeLabel": "System text",
+  "scriptId": "0000",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:system:0000:000002",
+      "line": 2,
+      "sourceId": "0000:000002",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "debug entry",
+      "english": "Debug entry",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:system:0000:000006",
+      "line": 6,
+      "sourceId": "0000:000006",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "release entry",
+      "english": "Release entry",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

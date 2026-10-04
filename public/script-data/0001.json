@@ -1,1 +1,30 @@
-{"route":"system","routeLabel":"System text","scriptId":"0001","lineCount":2,"lines":[{"ref":"saihate:system:0001:000001","line":1,"sourceId":"0001:000001","speakerJa":"","speakerEn":"","japanese":"実行モードを選択してください。","english":"Select an execution mode.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:system:0001:000002","line":2,"sourceId":"0001:000002","speakerJa":"","speakerEn":"","japanese":"デバッグモード\nリリースモード","english":"Debug Mode Release Mode","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "system",
+  "routeLabel": "System text",
+  "scriptId": "0001",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:system:0001:000001",
+      "line": 1,
+      "sourceId": "0001:000001",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "実行モードを選択してください。",
+      "english": "Select an execution mode.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:system:0001:000002",
+      "line": 2,
+      "sourceId": "0001:000002",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "デバッグモード\nリリースモード",
+      "english": "Debug Mode Release Mode",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0107","lineCount":2,"lines":[{"ref":"saihate:hyperlinks:0107:000009","line":9,"sourceId":"0107:000009","speakerJa":"","speakerEn":"","japanese":"　Transmission ControlProtocol/Internet Protocol","english":"Transmission Control Protocol/Internet Protocol","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0107:000012","line":12,"sourceId":"0107:000012","speakerJa":"","speakerEn":"","japanese":"　\n　インターネット環境でベーシックに用いられる主要プロトコル。\n　\n　核攻撃で一部が破壊されても機能を維持するネットワーク開発の過程で誕生。\n　接続されている回線や機器の異質性等、ハードウェアの差異を共通規約のもの\nに管理し、分散制御を成立させているのが特徴。","english":"The primary protocol underlying internet communications.  It emerged during the development of a network designed to remain functional even if partially destroyed by nuclear attack. Its defining feature is distributed control. Hardware differences—including the disparate lines and devices connected to the network— are brought under a common set of rules.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0107",
+  "lineCount": 2,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0107:000009",
+      "line": 9,
+      "sourceId": "0107:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　Transmission ControlProtocol/Internet Protocol",
+      "english": "Transmission Control Protocol/Internet Protocol",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0107:000012",
+      "line": 12,
+      "sourceId": "0107:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　インターネット環境でベーシックに用いられる主要プロトコル。\n　\n　核攻撃で一部が破壊されても機能を維持するネットワーク開発の過程で誕生。\n　接続されている回線や機器の異質性等、ハードウェアの差異を共通規約のもの\nに管理し、分散制御を成立させているのが特徴。",
+      "english": "The primary protocol underlying internet communications.  It emerged during the development of a network designed to remain functional even if partially destroyed by nuclear attack. Its defining feature is distributed control. Hardware differences—including the disparate lines and devices connected to the network—are brought under a common set of rules.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

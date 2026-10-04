@@ -1,1 +1,52 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0110","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0110:000009","line":9,"sourceId":"0110:000009","speakerJa":"","speakerEn":"","japanese":"　体温計に４２度以上の目盛りが存在しないことは、有名な話だ。\n　無論それは、人間の体が４２度以上の発熱には耐えられないからである。\n　人体を構成する基本的マテリアルの一つに、タンパク質がある。\n　タンパク質、すなわちプロテイン。","english":"It is well known that thermometers have no markings above 42°C. The reason, of course, is that the human body cannot withstand a temperature above 42°C. One of the basic materials from which the human body is made is protein.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0110:000012","line":12,"sourceId":"0110:000012","speakerJa":"","speakerEn":"","japanese":"　ギリシャ語の『第一』という単語から来ているこの人体主成分は、極めて複雑\nなアミノ酸配列と構造を持つことで知られている。","english":"Taking its name from the Greek word for “first,” this major constituent of the human body is known for the extraordinary complexity of its amino acid sequences and structures.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0110:000014","line":14,"sourceId":"0110:000014","speakerJa":"","speakerEn":"","japanese":"　これらは通常、熱や圧力などにより二次以上の高次構造変化を引き起こす。\n　根元的な部分（一次構造）は変わらずとも、ＤＮＡにより緻密に編み上げられ\nたアーキテクチャは、わずか４２度の体温により崩壊を引き起こす。\n　上記のようにタンパク質が活性を失うことを変性という。","english":"Heat, pressure, and similar forces ordinarily alter their secondary and higher-order structures. Even when the underlying primary structure remains unchanged, the architecture so intricately woven by DNA begins to collapse at a body temperature of just 42°C. This loss of protein activity is called denaturation.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0110:000016","line":16,"sourceId":"0110:000016","speakerJa":"","speakerEn":"","japanese":"　変性したタンパク質は凝固し、人間の生命活動はこの過程に対応することはで\nきない。\n　生命維持はこの時点で遮断される。\n　それに関してならば、貴宮忍も例外ではない。","english":"Denatured proteins coagulate, a process the human body's life-sustaining functions cannot withstand. At that point, the body can no longer sustain life. In this respect, Shinobu Atemiya is no exception.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0110",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0110:000009",
+      "line": 9,
+      "sourceId": "0110:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　体温計に４２度以上の目盛りが存在しないことは、有名な話だ。\n　無論それは、人間の体が４２度以上の発熱には耐えられないからである。\n　人体を構成する基本的マテリアルの一つに、タンパク質がある。\n　タンパク質、すなわちプロテイン。",
+      "english": "It is well known that thermometers have no markings above 42°C. The reason, of course, is that the human body cannot withstand a temperature above 42°C. One of the basic materials from which the human body is made is protein.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0110:000012",
+      "line": 12,
+      "sourceId": "0110:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ギリシャ語の『第一』という単語から来ているこの人体主成分は、極めて複雑\nなアミノ酸配列と構造を持つことで知られている。",
+      "english": "Taking its name from the Greek word for “first,” this major constituent of the human body is known for the extraordinary complexity of its amino acid sequences and structures.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0110:000014",
+      "line": 14,
+      "sourceId": "0110:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　これらは通常、熱や圧力などにより二次以上の高次構造変化を引き起こす。\n　根元的な部分（一次構造）は変わらずとも、ＤＮＡにより緻密に編み上げられ\nたアーキテクチャは、わずか４２度の体温により崩壊を引き起こす。\n　上記のようにタンパク質が活性を失うことを変性という。",
+      "english": "Heat, pressure, and similar forces ordinarily alter their secondary and higher-order structures. Even when the underlying primary structure remains unchanged, the architecture so intricately woven by DNA begins to collapse at a body temperature of just 42°C. This loss of protein activity is called denaturation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0110:000016",
+      "line": 16,
+      "sourceId": "0110:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　変性したタンパク質は凝固し、人間の生命活動はこの過程に対応することはで\nきない。\n　生命維持はこの時点で遮断される。\n　それに関してならば、貴宮忍も例外ではない。",
+      "english": "Denatured proteins coagulate, a process the human body's life-sustaining functions cannot withstand. At that point, the body can no longer sustain life. In this respect, Shinobu Atemiya is no exception.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0055","lineCount":4,"lines":[{"ref":"saihate:hyperlinks:0055:000010","line":10,"sourceId":"0055:000010","speakerJa":"","speakerEn":"","japanese":"　本堂沙也加。\n　紅緒あずさ。\n　伊月笛子。\n　塚本葉子。","english":"Sayaka Hondou. Azusa Benio. Fueko Izuki. Youko Tsukamoto.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0055:000013","line":13,"sourceId":"0055:000013","speakerJa":"","speakerEn":"","japanese":"　\n　この四名には、相互に微弱な繋がりが確認される。\n　確実性のあるものではないが、互いの接近を感知したり、存在を感じたり、\n危険を察知したりといった現象が確認されている。","english":"A faint mutual connection has been observed among these four individuals. Though the connection is unreliable, they have been observed sensing one another’s approach or presence, and detecting danger.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0055:000020","line":20,"sourceId":"0055:000020","speakerJa":"","speakerEn":"","japanese":"　貴宮忍との関係が強いことから、残留模倣子群の適応放散による機能性変異の\n一種ではないかと思われる。","english":"Given their strong connection to Shinobu Atemiya, this is thought to be a type of functional mutation produced by adaptive radiation among residual mimetic units.","hyperlinks":[{"start":148,"end":161,"targetRef":"saihate:hyperlinks:0123:000009","preview":"A concept proposed by biologist Richard Dawkins in his book “The Selfish Gene.” Also translated as “"}],"japaneseHyperlinks":[{"start":18,"end":21,"targetRef":"saihate:hyperlinks:0123:000009","preview":"A concept proposed by biologist Richard Dawkins in his book “The Selfish Gene.” Also translated as “"}]},{"ref":"saihate:hyperlinks:0055:000022","line":22,"sourceId":"0055:000022","speakerJa":"","speakerEn":"","japanese":"　\n　しかし、相互の生体セキュリティを無効としているかのようなこれらの現象\nは、通常見ることはできないものである。\n　原因不明。","english":"Yet phenomena such as these, which appear to nullify one another's biological security, are not normally observed. Cause unknown.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0055",
+  "lineCount": 4,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0055:000010",
+      "line": 10,
+      "sourceId": "0055:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　本堂沙也加。\n　紅緒あずさ。\n　伊月笛子。\n　塚本葉子。",
+      "english": "Sayaka Hondou. Azusa Benio. Fueko Izuki. Youko Tsukamoto.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0055:000013",
+      "line": 13,
+      "sourceId": "0055:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　この四名には、相互に微弱な繋がりが確認される。\n　確実性のあるものではないが、互いの接近を感知したり、存在を感じたり、\n危険を察知したりといった現象が確認されている。",
+      "english": "A faint mutual connection has been observed among these four individuals. Though the connection is unreliable, they have been observed sensing one another’s approach or presence, and detecting danger.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0055:000020",
+      "line": 20,
+      "sourceId": "0055:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　貴宮忍との関係が強いことから、残留模倣子群の適応放散による機能性変異の\n一種ではないかと思われる。",
+      "english": "Given their strong connection to Shinobu Atemiya, this is thought to be a type of functional mutation produced by adaptive radiation among residual mimetic units.",
+      "hyperlinks": [
+        {
+          "start": 148,
+          "end": 161,
+          "targetRef": "saihate:hyperlinks:0123:000009",
+          "preview": "A concept proposed by biologist Richard Dawkins in his book “The Selfish Gene.” Also translated as “"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 18,
+          "end": 21,
+          "targetRef": "saihate:hyperlinks:0123:000009",
+          "preview": "A concept proposed by biologist Richard Dawkins in his book “The Selfish Gene.” Also translated as “"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0055:000022",
+      "line": 22,
+      "sourceId": "0055:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　しかし、相互の生体セキュリティを無効としているかのようなこれらの現象\nは、通常見ることはできないものである。\n　原因不明。",
+      "english": "Yet phenomena such as these, which appear to nullify one another's biological security, are not normally observed. Cause unknown.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

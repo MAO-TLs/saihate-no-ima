@@ -1,1 +1,110 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0096","lineCount":8,"lines":[{"ref":"saihate:hyperlinks:0096:000010","line":10,"sourceId":"0096:000010","speakerJa":"","speakerEn":"","japanese":"　クラスＡの現象行使者。","english":"A Class A phenomenon operator.","hyperlinks":[{"start":10,"end":29,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}],"japaneseHyperlinks":[{"start":6,"end":11,"targetRef":"saihate:hyperlinks:0137:000009","preview":"In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"}]},{"ref":"saihate:hyperlinks:0096:000013","line":13,"sourceId":"0096:000013","speakerJa":"","speakerEn":"","japanese":"　\n　現象行使者の中でも、薬物投与によってスペックを上昇させることに対応した\nクラスである。","english":"Among phenomenon operators, this class is equipped for performance enhancement through the administration of drugs.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000015","line":15,"sourceId":"0096:000015","speakerJa":"","speakerEn":"","japanese":"　本来、現象力は脳内の化学物質の生産量に左右される。\n　脳内生産だけに頼るクラスは、長時間活動するには都合が良いが、短期間に集\n中して高い処理能力を必要とする局面には適さない。","english":"Phenomenal power ultimately depends on the quantity of chemicals produced in the brain. Classes that rely solely on production within the brain are well suited to sustained activity, but not to short bursts requiring intensive, high-capacity processing.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000017","line":17,"sourceId":"0096:000017","speakerJa":"","speakerEn":"","japanese":"　ほぼ全ての現象行使者は何らかの薬物を服用するが（レシピは個々人の体質に\nよって異なる）、その耐性などは常人とそう変わるものではない。","english":"Nearly all phenomenon operators take some form of medication—the recipe varies with the individual's constitution— yet their tolerance differs little from an ordinary person's.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000019","line":19,"sourceId":"0096:000019","speakerJa":"","speakerEn":"","japanese":"　例えば脳内ラボでコリン作動性ニューロンの活動を高めるために、アセチルコ\nリンの濃度を引き上げる作動を開始したとする。\n　ここに塩酸ドネペジルなどのコリン阻害活性を有する薬物を投与してしまうと\n、阻害によって機能不全が発生する可能性がある。","english":"Suppose the laboratory within the brain begins raising acetylcholine levels to increase the activity of cholinergic neurons. If a drug with cholinergic-inhibiting properties, such as donepezil hydrochloride, is then administered, the resulting inhibition may cause dysfunction.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000021","line":21,"sourceId":"0096:000021","speakerJa":"","speakerEn":"","japanese":"　現象行使者も無闇に化学物質を生み出しているわけではない。\n　当人自身に、それなりの知識と経験が必要とされる。","english":"Phenomenon operators do not simply produce chemicals at random. Doing so requires a certain degree of knowledge and experience on the operator's part.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000023","line":23,"sourceId":"0096:000023","speakerJa":"","speakerEn":"","japanese":"　クラスＡは、機能が特定された現象行使者を対象とする。","english":"Class A is intended for phenomenon operators whose functions have been identified.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0096:000025","line":25,"sourceId":"0096:000025","speakerJa":"","speakerEn":"","japanese":"　アクティベーテッド・チルドレンとは、能力者としてのスペックが完全に定位\nされた者に対し、機能増強を実現するための（薬物摂取）パターニング・ブログ\nラムを成立させた能力者群である。","english":"Activated Children are ability users whose specifications have been fully characterized, allowing a drug-intake patterning blogram to be developed for the purpose of enhancing their functions.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0096",
+  "lineCount": 8,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0096:000010",
+      "line": 10,
+      "sourceId": "0096:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＡの現象行使者。",
+      "english": "A Class A phenomenon operator.",
+      "hyperlinks": [
+        {
+          "start": 10,
+          "end": 29,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 6,
+          "end": 11,
+          "targetRef": "saihate:hyperlinks:0137:000009",
+          "preview": "In the past, they were also called psychics, PSI users, espers, and other names. They are people cap"
+        }
+      ]
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000013",
+      "line": 13,
+      "sourceId": "0096:000013",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　現象行使者の中でも、薬物投与によってスペックを上昇させることに対応した\nクラスである。",
+      "english": "Among phenomenon operators, this class is equipped for performance enhancement through the administration of drugs.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000015",
+      "line": 15,
+      "sourceId": "0096:000015",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　本来、現象力は脳内の化学物質の生産量に左右される。\n　脳内生産だけに頼るクラスは、長時間活動するには都合が良いが、短期間に集\n中して高い処理能力を必要とする局面には適さない。",
+      "english": "Phenomenal power ultimately depends on the quantity of chemicals produced in the brain. Classes that rely solely on production within the brain are well suited to sustained activity, but not to short bursts requiring intensive, high-capacity processing.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000017",
+      "line": 17,
+      "sourceId": "0096:000017",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　ほぼ全ての現象行使者は何らかの薬物を服用するが（レシピは個々人の体質に\nよって異なる）、その耐性などは常人とそう変わるものではない。",
+      "english": "Nearly all phenomenon operators take some form of medication—the recipe varies with the individual's constitution—yet their tolerance differs little from an ordinary person's.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000019",
+      "line": 19,
+      "sourceId": "0096:000019",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　例えば脳内ラボでコリン作動性ニューロンの活動を高めるために、アセチルコ\nリンの濃度を引き上げる作動を開始したとする。\n　ここに塩酸ドネペジルなどのコリン阻害活性を有する薬物を投与してしまうと\n、阻害によって機能不全が発生する可能性がある。",
+      "english": "Suppose the laboratory within the brain begins raising acetylcholine levels to increase the activity of cholinergic neurons. If a drug with cholinergic-inhibiting properties, such as donepezil hydrochloride, is then administered, the resulting inhibition may cause dysfunction.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000021",
+      "line": 21,
+      "sourceId": "0096:000021",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　現象行使者も無闇に化学物質を生み出しているわけではない。\n　当人自身に、それなりの知識と経験が必要とされる。",
+      "english": "Phenomenon operators do not simply produce chemicals at random. Doing so requires a certain degree of knowledge and experience on the operator's part.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000023",
+      "line": 23,
+      "sourceId": "0096:000023",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　クラスＡは、機能が特定された現象行使者を対象とする。",
+      "english": "Class A is intended for phenomenon operators whose functions have been identified.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0096:000025",
+      "line": 25,
+      "sourceId": "0096:000025",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　アクティベーテッド・チルドレンとは、能力者としてのスペックが完全に定位\nされた者に対し、機能増強を実現するための（薬物摂取）パターニング・ブログ\nラムを成立させた能力者群である。",
+      "english": "Activated Children are ability users whose specifications have been fully characterized, allowing a drug-intake patterning blogram to be developed for the purpose of enhancing their functions.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

@@ -1,1 +1,19 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0040","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0040:000009","line":9,"sourceId":"0040:000009","speakerJa":"","speakerEn":"","japanese":"　東○製。\n　サウンドナナハン７５○ＦＴ。\n　３バンドラジオ。\n　製造……１９７０年代初期。\n　ＦＭ送信可。\n　名機。","english":"Made by T○. Sound Nanahan 75○FT. 3-band radio. Manufactured… early 1970s. Capable of FM transmission. A classic.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0040",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0040:000009",
+      "line": 9,
+      "sourceId": "0040:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　東○製。\n　サウンドナナハン７５○ＦＴ。\n　３バンドラジオ。\n　製造……１９７０年代初期。\n　ＦＭ送信可。\n　名機。",
+      "english": "Made by T○. Sound Nanahan 75○FT. 3-band radio. Manufactured… early 1970s. Capable of FM transmission. A classic.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}

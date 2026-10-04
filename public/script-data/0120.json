@@ -1,1 +1,33 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0120","lineCount":1,"lines":[{"ref":"saihate:hyperlinks:0120:000010","line":10,"sourceId":"0120:000010","speakerJa":"","speakerEn":"","japanese":"　TCP/IPというプロトコルによって世界全域に張り巡らされたネットワークの\nこと。","english":"A network spanning the entire world through the TCP/IP protocol.","hyperlinks":[{"start":48,"end":54,"targetRef":"saihate:hyperlinks:0107:000009","preview":"Transmission Control Protocol/Internet Protocol"}],"japaneseHyperlinks":[{"start":1,"end":7,"targetRef":"saihate:hyperlinks:0107:000009","preview":"Transmission Control Protocol/Internet Protocol"}]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0120",
+  "lineCount": 1,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0120:000010",
+      "line": 10,
+      "sourceId": "0120:000010",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　TCP/IPというプロトコルによって世界全域に張り巡らされたネットワークの\nこと。",
+      "english": "A network spanning the entire world through the TCP/IP protocol.",
+      "hyperlinks": [
+        {
+          "start": 48,
+          "end": 54,
+          "targetRef": "saihate:hyperlinks:0107:000009",
+          "preview": "Transmission Control Protocol/Internet Protocol"
+        }
+      ],
+      "japaneseHyperlinks": [
+        {
+          "start": 1,
+          "end": 7,
+          "targetRef": "saihate:hyperlinks:0107:000009",
+          "preview": "Transmission Control Protocol/Internet Protocol"
+        }
+      ]
+    }
+  ]
+}

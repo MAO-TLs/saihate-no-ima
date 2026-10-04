@@ -1,1 +1,140 @@
-{"route":"hyperlinks","routeLabel":"Hyperlink entries","scriptId":"0122","lineCount":12,"lines":[{"ref":"saihate:hyperlinks:0122:000009","line":9,"sourceId":"0122:000009","speakerJa":"","speakerEn":"","japanese":"　本来は外交における議定書を指す言葉である。","english":"The word originally referred to a written diplomatic agreement.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000012","line":12,"sourceId":"0122:000012","speakerJa":"","speakerEn":"","japanese":"　\n　有機ネットが発生する以前、ＵＳＥＲ同士の接続というものは存在していた\nかも知れないが、断片的なものであったと言われる。","english":"Connections between USERs may have existed before the Organic Net emerged, but they are said to have been fragmentary.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000014","line":14,"sourceId":"0122:000014","speakerJa":"","speakerEn":"","japanese":"　その主たる原因は、アプローチ・レベル、またはリテラシー・レベルの違い\nである。","english":"The principal cause was the difference in approach level or literacy level.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000016","line":16,"sourceId":"0122:000016","speakerJa":"","speakerEn":"","japanese":"　規格の違いによって通信が阻害されるのは当然であり、発信のルール・制御\n方法・概念に添付する識別符号などに規定され、はじめて有機ネットは基盤を\n持つようになった。","english":"Differences in standards naturally impede communication. Only once the rules of transmission, methods of control, and identifying codes attached to concepts had been defined did the Organic Net acquire a foundation.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000018","line":18,"sourceId":"0122:000018","speakerJa":"","speakerEn":"","japanese":"　現在、主要な有機ネットは非階層構造となっている。","english":"At present, the main Organic Net has a nonhierarchical structure.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000020","line":20,"sourceId":"0122:000020","speakerJa":"","speakerEn":"","japanese":"　プロトコルは水平方向の通信を規定するものである。階層の上下間通信手段\n（インターフェース）については、現在一部をのぞきサポートされていない。\n　無論、同じ層内部において該当する働きはある。これを仮想階層モデルと言\nう。","english":"Protocols govern horizontal communication. With a few exceptions, communication between higher and lower layers through interfaces is not currently supported. Equivalent functions do, of course, exist within a single layer. This is known as the virtual layer model.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000022","line":22,"sourceId":"0122:000022","speakerJa":"","speakerEn":"","japanese":"　有機ネットとは、莫大な転送能力を持つ未知の領域に、物理ネットの約束事\nをそのまま複写してしまったものに近い。\n　そのため用語等に重複があり、構造的にも酷似している部分が目立つ。","english":"The Organic Net is something like the conventions of the physical net copied wholesale onto an unknown domain with immense transfer capacity. Hence the overlap in terminology, and the conspicuous structural similarities.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000024","line":24,"sourceId":"0122:000024","speakerJa":"","speakerEn":"","japanese":"　有機ネットが発生した当初から、構造にはある程度の有用性が散見されてい\nた。\n　設計者の存在を示唆するものか、あるいは人間機能の発露なのかは、解明さ\nれていない。","english":"From the moment the Organic Net emerged, a certain degree of useful structure could already be found within it. Whether this points to a designer or represents a manifestation of human function remains unknown.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000026","line":26,"sourceId":"0122:000026","speakerJa":"","speakerEn":"","japanese":"　だが将来的に活用が予期される有用性の一つに、階層構造がある。","english":"One feature expected to prove useful in the future, however, is a layered architecture.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000028","line":28,"sourceId":"0122:000028","speakerJa":"","speakerEn":"","japanese":"　物理ネットのＯＳＩ階層モデルと同様、各層ごとに実装する機能モジュール\nを厳密に区分し、インターフェースを機能させることで、その通信ポテンシャ\nルは飛躍的に向上すると予測されている。","english":"As in the physical net's OSI model, rigorously separating the functional modules assigned to each layer and enabling communication through their interfaces is expected to increase the network's communications potential dramatically.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000030","line":30,"sourceId":"0122:000030","speakerJa":"","speakerEn":"","japanese":"　\n　なお、主要層として現在用いられているのは、前述した通り第一階層のみで\nある。","english":"As noted above, only the first layer is currently used as a principal layer.","hyperlinks":[],"japaneseHyperlinks":[]},{"ref":"saihate:hyperlinks:0122:000032","line":32,"sourceId":"0122:000032","speakerJa":"","speakerEn":"","japanese":"　\n　深層も含めて、全層利用が実現した時、そこに存在するのは人類の新しい地\n平である。\n　だがそれは同時に、人類の決定的限界も示している。","english":"When every layer—including the deep strata—is open for use, there will be a new horizon for humanity. Yet it will also reveal humanity's ultimate limits.","hyperlinks":[],"japaneseHyperlinks":[]}]}
+{
+  "route": "hyperlinks",
+  "routeLabel": "Hyperlink entries",
+  "scriptId": "0122",
+  "lineCount": 12,
+  "lines": [
+    {
+      "ref": "saihate:hyperlinks:0122:000009",
+      "line": 9,
+      "sourceId": "0122:000009",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　本来は外交における議定書を指す言葉である。",
+      "english": "The word originally referred to a written diplomatic agreement.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000012",
+      "line": 12,
+      "sourceId": "0122:000012",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　有機ネットが発生する以前、ＵＳＥＲ同士の接続というものは存在していた\nかも知れないが、断片的なものであったと言われる。",
+      "english": "Connections between USERs may have existed before the Organic Net emerged, but they are said to have been fragmentary.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000014",
+      "line": 14,
+      "sourceId": "0122:000014",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　その主たる原因は、アプローチ・レベル、またはリテラシー・レベルの違い\nである。",
+      "english": "The principal cause was the difference in approach level or literacy level.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000016",
+      "line": 16,
+      "sourceId": "0122:000016",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　規格の違いによって通信が阻害されるのは当然であり、発信のルール・制御\n方法・概念に添付する識別符号などに規定され、はじめて有機ネットは基盤を\n持つようになった。",
+      "english": "Differences in standards naturally impede communication. Only once the rules of transmission, methods of control, and identifying codes attached to concepts had been defined did the Organic Net acquire a foundation.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000018",
+      "line": 18,
+      "sourceId": "0122:000018",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　現在、主要な有機ネットは非階層構造となっている。",
+      "english": "At present, the main Organic Net has a nonhierarchical structure.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000020",
+      "line": 20,
+      "sourceId": "0122:000020",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　プロトコルは水平方向の通信を規定するものである。階層の上下間通信手段\n（インターフェース）については、現在一部をのぞきサポートされていない。\n　無論、同じ層内部において該当する働きはある。これを仮想階層モデルと言\nう。",
+      "english": "Protocols govern horizontal communication. With a few exceptions, communication between higher and lower layers through interfaces is not currently supported. Equivalent functions do, of course, exist within a single layer. This is known as the virtual layer model.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000022",
+      "line": 22,
+      "sourceId": "0122:000022",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　有機ネットとは、莫大な転送能力を持つ未知の領域に、物理ネットの約束事\nをそのまま複写してしまったものに近い。\n　そのため用語等に重複があり、構造的にも酷似している部分が目立つ。",
+      "english": "The Organic Net is something like the conventions of the physical net copied wholesale onto an unknown domain with immense transfer capacity. Hence the overlap in terminology, and the conspicuous structural similarities.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000024",
+      "line": 24,
+      "sourceId": "0122:000024",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　有機ネットが発生した当初から、構造にはある程度の有用性が散見されてい\nた。\n　設計者の存在を示唆するものか、あるいは人間機能の発露なのかは、解明さ\nれていない。",
+      "english": "From the moment the Organic Net emerged, a certain degree of useful structure could already be found within it. Whether this points to a designer or represents a manifestation of human function remains unknown.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000026",
+      "line": 26,
+      "sourceId": "0122:000026",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　だが将来的に活用が予期される有用性の一つに、階層構造がある。",
+      "english": "One feature expected to prove useful in the future, however, is a layered architecture.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000028",
+      "line": 28,
+      "sourceId": "0122:000028",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　物理ネットのＯＳＩ階層モデルと同様、各層ごとに実装する機能モジュール\nを厳密に区分し、インターフェースを機能させることで、その通信ポテンシャ\nルは飛躍的に向上すると予測されている。",
+      "english": "As in the physical net's OSI model, rigorously separating the functional modules assigned to each layer and enabling communication through their interfaces is expected to increase the network's communications potential dramatically.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000030",
+      "line": 30,
+      "sourceId": "0122:000030",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　なお、主要層として現在用いられているのは、前述した通り第一階層のみで\nある。",
+      "english": "As noted above, only the first layer is currently used as a principal layer.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    },
+    {
+      "ref": "saihate:hyperlinks:0122:000032",
+      "line": 32,
+      "sourceId": "0122:000032",
+      "speakerJa": "",
+      "speakerEn": "",
+      "japanese": "　\n　深層も含めて、全層利用が実現した時、そこに存在するのは人類の新しい地\n平である。\n　だがそれは同時に、人類の決定的限界も示している。",
+      "english": "When every layer—including the deep strata—is open for use, there will be a new horizon for humanity. Yet it will also reveal humanity's ultimate limits.",
+      "hyperlinks": [],
+      "japaneseHyperlinks": []
+    }
+  ]
+}
