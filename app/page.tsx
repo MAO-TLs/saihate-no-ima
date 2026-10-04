@@ -3,8 +3,6 @@ import { SiteNav } from "./SiteNav";
 import { SiteFooter } from "./SiteFooter";
 import index from "../public/script-data/index.json";
 import { countLabel } from "./count-label.mjs";
-import { routeLabel } from "./route-label.mjs";
-import { readerCategories } from "./reader-categories.mjs";
 
 export const dynamic = "force-static";
 
@@ -90,25 +88,10 @@ export default function Home() {
             search, corpus search, direct passage links, and hover-over hyperlinks.
             The reader contains {countLabel(index.totalLines, "bilingual passage")}.
           </p>
-        </div>
-        <div className="chapter-grid">
-          {readerCategories(index.routes).map((route, i) => (
-            <a
-              className="chapter-card"
-              href={`./script/?route=${route.id}&script=${route.scripts[0].id}`}
-              key={route.id}
-            >
-              <span className="chapter-number">{String(i + 1).padStart(2, "0")}</span>
-              <div>
-                <h3>{routeLabel(route.label)}</h3>
-                <p>{countLabel(route.lineCount, "line")} · {countLabel(route.scripts.length, "script")}</p>
-              </div>
-            </a>
-          ))}
-        </div>
         <a className="text-link" href="./script/">
           Open the script browser <span aria-hidden="true">→</span>
         </a>
+        </div>
       </section>
 
       <section className="install-section" id="install">
