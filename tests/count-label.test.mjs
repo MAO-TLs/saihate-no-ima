@@ -12,8 +12,8 @@ test('reader counts use singular for exactly one and plural for zero or many', (
 });
 test('reader option and source count labels use the shared formatter, and corpus prompt names this game', () => {
   const browser = readFileSync(new URL('../app/script/ScriptBrowser.tsx', import.meta.url), 'utf8');
-  assert.match(browser, /countLabel\(script.lineCount, "line"\)/);
-  assert.match(browser, /countLabel\(activePayload.lineCount, "source line"\)/);
+  assert.match(browser, /countLabel\(script.lineCount, script.imageOnly \? "image" : "line"\)/);
+  assert.match(browser, /countLabel\(activePayload.lineCount, routeId === "entries" \? "image" : "source line"\)/);
   assert.match(browser, /<code>saihate:<\/code> reference/);
   assert.doesNotMatch(browser, /<code>wa2:|<code>wa2mas:|in the main game and Special Contents/);
 });

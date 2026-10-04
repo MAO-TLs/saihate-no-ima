@@ -4,6 +4,7 @@ import { SiteFooter } from "./SiteFooter";
 import index from "../public/script-data/index.json";
 import { countLabel } from "./count-label.mjs";
 import { routeLabel } from "./route-label.mjs";
+import { readerCategories } from "./reader-categories.mjs";
 
 export const dynamic = "force-static";
 
@@ -91,7 +92,7 @@ export default function Home() {
           </p>
         </div>
         <div className="chapter-grid">
-          {(index.routes as {id:string; label:string; lineCount:number; scripts:{id:string}[]}[]).map((route, i) => (
+          {readerCategories(index.routes).map((route, i) => (
             <a
               className="chapter-card"
               href={`./script/?route=${route.id}&script=${route.scripts[0].id}`}

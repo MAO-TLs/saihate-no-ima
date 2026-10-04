@@ -1,5 +1,6 @@
 "use client";
 import { routeLabel } from "../route-label.mjs";
+import { readerCategories, readerCategoryId } from "../reader-categories.mjs";
 
 import {
   useDeferredValue,
@@ -551,7 +552,8 @@ function ScriptBrowserContent() {
   }, []);
 
   const routes = index?.routes ?? [];
-  const browsableRoutes = routes.filter(route => route.id !== "entries" && route.id !== "system");
+  const browsableRoutes = readerCategories<RouteSummary["scripts"][number], RouteSummary>(routes);
+  const categoryId = readerCategoryId(routeId);
   const totalLineLabel = index?.totalLines.toLocaleString() ?? "…";
   const totalScriptCount =
     browsableRoutes.reduce((sum, route) => sum + route.scripts.length, 0);
@@ -562,7 +564,7 @@ function ScriptBrowserContent() {
   );
   const orderedScripts = browsableRoutes.flatMap((route) =>
     route.scripts.map((script) => ({
-      routeId: route.id,
+      routeId: script.routeId,
       routeLabel: routeLabel(route.label),
       scriptId: script.id,
     })),
@@ -1302,9 +1304,9 @@ function ScriptBrowserContent() {
       <div className="reader-controls" id="reader-controls">
         <div className="control">
           <label htmlFor="chapter">Chapter</label>
-          <select id="chapter" value={routeId} disabled={searchScope === "corpus"} onChange={(event) => {
-            const route = routes.find(route => route.id === event.target.value);
-            if (route?.scripts[0]) selectScriptLocation(route.id, route.scripts[0].id);
+          <select id="chapter" value={categoryId} disabled={searchScope === "corpus"} onChange={(event) => {
+            const route = browsableRoutes.find(route => route.id === event.target.value);
+            if (route?.scripts[0]) selectScriptLocation(route.scripts[0].routeId, route.scripts[0].id);
           }}>
             {browsableRoutes.map(route => <option key={route.id} value={route.id}>{routeLabel(route.label)}</option>)}
           </select>
@@ -1341,11 +1343,11 @@ function ScriptBrowserContent() {
                 selectScriptLocation(nextRouteId, nextScriptId);
               }}
             >
-              {browsableRoutes.filter(route => route.id === routeId).map((route) => (
+              {browsableRoutes.filter(route => route.id === categoryId).map((route) => (
                 <optgroup key={route.id} label={routeLabel(route.label)}>
                   {route.scripts.map((script) => (
-                    <option key={`${route.id}:${script.id}`} value={`${route.id}::${script.id}`}>
-                      {script.id} · {countLabel(script.lineCount, "line")}
+                    <option key={`${script.routeId}:${script.id}`} value={`${script.routeId}::${script.id}`}>
+                      {script.imageOnly ? `Image ${script.id}` : script.id} · {countLabel(script.lineCount, script.imageOnly ? "image" : "line")}
                     </option>
                   ))}
                 </optgroup>
@@ -1505,9 +1507,9 @@ function ScriptBrowserContent() {
           ) : null}
           <div className="script-meta">
             <h2>
-              {routeLabel(activePayload.routeLabel)} · {activePayload.scriptId}
+              {routeId === "entries" ? "Hyperlink entries · Image" : routeLabel(activePayload.routeLabel)} · {activePayload.scriptId}
             </h2>
-            <p>{countLabel(activePayload.lineCount, "source line")}</p>
+            <p>{countLabel(activePayload.lineCount, routeId === "entries" ? "image" : "source line")}</p>
           </div>
 
           {visibleLines.length ? (
@@ -1524,7 +1526,7 @@ function ScriptBrowserContent() {
                 )}&compare=todokanai&errors=todokanai#${line.ref}`;
                 return (
                   <article
-                    className={`script-line${comparisonVisible ? " script-line-comparison" : ""}${errorFindings.length ? " script-line-error" : ""}`}
+                    className={`script-line${line.images?.length ? " script-line-image" : ""}${comparisonVisible ? " script-line-comparison" : ""}${errorFindings.length ? " script-line-error" : ""}`}
                     id={line.ref}
                     key={line.ref}
                     tabIndex={-1}

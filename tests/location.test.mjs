@@ -11,6 +11,15 @@ test('Back restores corpus query/filter and Forward restores hyperlink target', 
   const forward = parseReaderLocation(destination,index);
   assert.equal(forward.searchScope,'script'); assert.equal(forward.scriptId,'0009');
 });
+test('retired system links fall back to the story while image hyperlinks stay addressable',()=>{
+ const withSystem={routes:[...index.routes,{id:'system',scripts:[{id:'0000'}]}]};
+ const retired=parseReaderLocation('http://localhost/script/?route=system&script=0000#saihate:system:0000:000002',withSystem);
+ assert.equal(retired.routeId,'story');
+ assert.equal(retired.pendingRef,'');
+ const image=parseReaderLocation('http://localhost/script/?route=entries&script=0004#saihate:entries:0004:entry-001230',withSystem);
+ assert.equal(image.routeId,'entries');
+ assert.equal(image.pendingRef,'saihate:entries:0004:entry-001230');
+});
 test('location validates route/script/filter and malformed encoded hashes are harmless', () => {
   const state = parseReaderLocation('http://localhost/script/?scope=all&q=x&section=missing#%E0%A4%A',index);
   assert.equal(state.searchScope,'corpus'); assert.equal(state.corpusRouteId,'all'); assert.equal(state.pendingRef,'');

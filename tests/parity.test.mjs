@@ -41,7 +41,7 @@ test('download metadata follows the WA2 size, notes, version and compatibility l
 });
 test('reader hides internal categories and implementation warnings without removing image destinations',()=>{
  const browser=read('app/script/ScriptBrowser.tsx');
- assert.match(browser,/const browsableRoutes = routes.filter\(route => route.id !== "entries" && route.id !== "system"\)/);
+ assert.match(browser,/const browsableRoutes = readerCategories/);
  assert.match(browser,/browsableRoutes.map\(route => <option/);
  assert.match(browser,/if \(route.id === "entries" \|\| route.id === "system"\) return/);
  assert.match(browser,/!line.images\?\.length && <>/);
