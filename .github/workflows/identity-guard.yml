@@ -1,0 +1,36 @@
+name: MAO identity guard
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  identity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - name: Verify publishing identity and linear history
+        env:
+          ACTOR: ${{ github.actor }}
+          BEFORE: ${{ github.event.before || github.event.pull_request.base.sha }}
+          AFTER: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          set -euo pipefail
+          test "$ACTOR" = MAO-TLs
+          if [ -z "$BEFORE" ] || [[ "$BEFORE" =~ ^0+$ ]]; then
+            revisions="$AFTER"
+          else
+            revisions=$(git rev-list "$BEFORE..$AFTER")
+          fi
+          test -n "$revisions"
+          for revision in $revisions; do
+            test "$(git show -s --format='%an <%ae>' "$revision")" = 'MAO Translations <MAO-TLs@users.noreply.github.com>'
+            test "$(git show -s --format='%cn <%ce>' "$revision")" = 'MAO Translations <MAO-TLs@users.noreply.github.com>'
+            parents=$(git show -s --format=%P "$revision" | wc -w)
+            test "$parents" -le 1
+          done
