@@ -106,7 +106,7 @@ export function HyperlinkPreviewProvider({children}: {children: ReactNode}) {
       {entry?.lines.map(line => <div className="hyperlink-preview-passage" key={line.ref}>
         {(active.language === "ja" ? line.speakerJa : line.speakerEn) && !line.images?.length && <strong>{active.language === "ja" ? line.speakerJa : line.speakerEn}</strong>}
         {!line.images?.length && <p>{active.language === "ja" ? line.japanese : line.english}</p>}
-        {line.images?.map(image => <figure key={image.src}><img src={`..${image.src}`} alt={active.language === "ja" ? `ゲーム画像 ${image.graphicId}` : `Source game image ${image.graphicId}`} /><figcaption>{active.language === "ja" ? "原作の画像。ゲーム内の演出は再現していません。" : "Exact source asset; native effects are not emulated."}{image.embeddedJapaneseText && (active.language === "ja" ? "原作の日本語の看板を含みます。" : " Original Japanese signage is retained.")}</figcaption></figure>)}
+        {line.images?.map(image => <figure key={image.src}><img src={`..${image.src}`} alt={active.language === "ja" ? `ゲーム画像 ${image.graphicId}` : `Source game image ${image.graphicId}`} /></figure>)}
       </div>)}
       <a className="hyperlink-preview-open" href={destinationHref} onClick={close}>{active.language === "ja" ? "本文を開く →" : "Open passage →"}</a>
     </div>, document.body)}

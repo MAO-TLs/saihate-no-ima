@@ -37,5 +37,19 @@ test('download metadata follows the WA2 size, notes, version and compatibility l
  const page=read('app/page.tsx');
  assert.match(page,/Download complete release/);
  assert.match(page,/\d+\.\d MB · <a href="https:\/\/github.com\/MAO-TLs\/saihate-no-ima\/releases\/tag\/v1\.0\.0">Release notes<\/a>/);
- assert.match(page,/Version 1\.0\.0 · Windows \+ Wine\/CrossOver · Japanese COMPLETE edition required/);
+ assert.match(page,/Version 1\.0\.0 · Windows \+ Wine · Japanese COMPLETE edition required/);
+});
+test('reader hides internal categories and implementation warnings without removing image destinations',()=>{
+ const browser=read('app/script/ScriptBrowser.tsx');
+ assert.match(browser,/const browsableRoutes = routes.filter\(route => route.id !== "entries" && route.id !== "system"\)/);
+ assert.match(browser,/browsableRoutes.map\(route => <option/);
+ assert.match(browser,/if \(route.id === "entries" \|\| route.id === "system"\) return/);
+ assert.match(browser,/!line.images\?\.length && <>/);
+ assert.match(browser,/!images\?\.length && <>/);
+ assert.match(browser,/routeLabel\(activePayload.routeLabel\)/);
+ for (const file of ['app/script/ScriptBrowser.tsx','app/script/HyperlinkPreview.tsx','app/script/page.tsx']) {
+  assert.doesNotMatch(read(file),/not emulated|再現していません|<figcaption>/);
+ }
+ assert.equal(JSON.parse(read('public/script-data/index.json')).version,'1.0.0');
+ assert.match(read('app/script/HyperlinkPreview.tsx'),/line.images\?\.map/);
 });

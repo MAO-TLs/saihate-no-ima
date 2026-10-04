@@ -85,7 +85,7 @@ function HyperlinkText({ line, enabled, language = "en" }: { line: Pick<ScriptLi
 }
 
 function VisualEntryImages({ images }: { images?: ScriptLine["images"] }) {
-  return <>{images?.map(image => <figure key={image.src} style={{ margin: "1rem 0" }}><img src={`..${image.src}`} alt={`Source game image ${image.graphicId}`} style={{ width: "100%", height: "auto" }} /><figcaption>Exact source asset; native effects are not emulated.{image.embeddedJapaneseText ? " This original background contains Japanese signage." : ""}</figcaption></figure>)}</>;
+  return <>{images?.map(image => <figure key={image.src} style={{ margin: "1rem 0" }}><img src={`..${image.src}`} alt={`Source game image ${image.graphicId}`} style={{ width: "100%", height: "auto" }} /></figure>)}</>;
 }
 
 type ScriptPayload = {
@@ -551,15 +551,16 @@ function ScriptBrowserContent() {
   }, []);
 
   const routes = index?.routes ?? [];
+  const browsableRoutes = routes.filter(route => route.id !== "entries" && route.id !== "system");
   const totalLineLabel = index?.totalLines.toLocaleString() ?? "…";
   const totalScriptCount =
-    index?.routes.reduce((sum, route) => sum + route.scripts.length, 0) ?? 0;
+    browsableRoutes.reduce((sum, route) => sum + route.scripts.length, 0);
   const selectedRoute =
     routes.find((route) => route.id === routeId) ?? routes[0];
   const selectedScript = selectedRoute?.scripts.find(
     (script) => script.id === scriptId,
   );
-  const orderedScripts = routes.flatMap((route) =>
+  const orderedScripts = browsableRoutes.flatMap((route) =>
     route.scripts.map((script) => ({
       routeId: route.id,
       routeLabel: routeLabel(route.label),
@@ -1109,6 +1110,7 @@ function ScriptBrowserContent() {
 
     const matches: CorpusMatch[] = [];
     concordance.routes.forEach((route, routeIndex) => {
+      if (route.id === "entries" || route.id === "system") return;
       route.scripts.forEach((script, scriptIndex) => {
         script.lines.forEach((row, lineIndex) => {
           const primaryHaystack = normalizeSearchText(
@@ -1304,7 +1306,7 @@ function ScriptBrowserContent() {
             const route = routes.find(route => route.id === event.target.value);
             if (route?.scripts[0]) selectScriptLocation(route.id, route.scripts[0].id);
           }}>
-            {routes.map(route => <option key={route.id} value={route.id}>{routeLabel(route.label)}</option>)}
+            {browsableRoutes.map(route => <option key={route.id} value={route.id}>{routeLabel(route.label)}</option>)}
           </select>
         </div>
         <div className="control">
@@ -1339,7 +1341,7 @@ function ScriptBrowserContent() {
                 selectScriptLocation(nextRouteId, nextScriptId);
               }}
             >
-              {routes.filter(route => route.id === routeId).map((route) => (
+              {browsableRoutes.filter(route => route.id === routeId).map((route) => (
                 <optgroup key={route.id} label={routeLabel(route.label)}>
                   {route.scripts.map((script) => (
                     <option key={`${route.id}:${script.id}`} value={`${route.id}::${script.id}`}>
@@ -1503,7 +1505,7 @@ function ScriptBrowserContent() {
           ) : null}
           <div className="script-meta">
             <h2>
-              {activePayload.routeLabel} · {activePayload.scriptId}
+              {routeLabel(activePayload.routeLabel)} · {activePayload.scriptId}
             </h2>
             <p>{countLabel(activePayload.lineCount, "source line")}</p>
           </div>
@@ -1555,6 +1557,7 @@ function ScriptBrowserContent() {
                       {line.audioJapanese ? <details className="audio-source-note"><summary>音声より · From audio</summary><p lang="en">Underlining marks words supplied from audio and absent from the written script. Punctuation is editorial.</p><p lang="ja">画面上の原文：{line.japanese}</p></details> : null}
                     </div>
                     <div className="line-cell line-en">
+                      {!line.images?.length && <>
                       <div className="line-cell-heading">
                         <span className="speaker">{line.speakerEn}</span>
                         {comparisonVisible ? (
@@ -1562,6 +1565,7 @@ function ScriptBrowserContent() {
                         ) : null}
                       </div>
                       <p><HyperlinkText line={line} enabled={showHyperlinks} /></p>
+                      </>}
                       <VisualEntryImages images={line.images} />
                     </div>
                     {comparisonVisible ? (
@@ -1691,7 +1695,7 @@ function ScriptBrowserContent() {
                   All sections
                   <span>{corpusMatches.length.toLocaleString()}</span>
                 </button>
-                {routes.map((route) => {
+                {browsableRoutes.map((route) => {
                   const count = corpusRouteCounts.get(route.id) ?? 0;
                   return (
                     <button
@@ -1774,7 +1778,7 @@ function ScriptBrowserContent() {
                             href={resultHref}
                           >
                             <span>
-                              {line.routeLabel} · Script {line.scriptId} ·
+                              {routeLabel(line.routeLabel)} · Script {line.scriptId} ·
                               Line {lineNumber.toLocaleString()}
                             </span>
                             <code>{ref}</code>
@@ -1798,6 +1802,7 @@ function ScriptBrowserContent() {
                               {audioJapanese ? <details className="audio-source-note"><summary>音声より · From audio</summary><p lang="en">Underlining marks words supplied from audio and absent from the written script. Punctuation is editorial.</p><p lang="ja">画面上の原文：{japanese}</p></details> : null}
                             </div>
                             <div className="line-cell line-en">
+                              {!images?.length && <>
                               <div className="line-cell-heading">
                                 <span className="speaker">{speakerEn}</span>
                                 {globalComparisonVisible ? (
@@ -1807,6 +1812,7 @@ function ScriptBrowserContent() {
                                 ) : null}
                               </div>
                               <p><HyperlinkText line={{ english, whispers, hyperlinks }} enabled={showHyperlinks} /></p>
+                              </>}
                               <VisualEntryImages images={images} />
                             </div>
                             {globalComparisonVisible ? (
@@ -1900,7 +1906,7 @@ function ScriptBrowserContent() {
         </>
       ) : null}
 
-      <p className="reader-note">English script · {index?.version ?? "Loading"}. Script order is an archive index, not a chronology guide. Non-text entries display their exact source images; native game effects are not emulated.</p>
+      <p className="reader-note">English script · {index?.version ?? "Loading"}. Script order is an archive index, not a chronology guide.</p>
     </section>
   );
 }
