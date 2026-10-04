@@ -33,3 +33,9 @@ test('homepage reports bound edition and actual corpus',()=>{
  assert.match(page,/Other editions are not supported/);
  assert.match(page,/countLabel\(index.totalLines, "bilingual passage"\)/);
 });
+test('download metadata follows the WA2 size, notes, version and compatibility layout',()=>{
+ const page=read('app/page.tsx');
+ assert.match(page,/Download complete release/);
+ assert.match(page,/\d+\.\d MB · <a href="https:\/\/github.com\/MAO-TLs\/saihate-no-ima\/releases\/tag\/v1\.0\.0">Release notes<\/a>/);
+ assert.match(page,/Version 1\.0\.0 · Windows \+ Wine\/CrossOver · Japanese COMPLETE edition required/);
+});

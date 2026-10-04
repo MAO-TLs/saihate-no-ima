@@ -41,7 +41,7 @@ export default function Home() {
             </p>
             <div className="hero-actions">
               <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.0.0/saihate-no-ima-v1.0.0.zip">
-                Download v1.0.0
+                Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
               <a className="button button-secondary" href="./script/">
@@ -50,7 +50,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              Version 1.0.0 · Saihate no Ima COMPLETE (Farthest2015)
+              18.1 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.0.0">Release notes</a>
+              {" · Version 1.0.0 · Windows + Wine/CrossOver · Japanese COMPLETE edition required"}
             </p>
           </div>
 
