@@ -17,6 +17,6 @@ test('hotfix JSON URLs bypass the earlier same-version browser cache',()=>{
  for(const file of ['index.json','0008.json','0092.json','concordance.json','hyperlink-entries.json']) {
   const url=new URL(scriptDataHref(file),'https://mao-tls.github.io/saihate-no-ima/script/');
   assert.equal(url.pathname,`/saihate-no-ima/script-data/${file}`);
-  assert.equal(url.searchParams.get('rev'),'20261004-english-carryovers');
+  assert.equal(url.searchParams.get('rev'),'20261004-recurrence-carryovers');
  }
 });

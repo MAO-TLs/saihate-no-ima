@@ -14,9 +14,11 @@ The refreshed download standardizes four name occurrences to θ and restores str
 
 The same-version English cleanup also updates eight non-explicit passages in the reader and game: the approved affectionate nickname Immy, conventional English sounds, and redundant transliteration. The forum handle Super Kunoichi and source-written brand/compound names are retained. Context-dependent explicit passages are not rewritten by this hotfix.
 
+The combined hotfix also corrects 39 non-explicit passages across 36 source-reviewed recurrence groups: repeated quotations, callbacks, dialogue, narration, and shared definitions with different native record boundaries. Context-dependent subjects, narrative tense, and sentence continuations are preserved rather than globally replaced. This is a targeted consistency correction, not a new full-script literary reread.
+
 If the earlier 1.0.0 patch is already installed, first restore it with `Restore.cmd` from the earlier package, then run `Install.cmd` from the refreshed download. Movie subtitles do not need to be reinstalled.
 
-Download SHA-256: `d704980a7d3b3d0ff0898697ee6f1bfac4624247fabcad097d7ae5bd9211a10d`.
+Download SHA-256: `c2871cea0d711abc8447d41279833f58f4288b2f059465c88646b8ff277d2571`.
 
 ## Website development
 
