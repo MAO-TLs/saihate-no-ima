@@ -39,7 +39,7 @@ export default function Home() {
               accuracy, character voice, and natural literary English.
             </p>
             <div className="hero-actions">
-              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.0/saihate-no-ima-v1.1.0.zip">
+              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.1/saihate-no-ima-v1.1.1.zip">
                 Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
@@ -49,8 +49,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              18.1 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.0">Release notes</a>
-              {" · Version 1.1.0 · Windows + Wine · Japanese COMPLETE edition required"}
+              18.1 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.1">Release notes</a>
+              {" · Version 1.1.1 · Windows + Wine · Japanese COMPLETE edition required"}
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>1.1.0</strong>
+            <strong>1.1.1</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>
@@ -121,7 +121,7 @@ export default function Home() {
               <span>02</span>
               <div>
                 <h3>Apply the English patch</h3>
-                <p>Download the patch above, extract it, and follow its bundled README for your platform.</p>
+                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.0? Close the game and run Update-v1.1.0.cmd. Follow the bundled README for details.</p>
               </div>
             </li>
             <li>

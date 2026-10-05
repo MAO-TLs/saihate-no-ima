@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.0. Translation patch and full Japanese/English script reader.
+Version 1.1.1. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.0/saihate-no-ima-v1.1.0.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.1/saihate-no-ima-v1.1.1.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.1 — October 6, 2026
+
+Translates the in-game right-click menu and CG image-selection menu. The executable now loads game data beside itself, fixing copied installations that read Japanese scripts from an older registry path. Verification now rejects mixed original and English files. The story, bilingual reader, and movie subtitles are unchanged from v1.1.0.
+
+Already on v1.1.0: close the game and run **Update-v1.1.0.cmd** from the new download. It accepts the original v1.1.0 executable or the earlier Windows path repair, verifies the English data, and backs up the executable. **Undo-v1.1.1-update.cmd** reverses the update; use that before restoring with your original v1.1.0 package. Fresh installations use **Install.cmd**. Movie subtitles do not need reinstalling. Saves are not modified; saves previously loaded from a separate registered installation remain in that folder.
+
+The complete installer and direct updater passed local install/restore checks against the released files. Menu command IDs, flags, shortcuts, and existing settings dialogs are preserved. Confirmation on the affected native Windows machine remains pending.
+
+v1.1.1 download SHA-256: `9666de7cd897515824d0219fd924ae2a570811f465a777fca9d8ac36096b6c9e`.
 
 ## Version 1.1.0 — October 5, 2026
 
