@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.1. Translation patch and full Japanese/English script reader.
+Version 1.1.2. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.1/saihate-no-ima-v1.1.1.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.2/saihate-no-ima-v1.1.2.zip
 
-Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
+Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.2 — October 7, 2026
+
+Fixes the reported chapter-transition crash by correcting the separate routing index across all affected chapters. Embeds a private, open-license symbol font for missing yen signs, stars, arrows, brackets and other script symbols; ordinary English keeps the selected font. The window title is now **Saihate no Ima Complete**, without changing the internal save-folder name. Story translation, reader text and movie subtitles are unchanged.
+
+Already on v1.1.1: close the game and run **Update-v1.1.1.cmd**. It verifies the English game files, backs up the executable and chapter index, and updates only those two files. **Undo-v1.1.2-update.cmd** returns them to v1.1.1; use that before restoring with your matching older package. Fresh installations use **Install.cmd**; **Restore.cmd** reverses a fresh v1.1.2 installation. Keep all backups. Saves, settings and installed movie subtitles are not modified.
+
+The failing branch was reproduced and replayed past its former crash point under Wine. Embedded symbols and the English caption were visually checked in the running engine. Local installer, direct update/undo and interruption rollback tests passed. Native Windows confirmation and a full-game playthrough are not claimed.
+
+v1.1.2 download SHA-256: `162c3b3d93e88f81a07684ff6b6e8edd08dc0e4df2122f54f589d4859d868bc2`.
 
 ## Version 1.1.1 — October 6, 2026
 
