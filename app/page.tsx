@@ -62,7 +62,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>1.1.2</strong>
+            <strong>v1.1.2</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>

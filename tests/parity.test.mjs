@@ -19,6 +19,7 @@ test('canonical MAO publication and reader styles are frozen byte-identical copi
 });
 test('public release copy, repository links and credits are correct',()=>{
  const page=read('app/page.tsx');
+ assert.match(page, /<span className="release-label">Version<\/span>\s*<strong>v\d+\.\d+\.\d+<\/strong>/);
  for(const s of ['SAIHATE','NO&nbsp;IMA','Project Lead','GPT-6 Astra','gambs','v1.1.2/saihate-no-ima-v1.1.2.zip']) assert.ok(page.includes(s));
  assert.doesNotMatch(page,/Private preview|Unreleased|in preparation/);
  assert.match(read('app/layout.tsx'),/index: true, follow: true/);
