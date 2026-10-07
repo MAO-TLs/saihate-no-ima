@@ -39,7 +39,7 @@ export default function Home() {
               accuracy, character voice, and natural literary English.
             </p>
             <div className="hero-actions">
-              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.2/saihate-no-ima-v1.1.2.zip">
+              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.3/saihate-no-ima-v1.1.3.zip">
                 Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
@@ -49,8 +49,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              18.2 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.2">Release notes</a>
-              {" · Version 1.1.2 · Windows + Wine · Japanese COMPLETE edition required"}
+              18.1 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.3">Release notes</a>
+              {" · Version 1.1.3 · Windows + Wine · Japanese COMPLETE edition required"}
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>v1.1.2</strong>
+            <strong>v1.1.3</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>
@@ -121,7 +121,7 @@ export default function Home() {
               <span>02</span>
               <div>
                 <h3>Apply the English patch</h3>
-                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.1? Close the game and run Update-v1.1.1.cmd. Other older patches must first be restored with their matching package. Follow the bundled README for details.</p>
+                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.2? Close the game and run Update-v1.1.2.cmd, even if the game cannot launch. Other older patches must first be restored with their matching package. Follow the bundled README for details.</p>
               </div>
             </li>
             <li>

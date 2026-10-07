@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.2. Translation patch and full Japanese/English script reader.
+Version 1.1.3. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.2/saihate-no-ima-v1.1.2.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.3/saihate-no-ima-v1.1.3.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.3 — October 8, 2026
+
+Corrects a malformed executable layout introduced by v1.1.2's embedded symbol font. An 8 KB unmapped gap between two added sections violated Windows PE image requirements and caused the reported “This app can't run on your PC” launch failure. The rebuilt executable places the sections contiguously, regenerates cache references and corrects the image size. New regression checks reject the old layout before packaging.
+
+Already on v1.1.2: close the game and run **Update-v1.1.2.cmd**, even if the game currently cannot launch. It verifies the English files, backs up the executable and replaces only that executable. **Undo-v1.1.3-update.cmd** reverses this update; use it before restoring with your matching v1.1.2 package or undoing an older update. Fresh installations use **Install.cmd** and can be reversed with **Restore.cmd**. For older releases, restore with the matching package first. Keep all packages and backups.
+
+Chapter scripts, the routing-index crash correction, reader text, movie subtitles, menus, English window title and original save-folder name are retained. The updater does not modify saves, settings or movies. PE layout, x86 font-hook execution, ASLR, fresh installer/restore, update/undo and interruption rollback checks passed locally. Native Windows launch confirmation remains pending; a full-game playthrough is not claimed.
+
+v1.1.3 download SHA-256: `05a2a7867bf1c97527479061dc9a2d12c6d1fce9e1b1e01909f6e9f5c01819b3`.
 
 ## Version 1.1.2 — October 7, 2026
 
