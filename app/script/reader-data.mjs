@@ -1,4 +1,4 @@
-// Frozen v1.1.0 reader data uses a new cache revision.
+// Frozen v1.1.4 reader data uses a new cache revision.
 export function scriptDataHref(file) {
-  return `../script-data/${file}?rev=v1.1.0-20261005-b30809ca09f4`;
+  return `../script-data/${file}?rev=v1.1.4-20261008-78fee6aed03d`;
 }

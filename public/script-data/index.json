@@ -4,10 +4,11 @@
     "schema": "saihate-public-concordance/1",
     "totalLines": 46618
   },
-  "generatedAt": "2026-10-04",
+  "generatedAt": "2026-10-08",
   "provenance": {
     "hyperlinkDeclarations": 214,
-    "literarySha256": "c6bf7b2683d222691bb6a87a2d438ac5b4b933b73bdf02a39a65646dc0689d5e",
+    "baselineLiterarySha256": "c6bf7b2683d222691bb6a87a2d438ac5b4b933b73bdf02a39a65646dc0689d5e",
+    "editorialRevision": "v1.1.4",
     "sourceScripts": 172
   },
   "routes": [
@@ -1231,5 +1232,5 @@
     }
   ],
   "totalLines": 46618,
-  "version": "1.1.0"
+  "version": "1.1.4"
 }

@@ -1,6 +1,6 @@
 {
   "schema": "saihate-public-concordance/1",
-  "version": "private-20261004",
+  "version": "1.1.4",
   "totalLines": 46618,
   "fields": [
     "ref",
@@ -120633,7 +120633,7 @@
               "忍",
               "Shinobu",
               "（僕……俺は……知っている……？）",
-              "(I… no, I… know this…?)",
+              "(I… ‘I’… know this…?)",
               "",
               [],
               "",

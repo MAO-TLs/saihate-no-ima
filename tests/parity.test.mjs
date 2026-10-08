@@ -20,7 +20,7 @@ test('canonical MAO publication and reader styles are frozen byte-identical copi
 test('public release copy, repository links and credits are correct',()=>{
  const page=read('app/page.tsx');
  assert.match(page, /<span className="release-label">Version<\/span>\s*<strong>v\d+\.\d+\.\d+<\/strong>/);
- for(const s of ['SAIHATE','NO&nbsp;IMA','Project Lead','GPT-6 Astra','gambs','v1.1.3/saihate-no-ima-v1.1.3.zip']) assert.ok(page.includes(s));
+ for(const s of ['SAIHATE','NO&nbsp;IMA','Project Lead','GPT-6 Astra','gambs','v1.1.4/saihate-no-ima-v1.1.4.zip']) assert.ok(page.includes(s));
  assert.doesNotMatch(page,/Private preview|Unreleased|in preparation/);
  assert.match(read('app/layout.tsx'),/index: true, follow: true/);
  assert.match(read('app/SiteNav.tsx'),/github.com\/MAO-TLs\/saihate-no-ima/);
@@ -37,8 +37,8 @@ test('homepage reports bound edition and actual corpus',()=>{
 test('download metadata follows the WA2 size, notes, version and compatibility layout',()=>{
  const page=read('app/page.tsx');
  assert.match(page,/Download complete release/);
- assert.match(page,/\d+\.\d MB · <a href="https:\/\/github.com\/MAO-TLs\/saihate-no-ima\/releases\/tag\/v1\.1\.3">Release notes<\/a>/);
- assert.match(page,/Version 1\.1\.3 · Windows \+ Wine · Japanese COMPLETE edition required/);
+ assert.match(page,/\d+\.\d MB · <a href="https:\/\/github.com\/MAO-TLs\/saihate-no-ima\/releases\/tag\/v1\.1\.4">Release notes<\/a>/);
+ assert.match(page,/Version 1\.1\.4 · Windows \+ Wine · Japanese COMPLETE edition required/);
 });
 test('reader hides internal categories and implementation warnings without removing image destinations',()=>{
  const browser=read('app/script/ScriptBrowser.tsx');
@@ -51,6 +51,6 @@ test('reader hides internal categories and implementation warnings without remov
  for (const file of ['app/script/ScriptBrowser.tsx','app/script/HyperlinkPreview.tsx','app/script/page.tsx']) {
   assert.doesNotMatch(read(file),/not emulated|再現していません|<figcaption>/);
  }
- assert.equal(JSON.parse(read('public/script-data/index.json')).version,'1.1.0');
+ assert.equal(JSON.parse(read('public/script-data/index.json')).version,'1.1.4');
  assert.match(read('app/script/HyperlinkPreview.tsx'),/line.images\?\.map/);
 });

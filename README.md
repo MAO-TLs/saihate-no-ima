@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.3. Translation patch and full Japanese/English script reader.
+Version 1.1.4. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.3/saihate-no-ima-v1.1.3.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.4/saihate-no-ima-v1.1.4.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.4 — October 8, 2026
+
+Corrects one dialogue line in both the game and bilingual reader to preserve a deliberate change of self-reference without adding a story explanation. The searchable corpus has the same correction, and reader data uses a new cache revision.
+
+Already on v1.1.3: close the game and run **Update-v1.1.3.cmd**. It verifies the complete English installation, backs up one scenario file and replaces only that file. **Undo-v1.1.4-update.cmd** reverses this update to v1.1.3; use it before restoring with the matching v1.1.3 package or undoing an older update. Fresh installations use **Install.cmd** and can be reversed with **Restore.cmd**. For older releases, restore with the matching package first, or update to v1.1.3 with its matching updater. Keep all packages and backups.
+
+All other game files, the executable, routing index, menus, embedded symbol font, layout settings and movies are unchanged from v1.1.3. Saves and settings are not updater targets. Source binding, native re-extraction, control-flow preservation, line capacity, fresh install/restore, update/undo and interruption rollback checks passed locally. No new runtime playtest or full-game playthrough is claimed.
+
+v1.1.4 download SHA-256: `def4e7ab1fc1ff76c327851e8e45163bf12ac1958d1c1c003cc5713b9ed70140`.
 
 ## Version 1.1.3 — October 8, 2026
 
