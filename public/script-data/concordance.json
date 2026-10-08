@@ -1,6 +1,6 @@
 {
   "schema": "saihate-public-concordance/1",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "totalLines": 46618,
   "fields": [
     "ref",

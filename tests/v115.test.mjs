@@ -58,7 +58,7 @@ test('v1.1.5 search corpus carries exactly the same four corrections', () => {
     count++;
   }
   assert.equal(count, 4);
-  assert.equal(current.version, '1.1.5');
+  assert.equal(current.version, '1.1.6');
   current.version = '1.1.4';
   assert.equal(hash(current), 'a4f8cf63ca4668d3f5f70ebca48372734e2786fb1f4b4b9c46643e8c735ac177');
 });
@@ -78,10 +78,10 @@ test('v1.1.5 exact recurrences remain exact', () => {
   }
 });
 
-test('v1.1.5 reader metadata and cache revision match', () => {
-  assert.equal(read('index.json').version, '1.1.5');
+test('current reader metadata and cache revision match', () => {
+  assert.equal(read('index.json').version, '1.1.6');
   assert.equal(
     new URL(scriptDataHref('0008.json'), 'https://example.com/script/').searchParams.get('rev'),
-    'v1.1.5-20261008-d32d36ce157a',
+    'v1.1.6-20261009-c907173f2204',
   );
 });

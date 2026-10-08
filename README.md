@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.5. Translation patch and full Japanese/English script reader.
+Version 1.1.6. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.5/saihate-no-ima-v1.1.5.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.6/saihate-no-ima-v1.1.6.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.6 — October 9, 2026
+
+Fixes scenario-advancement crashes caused by empty ruby-reading commands. Eleven commands across five scenario files now use native no-op slots. Visible translation, meaningful annotations, instruction positions, branches, hyperlinks and read-text tracking are unchanged. The executable, menus, embedded font, routing index and movies are byte-identical to v1.1.5.
+
+Already on v1.1.5: close the game and run **Update-v1.1.5.cmd**. It verifies the complete English installation and backs up five scenario files before replacing them. **Undo-v1.1.6-update.cmd** reverses the update. Fresh installations use **Install.cmd**, with **Restore.cmd** for restoration. For older releases, restore with the matching package first, or update sequentially to v1.1.5 with the matching updaters. Keep all packages and backups. Saves and settings are untouched; installed movie subtitles need no reinstallation.
+
+The exact empty-ruby payload reproduced a runtime abort in an isolated neutral Wine fixture; the replacement advanced normally. All 172 scenario scripts were scanned, and byte-preservation, fresh install/restore, update/undo, preflight rejection and rollback tests passed. Native Windows, the reported route and a full-game playthrough have not been verified.
+
+v1.1.6 download SHA-256: `c907173f2204ea4cf87837de59ee730c05d587dec256a9037b6b5d2c55a00b71`.
 
 ## Version 1.1.5 — October 8, 2026
 
