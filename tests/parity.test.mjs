@@ -34,6 +34,13 @@ test('homepage reports bound edition and actual corpus',()=>{
  assert.match(page,/Other editions are not supported/);
  assert.match(page,/countLabel\(index.totalLines, "bilingual passage"\)/);
 });
+test('read-online description retains the shared heading typography with a sibling browser link',()=>{
+ const page=read('app/page.tsx');
+ const section=page.match(/<section className="section shell">[\s\S]*?<\/section>/)?.[0];
+ assert.ok(section);
+ assert.match(section,/<div className="section-heading">[\s\S]*?<h2>Browse the complete script<\/h2>[\s\S]*?<p>[\s\S]*?<\/p>\s*<\/div>\s*<a className="text-link" href="\.\/script\/">/);
+ assert.doesNotMatch(section,/chapter-grid|chapter-card/);
+});
 test('download metadata follows the WA2 size, notes, version and compatibility layout',()=>{
  const page=read('app/page.tsx');
  assert.match(page,/Download complete release/);

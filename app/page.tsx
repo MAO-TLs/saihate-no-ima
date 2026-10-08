@@ -88,10 +88,10 @@ export default function Home() {
             search, corpus search, direct passage links, and hover-over hyperlinks.
             The reader contains {countLabel(index.totalLines, "bilingual passage")}.
           </p>
+        </div>
         <a className="text-link" href="./script/">
           Open the script browser <span aria-hidden="true">→</span>
         </a>
-        </div>
       </section>
 
       <section className="install-section" id="install">
