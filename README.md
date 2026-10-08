@@ -1,12 +1,22 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.4. Translation patch and full Japanese/English script reader.
+Version 1.1.5. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.4/saihate-no-ima-v1.1.4.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.5/saihate-no-ima-v1.1.5.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.5 — October 8, 2026
+
+Applies four source-bound English corrections found in a script-wide critical-edition pass. They repair an actor assignment, a viewpoint referent, a recurrence mismatch, and an over-specified fragment. The game, bilingual reader, and searchable corpus use the same corrected wording.
+
+Already on v1.1.4: close the game and run **Update-v1.1.4.cmd**. It verifies the complete English installation, backs up four scenario files and replaces only those files. **Undo-v1.1.5-update.cmd** reverses this update to v1.1.4; use it before restoring with the matching v1.1.4 package or undoing an older update. Fresh installations use **Install.cmd** and can be reversed with **Restore.cmd**. For older releases, restore with the matching package first, or update sequentially to v1.1.4 with its matching updater. Keep all packages and backups.
+
+All other game files, the executable, routing index, menus, embedded symbol font, layout settings and movies are unchanged from v1.1.4. Saves and settings are not updater targets. All 46,618 source records and 426 scene bindings were included in the source-wide audit; source binding, native re-extraction, exact recurrence, control-flow preservation, line capacity, fresh install/restore, update/undo and interruption rollback checks passed locally. No new runtime playtest or full-game playthrough is claimed.
+
+v1.1.5 download SHA-256: `d32d36ce157ab4f6fbdbb6280ca21e44b46c62b42ddc3a4e38b182ab13520711`.
 
 ## Version 1.1.4 — October 8, 2026
 
