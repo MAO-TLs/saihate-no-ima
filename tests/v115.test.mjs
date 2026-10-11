@@ -5,6 +5,8 @@ import {test} from 'node:test';
 import {scriptDataHref} from '../app/script/reader-data.mjs';
 
 const read = name => JSON.parse(readFileSync(new URL('../public/script-data/' + name, import.meta.url)));
+const later = JSON.parse(readFileSync(new URL('./fixtures/v117.json', import.meta.url)));
+const undoLater = doc => { for (const row of doc.lines ?? []) for (const c of later) if (row.ref === c.ref) row[c.field] = c.before; };
 const hash = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 const changes = [
   {
@@ -40,6 +42,7 @@ const changes = [
 test('v1.1.5 changes exactly four approved English fields', () => {
   for (const change of changes) {
     const current = read(change.file);
+    undoLater(current);
     const line = current.lines.find(row => row.ref === change.ref);
     assert.equal(line.english, change.after);
     line.english = change.before;
@@ -49,6 +52,7 @@ test('v1.1.5 changes exactly four approved English fields', () => {
 
 test('v1.1.5 search corpus carries exactly the same four corrections', () => {
   const current = read('concordance.json');
+  for (const route of current.routes) for (const script of route.scripts) for (const row of script.lines) for (const c of later) if (row[0] === c.ref) row[c.field === 'english' ? 5 : 3] = c.before;
   let count = 0;
   for (const route of current.routes) for (const script of route.scripts) for (const row of script.lines) {
     const change = changes.find(item => item.ref === row[0]);
@@ -58,7 +62,7 @@ test('v1.1.5 search corpus carries exactly the same four corrections', () => {
     count++;
   }
   assert.equal(count, 4);
-  assert.equal(current.version, '1.1.6');
+  assert.equal(current.version, '1.1.7');
   current.version = '1.1.4';
   assert.equal(hash(current), 'a4f8cf63ca4668d3f5f70ebca48372734e2786fb1f4b4b9c46643e8c735ac177');
 });
@@ -79,9 +83,9 @@ test('v1.1.5 exact recurrences remain exact', () => {
 });
 
 test('current reader metadata and cache revision match', () => {
-  assert.equal(read('index.json').version, '1.1.6');
+  assert.equal(read('index.json').version, '1.1.7');
   assert.equal(
     new URL(scriptDataHref('0008.json'), 'https://example.com/script/').searchParams.get('rev'),
-    'v1.1.6-20261009-c907173f2204',
+    'v1.1.7-20261011-16016327a3b7',
   );
 });

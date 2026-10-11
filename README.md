@@ -1,12 +1,34 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.6. Translation patch and full Japanese/English script reader.
+Version 1.1.7. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.6/saihate-no-ima-v1.1.6.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.7/saihate-no-ima-v1.1.7.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.7 — Interface and text-layout repairs
+
+Repairs for the confirmed UI and layout defects reported in issue #21:
+
+- Translate copied chapter-title display strings and remaining mapped native interface labels and dialogs without changing chapter routing keys or save locations.
+- Add page breaks to overlong full-page text append chains, repair unnecessary sentence divisions, and restore missing line breaks in six structured lists.
+- Standardize nine inconsistent speaker-name labels in the game and reader.
+
+The executable and 56 scenario files change. All earlier fixes are retained. Georgia, the embedded symbol font, glyph rasterization, outline and shadow behavior remain unchanged. The separately reported distorted-letter appearance has not been confirmed fixed; this release does not include experimental font-rendering changes.
+
+**Already on v1.1.6:** close the game, extract this download, and run **Update-v1.1.6.cmd**. The updater verifies the complete English installation, backs up the 57 changed files and applies only those changes. **Undo-v1.1.7-update.cmd** restores the v1.1.6 files; use it before restoring with the matching older package or undoing older updates. Keep all packages and backups.
+
+**Fresh installation:** run **Install.cmd** on an unmodified Japanese COMPLETE installation. **Restore.cmd** reverses a fresh v1.1.7 installation. For older releases, restore with the matching package first, or update sequentially to v1.1.6 with the matching updaters. Python 3.10+ is required. Saves, settings, and movie files are not updater targets.
+
+Opening-movie subtitles remain a separate optional installation: follow **movies/README.md** using your own movies. Install.cmd does not install movie subtitles. Previously installed subtitles do not need reinstalling.
+
+Verification includes all 172 scenario scripts, text preservation apart from the nine name labels, routing and read-ID preservation, explicit full-page append-chain budgets, native-hook emulation including relocated image addresses, PE section adjacency, and reversible package installation/update tests. English chapter-selection labels and the exit-dialog caption were observed in an isolated Wine test copy. Native Windows, the reported Chapter History screen, and every repaired page have not been runtime-verified; no full-game playthrough is claimed.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+Download SHA-256: `16016327a3b7232f4e1d9728fbb9ea0f5891b3cd7680e7dd0e24537b55811180`.
 
 ## Version 1.1.6 — October 9, 2026
 
