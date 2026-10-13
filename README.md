@@ -1,12 +1,32 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.8. Translation patch and full Japanese/English script reader.
+Version 1.1.9. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.8/saihate-no-ima-v1.1.8.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.9/saihate-no-ima-v1.1.9.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.9 — Text corrections
+
+- Correct 39 textual records across the game and bilingual reader, including dialogue responses, references, wordplay and narrative continuity.
+- Keep search and hyperlink previews synchronized with the corrected text, including the relocated span of an existing hyperlink.
+- Repair six affected dialogue wraps associated with issue #26.
+
+The executable and ten scenario files change. All earlier fixes are retained. Fonts, rendering, saves, settings and movie files are unchanged.
+
+**Already on v1.1.8:** close the game, extract this download, and run **Update-v1.1.8.cmd**. The updater verifies the complete English installation, backs up the 11 changed files and applies only those changes. **Undo-v1.1.9-update.cmd** restores the v1.1.8 files; use it before restoring with the matching older package or undoing older updates. Keep all packages and backups.
+
+**Fresh installation:** run **Install.cmd** on an unmodified Japanese COMPLETE installation. **Restore.cmd** reverses a fresh v1.1.9 installation. For older releases, restore with the matching package first, or update sequentially to v1.1.8 with the matching updaters. Python 3.10+ is required. Saves, settings, and movie files are not updater targets.
+
+Opening-movie subtitles remain a separate optional installation: follow **movies/README.md** using your own movies. Install.cmd does not install movie subtitles. Previously installed subtitles do not need reinstalling.
+
+Verification includes source-bound text projection, routing and read-ID preservation, unchanged control payloads and hyperlink destinations, reader/search/hover synchronization, final continuation-offset checks, PE layout validation, and reversible installation/update tests. This increment has not received a new in-game playtest; native Windows and a full-game playthrough were not tested.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+Download SHA-256: `da322bca060c2f0c3dd0c40cd7f6475eb257cfb39e73f307f881e8b907d4e42a`.
 
 ## Version 1.1.8 — Interface and text-layout repairs
 

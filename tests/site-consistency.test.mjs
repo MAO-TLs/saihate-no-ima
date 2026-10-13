@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 const read = file => readFileSync(new URL('../' + file, import.meta.url), 'utf8');
 
 test('reader uses the shared script-version label', () => {
-  assert.ok(read("app/script/page.tsx").includes("Script version v1.1.8"));
+  assert.ok(read("app/script/page.tsx").includes("Script version v1.1.9"));
 });
 
 test('GitHub navigation opens this title repository', () => {

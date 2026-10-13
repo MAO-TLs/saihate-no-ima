@@ -8371,7 +8371,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　ふふん、と笛子は鼻を鳴らした。\n　正直ちょっと痛いな、と忍は思った。",
-      "english": "Fueko gave a smug little sniff. That hit rather close to home, Shinobu thought.",
+      "english": "Fueko gave a smug little sniff. Honestly, this was a little painful to watch, Shinobu thought.",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -20166,7 +20166,7 @@
       "speakerJa": "笛子",
       "speakerEn": "Fueko",
       "japanese": "「モラルには？」",
-      "english": "“What about morals?”",
+      "english": "“What about moral restraint?”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -20177,7 +20177,7 @@
       "speakerJa": "葉子",
       "speakerEn": "Youko",
       "japanese": "「漏れる」",
-      "english": "“It leaks.”",
+      "english": "“Can't hold it.”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -20188,7 +20188,7 @@
       "speakerJa": "章二",
       "speakerEn": "Shouji",
       "japanese": "「漏らすな」",
-      "english": "“Don't leak.”",
+      "english": "“Then hold it in.”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -27927,7 +27927,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　多くの知者が挑み、論理のメスを入れてきた。\n　心と魂は、物理なのか、あるいは霊的な根元のな\nい存在なのか。",
-      "english": "Many thinkers had challenged it, laying it open with the scalpel of logic. Were heart and soul physical, or were they beings without any spiritual root?",
+      "english": "Many thinkers had challenged it, laying it open with the scalpel of logic. Were heart and soul physical, or spiritual entities without a material basis?",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -31431,7 +31431,7 @@
       "speakerJa": "忍",
       "speakerEn": "Shinobu",
       "japanese": "「愛してる」",
-      "english": "“I love them.”",
+      "english": "“I'm in love.”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -32344,7 +32344,7 @@
       "speakerJa": "沙也加",
       "speakerEn": "Sayaka",
       "japanese": "「ここに、埋めたの」",
-      "english": "“I buried it here.”",
+      "english": "“I buried them here.”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -40011,11 +40011,11 @@
       "speakerJa": "忍",
       "speakerEn": "Shinobu",
       "japanese": "「せっかくのＡ資金が……」",
-      "english": "“And there goes my precious A Fund…”",
+      "english": "“And I had my precious A Fund all ready…”",
       "hyperlinks": [
         {
-          "start": 28,
-          "end": 34,
+          "start": 23,
+          "end": 29,
           "targetRef": "saihate:story:0010:010600",
           "preview": "The A Fund."
         }
@@ -54441,7 +54441,7 @@
       "speakerJa": "忍",
       "speakerEn": "Shinobu",
       "japanese": "「小児性は関係ない」",
-      "english": "“Childishness has nothing to do with it.”",
+      "english": "“Puerility has nothing to do with it.”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -54452,7 +54452,7 @@
       "speakerJa": "章二",
       "speakerEn": "Shouji",
       "japanese": "「あ？　しょうに……なに？」",
-      "english": "“Huh? Child… what?”",
+      "english": "“Huh? Puer... what?”",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -74470,7 +74470,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　\n　忍のデートに際し、義姉である千鳥のポケットマネーから供与されたあらゆる\n書類に記載されない予算枠のことである。\n　提供者である貴宮千鳥の名字から、Ａ資金と呼ばれ、その額は二万円であると\n言われる。",
-      "english": "The term actually refers to an entirely off-the-books budget financed with pocket money from Shinobu’s older sister, Chidori, to pay for one of Shinobu’s dates. It takes the A in its name from its provider, Chidori Atemiya, and is said to total twenty thousand yen.",
+      "english": "The term actually refers to an entirely off-the-books budget financed with pocket money from Shinobu’s older sister Chidori, who is not related to him by blood, to pay for one of Shinobu’s dates. It takes the A in its name from its provider, Chidori Atemiya, and is said to total twenty thousand yen.",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },

@@ -11,5 +11,5 @@ test('v1.1.8 synchronizes four approved English records and concordance',()=>{
   assert.equal(lines.find(r=>r.ref===c.ref).english,c.after);
   assert.equal(concordance.find(r=>r[0]===c.ref)[5],c.after);
  }
- assert.equal(read('index.json').version,'1.1.8');
+ assert.equal(read('index.json').version,'1.1.9');
 });

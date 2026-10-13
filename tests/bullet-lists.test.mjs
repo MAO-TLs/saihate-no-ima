@@ -13,10 +13,10 @@ test('all eight source bullet lists retain separate English items',()=>{
   assert.equal(row.japanese.split('\n').filter(line=>/^\s*・/.test(line)).length,(row.english.match(/•/g)??[]).length,row.ref);
  }
 });
-test('v1.1.8 JSON URLs bypass the earlier release browser cache',()=>{
+test('v1.1.9 JSON URLs bypass the earlier release browser cache',()=>{
  for(const file of ['index.json','0008.json','0092.json','concordance.json','hyperlink-entries.json']) {
   const url=new URL(scriptDataHref(file),'https://mao-tls.github.io/saihate-no-ima/script/');
   assert.equal(url.pathname,`/saihate-no-ima/script-data/${file}`);
-  assert.equal(url.searchParams.get('rev'),'v1.1.8-20261013-3f34f25a93b6');
+  assert.equal(url.searchParams.get('rev'),'v1.1.9-20261014-da322bca060c');
  }
 });

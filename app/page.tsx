@@ -39,7 +39,7 @@ export default function Home() {
               accuracy, character voice, and natural literary English.
             </p>
             <div className="hero-actions">
-              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.8/saihate-no-ima-v1.1.8.zip">
+              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.9/saihate-no-ima-v1.1.9.zip">
                 Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
@@ -49,8 +49,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              18.8 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.8">Release notes</a>
-              {" · Patch version v1.1.8 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
+              19.9 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.9">Release notes</a>
+              {" · Patch version v1.1.9 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>v1.1.8</strong>
+            <strong>v1.1.9</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>
@@ -121,7 +121,7 @@ export default function Home() {
               <span>02</span>
               <div>
                 <h3>Apply the English patch</h3>
-                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.7? Close the game and run Update-v1.1.7.cmd. Other older patches must first be restored with their matching package, or updated sequentially to v1.1.7 with its matching updater. Follow the bundled README for details.</p>
+                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.8? Close the game and run Update-v1.1.8.cmd. Other older patches must first be restored with their matching package, or updated sequentially to v1.1.8 with its matching updater. Follow the bundled README for details.</p>
               </div>
             </li>
             <li>
