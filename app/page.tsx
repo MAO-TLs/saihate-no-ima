@@ -50,7 +50,7 @@ export default function Home() {
             </div>
             <p className="compatibility">
               18.8 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.8">Release notes</a>
-              {" · Version 1.1.8 · Windows + Wine · Japanese COMPLETE edition required"}
+              {" · Patch version v1.1.8 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
             </p>
           </div>
 

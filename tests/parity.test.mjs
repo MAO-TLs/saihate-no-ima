@@ -45,7 +45,7 @@ test('download metadata follows the WA2 size, notes, version and compatibility l
  const page=read('app/page.tsx');
  assert.match(page,/Download complete release/);
  assert.match(page,/\d+\.\d MB · <a href="https:\/\/github.com\/MAO-TLs\/saihate-no-ima\/releases\/tag\/v1\.1\.8">Release notes<\/a>/);
- assert.match(page,/Version 1\.1\.8 · Windows \+ Wine · Japanese COMPLETE edition required/);
+ assert.match(page,/Patch version v1\.1\.8 · Windows \+ Wine · Japanese COMPLETE edition required/);
 });
 test('reader hides internal categories and implementation warnings without removing image destinations',()=>{
  const browser=read('app/script/ScriptBrowser.tsx');
