@@ -1,12 +1,35 @@
 # Saihate no Ima — MAO English translation
 
-Version 1.1.7. Translation patch and full Japanese/English script reader.
+Version 1.1.8. Translation patch and full Japanese/English script reader.
 
-Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.7/saihate-no-ima-v1.1.7.zip
+Download: https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.8/saihate-no-ima-v1.1.8.zip
 
 Requires a legally obtained Japanese copy of **Saihate no Ima COMPLETE** (Farthest2015). Follow the patch archive's bundled README. The Windows script installer is `Install.cmd` and requires Python 3.10+. Optional movie-subtitle installation requires external FFmpeg; see the bundled instructions.
 
 Credits: Project Lead — MAO; Translator — GPT-6 Astra; Special Thanks — gambs.
+
+## Version 1.1.8 — Interface and text-layout repairs
+
+Incremental repairs for issue #23:
+
+- Complete the display-title inventory, including 71 previously omitted titles, without changing chapter routing keys.
+- Translate truncated save labels without changing saved comments or save data.
+- Repair wrapping in two custom panels, including portrait-column pagination and hyperlink placement.
+- Clarify four connected dialogue records in the game and reader.
+
+The executable and three scenario files change. All earlier fixes are retained. Georgia, the embedded symbol font, glyph rasterization, outline and shadow behavior remain unchanged. No experimental font-rendering changes are included.
+
+**Already on v1.1.7:** close the game, extract this download, and run **Update-v1.1.7.cmd**. The updater verifies the complete English installation, backs up the 4 changed files and applies only those changes. **Undo-v1.1.8-update.cmd** restores the v1.1.7 files; use it before restoring with the matching older package or undoing older updates. Keep all packages and backups.
+
+**Fresh installation:** run **Install.cmd** on an unmodified Japanese COMPLETE installation. **Restore.cmd** reverses a fresh v1.1.8 installation. For older releases, restore with the matching package first, or update sequentially to v1.1.7 with the matching updaters. Python 3.10+ is required. Saves, settings, and movie files are not updater targets.
+
+Opening-movie subtitles remain a separate optional installation: follow **movies/README.md** using your own movies. Install.cmd does not install movie subtitles. Previously installed subtitles do not need reinstalling.
+
+Verification includes title-hook emulation for all 418 executable routing titles, routing and read-ID preservation checks, reader synchronization, PE layout validation, and reversible installation/update tests. Under Wine, truncated save labels and both affected panels were visually checked; the relocated panel hyperlink also worked. Chapter History displayed existing checkpoint titles correctly, but the three specific later titles reported in the issue were not visually verified. Native Windows and a full-game playthrough were not tested.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+Download SHA-256: `3f34f25a93b6af10df4fdee5d2039e91f05bf71b2e00452a93103c1aeaffc3bd`.
 
 ## Version 1.1.7 — Interface and text-layout repairs
 

@@ -19,6 +19,6 @@ test('v1.1.7 release metadata distinguishes repairs from unverified font appeara
   assert.match(notes,/Update-v1\.1\.6\.cmd/);
   assert.match(notes,/Undo-v1\.1\.7-update\.cmd/);
   assert.match(notes,/distorted-letter appearance has not been confirmed fixed/);
-  assert.equal(read('index.json').version,'1.1.7');
-  assert.equal(read('concordance.json').version,'1.1.7');
+  assert.equal(read('index.json').version,'1.1.8');
+  assert.equal(read('concordance.json').version,'1.1.8');
 });
