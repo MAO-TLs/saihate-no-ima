@@ -11,8 +11,8 @@ test('v1.1.9 projects39 approved textual corrections and their search records',(
   assert.deepEqual(row[c.field],c.after);
   assert.deepEqual(concordance.find(r=>r[0]===c.ref)[{english:5,hyperlinks:10}[c.field]],c.after);
  }
- assert.equal(read('index.json').version,'1.1.9');
- assert.equal(read('concordance.json').version,'1.1.9');
+ assert.equal(read('index.json').version,'1.1.10');
+ assert.equal(read('concordance.json').version,'1.1.10');
 });
 test('v1.1.9 relocated reader hyperlink retains its phrase and destination',()=>{
  const c=changes.find(c=>c.field==='hyperlinks');

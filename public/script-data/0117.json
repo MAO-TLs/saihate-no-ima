@@ -33,7 +33,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　\n　感応１７\n　　　上流１６．５\n　　　下流７．８\n　操作９．２\n　作用５８２",
-      "english": "Sensitivity 17     Upstream 16.5     Downstream 7.8 Control 9.2 Effect 582",
+      "english": "Sensitivity 17\n    Upstream 16.5\n    Downstream 7.8\nControl 9.2\nEffect 582",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -44,7 +44,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　《特記事項》\n　MindCrusher\n　作戦行動中に問題行動\n　再インストール処置を施す\n　経過観測期間",
-      "english": "《Special Notes》 MindCrusher Problematic conduct during operations Reinstallation procedure administered Follow-up observation period",
+      "english": "《Special Notes》\nMindCrusher\nProblematic conduct during operations\nReinstallation procedure administered\nFollow-up observation period",
       "hyperlinks": [
         {
           "start": 16,
@@ -435,7 +435,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "メディスン",
-      "english": "MEDICINE",
+      "english": "",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },

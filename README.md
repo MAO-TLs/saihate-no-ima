@@ -1,3 +1,27 @@
+# v1.1.10 — Issue #29 fixes
+
+
+- Repair the movie completion handler so the story continues after playback. Improve optional movie encoding quality and preserve frame timing.
+- Rebuild chapter, CG, music and system-voice menus with consistent type sizes, baselines and complete labels. Restore the previous story-font renderer.
+- Remove English ruby overlays and rewrite affected passages to retain their meaning in the prose.
+- Repair report, profile, mail, forum and blog layouts; preserve lists, fit enlarged text, and correct clickable anchors and copied blog titles.
+- Use measured font widths for regular dialogue. Reflow backlog prose to its own width while preserving paragraph/list breaks and joining source continuations.
+- Include all 113 reviewed English gallery voice captions and repair gallery navigation.
+
+**Updating v1.1.9:** close the game, extract this package, and run **Update-v1.1.9.cmd**. It verifies the installation, backs up all 165 changed targets, and preserves saves, settings and movies. **Undo-v1.1.10-update.cmd** restores v1.1.9. Keep all previous packages and backups.
+
+**Fresh installation:** run **Install.cmd** on an unmodified Japanese COMPLETE installation. **Restore.cmd** reverses that fresh installation. For earlier English releases, restore with the matching package first or update sequentially to v1.1.9. Python 3.10+ is required.
+
+**Previously subtitled movies:** the game-data updater does not replace movies. To obtain the encoding corrections, restore the original movies using the old package's movie_install.py restore command and matching subtitle bundle/render receipt. Then render into a new folder using this release, verify and install. Follow **movies/README.md**. No game video or audio is included.
+
+Verification covers all issue screenshots and the reported font regressions, all 113 native gallery caption displays and returns, dialogue/backlog/list regressions, hyperlink navigation, sampled scrolling cadence, and natural completion of the reported movie followed by continued dialogue. These checks span isolated macOS/Wine QA builds; the shipped game targets match the final checked candidate. Windows hardware, a full-game playthrough, direct listening to every gallery clip, and frame-perfect playback on every system are not claimed.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+SHA-256: `05eb779d7d9e80a220db543e8a8e3ffb31037100f40eb644c7ba2d6cf0389f68`
+
+---
+
 # Saihate no Ima — MAO English translation
 
 Version 1.1.9. Translation patch and full Japanese/English script reader.

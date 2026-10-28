@@ -65,7 +65,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "ログ",
-          "english": "LOG",
+          "english": "",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -13611,7 +13611,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　\n　感応１７\n　　　上流１６．５\n　　　下流７．８\n　操作９．２\n　作用５８２",
-          "english": "Sensitivity 17     Upstream 16.5     Downstream 7.8 Control 9.2 Effect 582",
+          "english": "Sensitivity 17\n    Upstream 16.5\n    Downstream 7.8\nControl 9.2\nEffect 582",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -13622,7 +13622,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　《特記事項》\n　MindCrusher\n　作戦行動中に問題行動\n　再インストール処置を施す\n　経過観測期間",
-          "english": "《Special Notes》 MindCrusher Problematic conduct during operations Reinstallation procedure administered Follow-up observation period",
+          "english": "《Special Notes》\nMindCrusher\nProblematic conduct during operations\nReinstallation procedure administered\nFollow-up observation period",
           "hyperlinks": [
             {
               "start": 16,
@@ -14013,7 +14013,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "メディスン",
-          "english": "MEDICINE",
+          "english": "",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -26289,7 +26289,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "ひとや",
-          "english": "prison",
+          "english": "",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -37593,7 +37593,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　場所……＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n　日時……＊＊／＊＊　ＰＭ２：００～\n　参加費用……＊＊＊＊円（ワンドリンク）\n　参加資格……クソ、ゲス、ビッチ\n　出入り禁止……ハイエナ野郎、その他正装禁止",
-          "english": "Venue......*************** Date........**/**, 2:00 p.m.– Admission...**** yen (one drink) Eligible....Pieces of shit, scumbags, bitches Banned......Hyena bastards. Formalwear also banned",
+          "english": "Venue......***************\nDate........**/**, 2:00 p.m.–\nAdmission...**** yen (one drink)\nEligible....Pieces of shit, scumbags, bitches\nBanned......Hyena bastards. Formalwear also banned",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -52263,7 +52263,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　安永茂（２８）男／公務員\n　\n　感応\n　　　上流１．５\n　　　下流０．２\n　操作０\n　作用１",
-          "english": "Shigeru Yasunaga (28), male / civil servant  Sensitivity     Upstream 1.5     Downstream 0.2 Control 0 Effect 1",
+          "english": "Shigeru Yasunaga (28), male / civil servant\nSensitivity\n    Upstream 1.5\n    Downstream 0.2\nControl 0\nEffect 1",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -52274,7 +52274,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　林文夫（４２）男／自営業\n　\n　感応\n　　　上流１．９\n　　　下流１．１\n　操作０．１\n　作用１．２",
-          "english": "Fumio Hayashi (42), male / self-employed  Sensitivity     Upstream 1.9     Downstream 1.1 Control 0.1 Effect 1.2",
+          "english": "Fumio Hayashi (42), male / self-employed\nSensitivity\n    Upstream 1.9\n    Downstream 1.1\nControl 0.1\nEffect 1.2",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -52505,7 +52505,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　本堂鏡子（３１）女／無職\n　\n　感応\n　　　上流０．１\n　　　下流０．１\n　操作０．５\n　作用３４",
-          "english": "Kyouko Hondou (31), female / unemployed  Sensitivity     Upstream 0.1     Downstream 0.1 Control 0.5 Effect 34",
+          "english": "Kyouko Hondou (31), female / unemployed\nSensitivity\n    Upstream 0.1\n    Downstream 0.1\nControl 0.5\nEffect 34",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -53969,7 +53969,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "と",
-          "english": "apostles",
+          "english": "",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -53980,7 +53980,7 @@
           "speakerJa": "",
           "speakerEn": "",
           "japanese": "　秩序の徒たる大人たちによる、混迷。\n　理解を超えていたのかも知れない。",
-          "english": "adults, apostles of order, sunk in confusion. Perhaps it lay beyond her comprehension.",
+          "english": "Adults, apostles of order, sunk in confusion. Perhaps it lay beyond her comprehension.",
           "hyperlinks": [],
           "japaneseHyperlinks": []
         },
@@ -66886,5 +66886,6 @@
         }
       ]
     }
-  }
+  },
+  "version": "1.1.10"
 }

@@ -154,7 +154,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　安永茂（２８）男／公務員\n　\n　感応\n　　　上流１．５\n　　　下流０．２\n　操作０\n　作用１",
-      "english": "Shigeru Yasunaga (28), male / civil servant  Sensitivity     Upstream 1.5     Downstream 0.2 Control 0 Effect 1",
+      "english": "Shigeru Yasunaga (28), male / civil servant\nSensitivity\n    Upstream 1.5\n    Downstream 0.2\nControl 0\nEffect 1",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -165,7 +165,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　林文夫（４２）男／自営業\n　\n　感応\n　　　上流１．９\n　　　下流１．１\n　操作０．１\n　作用１．２",
-      "english": "Fumio Hayashi (42), male / self-employed  Sensitivity     Upstream 1.9     Downstream 1.1 Control 0.1 Effect 1.2",
+      "english": "Fumio Hayashi (42), male / self-employed\nSensitivity\n    Upstream 1.9\n    Downstream 1.1\nControl 0.1\nEffect 1.2",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
@@ -396,7 +396,7 @@
       "speakerJa": "",
       "speakerEn": "",
       "japanese": "　本堂鏡子（３１）女／無職\n　\n　感応\n　　　上流０．１\n　　　下流０．１\n　操作０．５\n　作用３４",
-      "english": "Kyouko Hondou (31), female / unemployed  Sensitivity     Upstream 0.1     Downstream 0.1 Control 0.5 Effect 34",
+      "english": "Kyouko Hondou (31), female / unemployed\nSensitivity\n    Upstream 0.1\n    Downstream 0.1\nControl 0.5\nEffect 34",
       "hyperlinks": [],
       "japaneseHyperlinks": []
     },
