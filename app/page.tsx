@@ -47,7 +47,7 @@ export default function Home() {
               accuracy, character voice, and natural literary English.
             </p>
             <div className="hero-actions">
-              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.10/saihate-no-ima-v1.1.10.zip">
+              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.11/saihate-no-ima-v1.1.11.zip">
                 Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
@@ -57,8 +57,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              40.3 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.10">Release notes</a>
-              {" · Patch version v1.1.10 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
+              20.3 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.11">Release notes</a>
+              {" · Patch version v1.1.11 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
             </p>
           </div>
 
@@ -70,7 +70,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>v1.1.10</strong>
+            <strong>v1.1.11</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>
@@ -129,7 +129,7 @@ export default function Home() {
               <span>02</span>
               <div>
                 <h3>Apply the English patch</h3>
-                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.9? Close the game and run Update-v1.1.9.cmd. Other older patches must first be restored with their matching package, or updated sequentially to v1.1.9 with its matching updater. Follow the bundled README for details. To fix previously subtitled movies, restore them with the old movie package, then render and install them again with this release as described in movies/README.md.</p>
+                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.10? Close the game and run Update-v1.1.10.cmd. Other older patches must first be restored with their matching package, or updated sequentially to v1.1.10 with its matching updaters. Follow the bundled README for details. Optional movie subtitles and rendering instructions are included in movies/README.md. The reported movie playback problem remains under investigation.</p>
               </div>
             </li>
             <li>

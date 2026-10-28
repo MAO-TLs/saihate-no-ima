@@ -17,6 +17,6 @@ test('v1.1.9 JSON URLs bypass the earlier release browser cache',()=>{
  for(const file of ['index.json','0008.json','0092.json','concordance.json','hyperlink-entries.json']) {
   const url=new URL(scriptDataHref(file),'https://mao-tls.github.io/saihate-no-ima/script/');
   assert.equal(url.pathname,`/saihate-no-ima/script-data/${file}`);
-  assert.equal(url.searchParams.get('rev'),'v1.1.10-20261028-05eb779d7d9e');
+  assert.equal(url.searchParams.get('rev'),'v1.1.11-20261029-17020565d812');
  }
 });

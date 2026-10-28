@@ -1,3 +1,51 @@
+# v1.1.11 — Linked-list, chapter and gallery corrections
+
+This is the complete English patch for the original Japanese COMPLETE edition.
+It includes the previous translation, interface, font and optional subtitle
+assets, together with the following corrections:
+
+- Restore the eight-row rank list and relocate every link in multi-link text
+  records, preserving their original destinations.
+- Remove a stale executable relocation from the chapter-history confirmation
+  call, fixing the reproduced crash when the executable is loaded elsewhere.
+- Display gallery captions while their voice is pending or playing, then clear
+  the caption panel when playback stops.
+
+**Fresh installation:** close the game, extract this package, and run
+**Install.cmd** on an unmodified Japanese COMPLETE installation. No earlier
+English patch is required. **Verify.cmd** checks the installed game targets;
+**Restore.cmd** restores the original Japanese files. Python 3.10+ is required.
+
+**Updating v1.1.10:** run **Update-v1.1.10.cmd** instead. It verifies the full
+installation and backs up the seven changed targets. **Undo-v1.1.11-update.cmd**
+restores v1.1.10. Keep all previous packages and backups. For earlier English
+versions, restore using their matching packages before the fresh installation,
+or update sequentially to v1.1.10 and then use this updater.
+
+Saves, settings and movies are preserved. Optional movie subtitle assets and
+rendering tools are included; follow **movies/README.md**. No original game,
+video or audio is included. Previously installed subtitles are unchanged.
+
+Validation: all eight rank links were opened and returned correctly in
+macOS/Wine; the final rank data matches that checked sample. The final gallery
+executable showed and automatically cleared a sampled caption. The actual
+chapter confirmation call passed relocation tests at four load addresses;
+title-menu chapter entry also succeeded in macOS/Wine. Thirty-two regression
+checks passed. The full package is verified against all 176 game targets and
+tested for fresh installation, restoration, updating and update rollback.
+
+Native Windows validation, in-story chapter-confirmation interaction, broader
+native replay of other linked lists and the reported movie hang/scrolling
+problem remain outstanding. This release does not claim those checks passed
+or that issue #29 is fully resolved.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font
+License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+SHA-256: `17020565d812ecb655e9cec147d73d6a70571948cf9892947790925551dbb9e9`
+
+---
+
 # v1.1.10 — Issue #29 fixes
 
 

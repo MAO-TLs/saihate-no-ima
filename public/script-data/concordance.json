@@ -1,6 +1,6 @@
 {
   "schema": "saihate-public-concordance/1",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "totalLines": 46618,
   "fields": [
     "ref",
@@ -662722,7 +662722,7 @@
               "",
               "",
               "　\n　クラスＳ\n　クラスＡ＋\n　クラスＡ\n　クラスＢ\n　クラスＣ＋\n　クラスＣ\n　クラスＤ＋\n　クラスＤ",
-              "Class S Class A+ Class A Class B Class C+ Class C Class D+ Class D",
+              "Class S\nClass A+\nClass A\nClass B\nClass C+\nClass C\nClass D+\nClass D",
               "",
               [],
               "",
