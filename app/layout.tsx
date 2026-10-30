@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import "./wordmark.css";
 import { SITE_BASE_PATH } from "../site-target.mjs";
 import "./globals.css";
 import "./theme.css";
