@@ -47,7 +47,7 @@ export default function Home() {
               accuracy, character voice, and natural literary English.
             </p>
             <div className="hero-actions">
-              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.11/saihate-no-ima-v1.1.11.zip">
+              <a className="button button-primary" href="https://github.com/MAO-TLs/saihate-no-ima/releases/download/v1.1.12/saihate-no-ima-v1.1.12.zip">
                 Download complete release
                 <span aria-hidden="true">↓</span>
               </a>
@@ -57,8 +57,8 @@ export default function Home() {
               </a>
             </div>
             <p className="compatibility">
-              20.3 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.11">Release notes</a>
-              {" · Patch version v1.1.11 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
+              20.3 MB · <a href="https://github.com/MAO-TLs/saihate-no-ima/releases/tag/v1.1.12">Release notes</a>
+              {" · Patch version v1.1.12 · Windows + Wine · Japanese COMPLETE edition required · "}<a href="#install">Installation instructions</a>
             </p>
           </div>
 
@@ -70,7 +70,7 @@ export default function Home() {
         <div className="shell release-grid">
           <div>
             <span className="release-label">Version</span>
-            <strong>v1.1.11</strong>
+            <strong>v1.1.12</strong>
           </div>
           <div>
             <span className="release-label">Script coverage</span>
@@ -129,7 +129,8 @@ export default function Home() {
               <span>02</span>
               <div>
                 <h3>Apply the English patch</h3>
-                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.10? Close the game and run Update-v1.1.10.cmd. Other older patches must first be restored with their matching package, or updated sequentially to v1.1.10 with its matching updaters. Follow the bundled README for details. Optional movie subtitles and rendering instructions are included in movies/README.md. The reported movie playback problem remains under investigation.</p>
+                <p>Download and extract the patch. For a fresh installation, run Install.cmd. Already on v1.1.11? The game-data patch is unchanged; use the movie repair instructions in movies/README.md if you installed English movie subtitles. On v1.1.10, run Update-v1.1.10.cmd for the game-data corrections. Older patches must first be restored with their matching package, or updated sequentially with the matching updaters. Keep your backups and follow the bundled README.</p>
+                <p>v1.1.12 repairs the reported subtitled movie-end hang without re-encoding, and corrects future renders automatically. Native Windows success was reported by the contributor and original reporter; the scrolling-text twitch is separate and is not claimed fixed.</p>
               </div>
             </li>
             <li>
@@ -164,6 +165,10 @@ export default function Home() {
           <div>
             <dt>Special Thanks</dt>
             <dd>gambs</dd>
+          </div>
+          <div>
+            <dt>Movie Playback Fix</dt>
+            <dd><a href="https://github.com/MAO-TLs/saihate-no-ima/pull/34">desidia-cyber</a></dd>
           </div>
         </dl>
       </section>

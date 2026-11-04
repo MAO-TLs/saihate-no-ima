@@ -1,3 +1,53 @@
+# v1.1.12 — Subtitled movie-end repair
+
+Includes the complete English patch for the original Japanese COMPLETE edition.
+The translation, interface, executable and game-data patch are unchanged from
+v1.1.11. This update changes the optional movie tools only.
+
+- Repair the MPEG-1 VBV buffer header responsible for the reported Windows
+  movie-end hang, without re-encoding picture, audio or subtitles.
+- Apply the same correction automatically to all newly rendered movies.
+- Recognize already-repaired movies in Verify/Restore while continuing to
+  reject any other changes. Original backups and local receipts are retained.
+
+Thanks to **desidia-cyber** for diagnosing the problem, developing the
+PES-spanning header repair, and testing all three movies on native Windows:
+https://github.com/MAO-TLs/saihate-no-ima/pull/34
+
+**Already on v1.1.11?** Do not reinstall the game-data patch. Close the game and
+follow the **Repair existing installed subtitles** section of movies/README.md,
+using the existing render receipt and matching subtitle bundle. No new render
+or FFmpeg installation is needed for the repair. If you use the original
+Japanese movies, no movie repair is needed.
+
+**Fresh installation:** extract the package and run Install.cmd on an unmodified
+Japanese COMPLETE installation. Python 3.10+ is required. Verify.cmd checks the
+game-data patch; Restore.cmd restores its original Japanese files. Optional
+English movie subtitles are installed separately; see movies/README.md.
+
+**Updating v1.1.10:** use Update-v1.1.10.cmd, which installs the unchanged v1.1.11
+game-data corrections. Undo-v1.1.11-update.cmd restores that prior core version.
+Keep previous packages and backups. For older versions, restore with their
+matching package before a fresh install, or use the sequential updaters.
+
+The core manifest deliberately remains v1.1.11 so existing installation backups
+remain usable with this package. Saves, settings and translation text are not
+changed. No original game, video or audio is distributed.
+
+Validation: the contributor reports successful native Windows playback of all
+three repaired movies and confirmation in the game. MAO independently checked
+all 1,871 sequence headers in its three rendered movies, header-only changes,
+idempotence, installer rollback and restore behavior, plus the complete package.
+MAO has not independently repeated the native Windows playback test. The
+scrolling-text twitch and other outstanding native checks are not claimed fixed.
+
+The embedded symbol font is derived from Noto Sans JP under the SIL Open Font
+License 1.1; see SYMBOL-FONT-LICENSE.txt.
+
+SHA-256: `fadbbc9a68415e5a0755425bf47c83d4a55b0ec740785817135dcc12d623c3ee`
+
+---
+
 # v1.1.11 — Linked-list, chapter and gallery corrections
 
 This is the complete English patch for the original Japanese COMPLETE edition.
